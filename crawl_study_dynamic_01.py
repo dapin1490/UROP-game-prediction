@@ -32,4 +32,7 @@ time.sleep(2)  # 번역 결과 기다림
 result = driver.find_element(By.CSS_SELECTOR, "div#txtTarget")  # 번역 결과 텍스트 블록
 print(question, "->", result.text)
 
+form.clear()  # 요소의 내용 초기화
+time.sleep(3)
+
 driver.close()  # 웹페이지 끄기
