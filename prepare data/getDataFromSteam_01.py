@@ -1,3 +1,4 @@
+from urllib.parse import ParseResultBytes
 from numpy import datetime_data
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -8,6 +9,8 @@ from selenium.common.exceptions import NoSuchElementException
 import time
 import pandas as pd
 from datetime import datetime
+
+# steam web api doc : https://steamapi.xpaw.me/#IStoreService/GetAppList
 
 def strDate_to_intDate(text):  # 영어 약어로 쓰인 month를 숫자로 반환
     if text == "Jan": return 1
@@ -24,6 +27,26 @@ def strDate_to_intDate(text):  # 영어 약어로 쓰인 month를 숫자로 반�
     elif text == "Dec": return 12
 
 
+def trans_number(r):
+    if r.find("T") >= 0 or r.find("t") >= 0:
+        r.replace(" T", "")
+        r.replace(" t", "")
+        r = float(r) * 1_000_000_000_000
+    elif r.find("B") >= 0 or r.find("b") >= 0:
+        r.replace(" B", "")
+        r.replace(" b", "")
+        r = float(r) * 1_000_000_000
+    elif r.find("M") >= 0 or r.find("m") >= 0:
+        r.replace(" M", "")
+        r.replace(" m", "")
+        r = float(r) * 1_000_000
+    elif r.find("K") >= 0 or r.find("k") >= 0:
+        r.replace(" K", "")
+        r.replace(" k", "")
+        r = float(r) * 1_000
+    return r
+
+
 # 게임 아이디 csv 불러오기
 gameID = pd.read_csv("../UROP-game-prediction/prepare data/gameID.csv")
 gameDates = []  # 출시 일자
@@ -37,6 +60,14 @@ tag = []  # 태그
 langs = []  # 지원 언어 수
 stAward = []  # 스팀 어워드 수상 여부
 dlcs = []  # DLC 유무
+last30dayPositive = []  # 최근 평가 긍정성
+allPositive = []  # 모든 평가 긍정성
+sing_or_mul = []  # 싱글/멀티 여부
+posi_rev = []  # 추천 리뷰 수
+nega_rev = []  # 비추천 리뷰 수
+recent_player = []  # 최근 30일 동시 플레이어 수
+peek_player = []  # 최다 동시 플레이어 수
+most_achiv_rate = []
 
 chrome_driver = ChromeDriverManager().install()
 service = Service(chrome_driver)
@@ -45,8 +76,9 @@ driver = webdriver.Chrome(service=service)
 steamURL = "https://store.steampowered.com/"  # 기본 링크
 
 for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
+    # steam 크롤링
     gameURL = steamURL + "app/" + str(gameID["appid"][i])  # 게임 아이디로 상점 페이지 링크 생성
-    print("i :", i, ", lasts :", 10000 - i)
+    print("i :", i, ", lasts :", 1000 - i)
     print("ID :", gameID["appid"][i])
 
     driver.get(gameURL)
@@ -67,6 +99,13 @@ for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
         langs.append(None)
         stAward.append(None)
         dlcs.append(None)
+        last30dayPositive.append(None)
+        allPositive.append(None)
+        sing_or_mul.append(None)
+        posi_rev.append(None)
+        nega_rev.append(None)
+        recent_player.append(None)
+        peek_player.append(None)
         continue
     except NoSuchElementException:
         pass
@@ -132,33 +171,7 @@ for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
             print("price :", res)
         except NoSuchElementException:
             prices.append(None)
-            print("price : NULL")
-    
-    # 개발자 정보 수집
-    # 리스트 devs
-    try:  # 개발자가 여러 명 - 그 중 첫번째만 수집 : #developers_list > a:nth-child(1)
-        res = driver.find_element(By.CSS_SELECTOR, "#developers_list > a:nth-child(1)").text.strip()
-    except NoSuchElementException:  # 개발자 한 명 : #developers_list > a
-        try:
-            res = driver.find_element(By.CSS_SELECTOR, "#developers_list > a").text.strip()
-        except NoSuchElementException:  # 이게 왜 없어..?
-            res = None
-    devs.append(res)
-    print("developer :", res)
-    
-    # 배급사 정보 수집
-    # 리스트 pubs
-    try:  # 여러 명 중 첫 번째
-        st = "#game_highlights > div.rightcol > div > div.glance_ctn_responsive_left > div:nth-child(4) > div.summary.column > a:nth-child(1)"
-        res = driver.find_element(By.CSS_SELECTOR, st).text.strip()
-    except NoSuchElementException:  # 한 명만
-        try:
-            st = "#game_highlights > div.rightcol > div > div.glance_ctn_responsive_left > div:nth-child(4) > div.summary.column > a"
-            res = driver.find_element(By.CSS_SELECTOR, st).text.strip()
-        except NoSuchElementException:  # 배급사 없음
-            res = None
-    pubs.append(res)
-    print("publisher :", res)
+            print("price :", None)
 
     # 장르
     # 리스트 genre
@@ -250,24 +263,243 @@ for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
     dlcs.append(res)
     print("DLC :", res)
 
+    # 최근 평가 긍정성
+    # 리스트 last30dayPositive
+    st = "#userReviews > div:nth-child(1) > div.summary.column > span.game_review_summary.positive"
+    try:
+        res = driver.find_element(By.CSS_SELECTOR, st).text.strip()
+    except NoSuchElementException:
+        res = None
+    last30dayPositive.append(res)
+    print("recent posi :", res)
+
+    # 모든 평가 긍정성
+    # 리스트 allPositive
+    st = "#userReviews > div:nth-child(2) > div.summary.column > span.game_review_summary.positive"
+    try:
+        res = driver.find_element(By.CSS_SELECTOR, st).text.strip()
+    except NoSuchElementException:
+        res = None
+    allPositive.append(res)
+    print("all posi :", res)
+
+    # 싱글/멀티 여부
+    # 리스트 sing_or_mul
+    sg = False
+    mt = False
+    st = "#category_block > div"
+    try:
+        res = driver.find_element(By.CSS_SELECTOR, st).text.strip()
+        if res.find("Single-player") >= 0:
+            sg = True
+        if res.find("Co-op") >= 0:
+            mt = True
+    except NoSuchElementException:
+        break
+    
+    if sg and mt:
+        res = "single and multi"
+    elif not sg and mt:
+        res = "multi only"
+    elif sg and not mt:
+        res = "single only"
+    else:
+        res = None
+    sing_or_mul.append(res)
+    print("is multi :", res)
+
+    # 추천/비추천 리뷰 수
+    # 리스트 posi_rev
+    st = "#reviews_filter_options > div:nth-child(1) > div.user_reviews_filter_menu_flyout > div > label:nth-child(5) > span"
+    try:
+        res = driver.find_element(By.CSS_SELECTOR, st).get_attribute('innerText').strip()
+        res = res.replace(",", "")
+        res = res.strip("(" ")")
+        res = int(res)
+    except NoSuchElementException:
+        res = None
+    posi_rev.append(res)
+    print("posi review :", res)
+    
+    # 비추천 리뷰 수
+    # 리스트 nega_rev
+    st = "#reviews_filter_options > div:nth-child(1) > div.user_reviews_filter_menu_flyout > div > label:nth-child(8) > span"
+    try:
+        res = driver.find_element(By.CSS_SELECTOR, st).get_attribute('innerText').strip()
+        res = res.replace(",", "")
+        res = res.strip("(" ")")
+        res = int(res)
+    except NoSuchElementException:
+        res = None
+    nega_rev.append(res)
+    print("nega review :", res)
+
+    # 개발자 정보 수집
+    # 리스트 devs
+    # 팔로워 10만 이상 : 1
+    # 팔로워 1만 이상 : 2
+    # 팔로워 5천 이상 : 3
+    # 팔로워 1천 이상 : 4
+    # 팔로워 1천 미만 : 5
+    # 확인할 수 없음 : 6
+    try:  # 개발자가 여러 명 - 그 중 첫번째만 수집 : #developers_list > a:nth-child(1)
+        res_button = driver.find_element(By.CSS_SELECTOR, "#developers_list > a:nth-child(1)")
+        res_button.click()
+        res = driver.find_element(By.CSS_SELECTOR, "div.num_followers").text.strip()
+        res = res.replace(",", "")
+        res = int(res)
+    except NoSuchElementException:  # 개발자 한 명 : #developers_list > a
+        try:
+            res_button = driver.find_element(By.CSS_SELECTOR, "#developers_list > a")
+            res_button.click()
+            res = driver.find_element(By.CSS_SELECTOR, "div.num_followers").text.strip()
+            res = res.replace(",", "")
+            res = int(res)
+        except NoSuchElementException:  # 팔로워를 확인할 수 없는 경우
+            res = None
+    
+    if res != None:
+        if res >= 100000:
+            res = 1
+        elif res >= 10000:
+            res = 2
+        elif res >= 5000:
+            res = 3
+        elif res >= 1000:
+            res = 4
+        else:
+            res = 5
+    else:
+        res = 6
+    devs.append(res)
+    print("developer tier :", res)
+
+    driver.get(gameURL)
+    time.sleep(1)  # 페이지 로딩 대기 시간 1초
+
+    # 성인 게임, 생년월일 입력 여부 판단
+    # 참고 : https://codediary21.tistory.com/27
+    # 참고 : https://ddang-goguma.tistory.com/35
+    # /html/body/div[1]/div[7]/div[5]/div/div[2]/div/div[1]/div[3]/div/a[1]
+    try:
+        driver.find_element(By.CLASS_NAME, "agegate_birthday_selector")
+        select = Select(driver.find_element(By.ID, "ageYear"))
+        select.select_by_visible_text("1999")
+        driver.find_element(By.XPATH, '/html/body/div[1]/div[7]/div[5]/div/div[2]/div/div[1]/div[3]/div/a[1]').click()
+        time.sleep(1)  # 페이지 로딩 대기 시간 1초
+    except NoSuchElementException:
+        pass
+    
+    # 배급사 정보 수집
+    # 리스트 pubs
+    # 팔로워 50만 이상 : 1
+    # 팔로워 10만 이상 : 2
+    # 팔로워 5만 이상 : 3
+    # 팔로워 5천 이상 : 4
+    # 팔로워 1천 미만 : 5
+    # 확인할 수 없음 : 6
+    try:  # 여러 명 중 첫 번째
+        st = "#game_highlights > div.rightcol > div > div.glance_ctn_responsive_left > div:nth-child(4) > div.summary.column > a:nth-child(1)"
+        res_button = driver.find_element(By.CSS_SELECTOR, st)
+        res_button.click()
+        res = driver.find_element(By.CSS_SELECTOR, "div.num_followers").text.strip()
+        res = res.replace(",", "")
+        res = int(res)
+    except NoSuchElementException:  # 한 명만
+        try:
+            st = "#game_highlights > div.rightcol > div > div.glance_ctn_responsive_left > div:nth-child(4) > div.summary.column > a"
+            res_button = driver.find_element(By.CSS_SELECTOR, st)
+            res_button.click()
+            res = driver.find_element(By.CSS_SELECTOR, "div.num_followers").text.strip()
+            res = res.replace(",", "")
+            res = int(res)
+        except NoSuchElementException:  # 배급사 없음
+            res = None
+    
+    if res != None:
+        if res >= 100000:
+            res = 1
+        elif res >= 10000:
+            res = 2
+        elif res >= 5000:
+            res = 3
+        elif res >= 1000:
+            res = 4
+        else:
+            res = 5
+    else:
+        res = 6
+    pubs.append(res)
+    print("publisher tier :", res)
+
+    # steam에서 더 수집할 데이터
+    # 전체 플레이어 평균 도전과제 달성률
+    # 스팀 게임 리뷰 데이터
+
+    # steamcharts 크롤링
+    steamchartsURL = "https://steamcharts.com/app/" + str(gameID["appid"][i])
+    driver.get(steamchartsURL)
+    time.sleep(1)  # 페이지 로딩 대기 시간 1초
+
+    # 최근 30일 동시 플레이어 수
+    # 리스트 recent_player
+    st = "#content-wrapper > div:nth-child(7) > table > tbody > tr:nth-child(1) > td.right.num-f.italic"
+    try:
+        res = driver.find_element(By.CSS_SELECTOR, st).text.strip()
+        res = res.replace(",", "")
+        res = float(res)
+    except NoSuchElementException:
+        res = None
+    recent_player.append(res)
+    print("recent player :", res)
+    
+    # 최다 동시 플레이어 수
+    # 리스트 peek_player
+    st = "#app-heading > div:nth-child(4) > span"
+    try:
+        res = driver.find_element(By.CSS_SELECTOR, st).text.strip()
+        res = res.replace(",", "")
+        res = int(res)
+    except NoSuchElementException:
+        res = None
+    peek_player.append(res)
+    print("peek player :", res)
+
     print()  # 그냥 줄내림
+    if i >= 3:
+        break
 # end of for
 
 GDate = pd.DataFrame({
     "releaseDate": gameDates,
     "price": prices,
-    "developer": devs,
-    "publisher": pubs,
+    "developer tier": devs,
+    "publisher tier": pubs,
     "genre": genre,
     "early access": eacc,
     "achievement": achiev,
     "tag": tag,
     "languages":langs,
     "steam award": stAward,
-    "DLC": dlcs
+    "DLC": dlcs,
+    "recent positive": last30dayPositive,
+    "all positive": allPositive,
+    "single or multi": sing_or_mul,
+    "positive review": posi_rev,
+    "negative review": nega_rev,
+    "recent player": recent_player,
+    "peek player": peek_player
 })
 
 print(GDate.info())
 
-games = pd.concat([gameID, GDate], ignore_index=True, axis=1)
-games.to_csv("../UROP-game-prediction/prepare data/games.csv")
+games = pd.concat([gameID, GDate], axis=1)
+games = games.reset_index(drop=True)
+print(games.info())
+print(games.head())
+
+games.drop('Unnamed: 0', axis=1, inplace=True)
+print(games.info())
+print(games.head())
+
+# games.to_csv("../UROP-game-prediction/prepare data/games.csv")
