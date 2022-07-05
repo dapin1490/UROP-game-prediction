@@ -245,7 +245,7 @@ for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
     except NoSuchElementException:  # 못찾으면 결측값
         res = None
     langs.append(res)
-    # print("languages :", res)
+    print("languages :", res)
 
     # 스팀 어워드 수상 여부
     # 리스트 stAward
