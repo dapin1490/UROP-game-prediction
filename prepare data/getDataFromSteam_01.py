@@ -1,11 +1,10 @@
-from urllib.parse import ParseResultBytes
-from numpy import datetime_data
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
 from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.chrome.options import Options
 import time
 import pandas as pd
 from datetime import datetime
@@ -67,22 +66,29 @@ posi_rev = []  # 추천 리뷰 수
 nega_rev = []  # 비추천 리뷰 수
 recent_player = []  # 최근 30일 동시 플레이어 수
 peek_player = []  # 최다 동시 플레이어 수
-most_achiv_rate = []
+most_achiv_rate = []  # 도전과제 달성 최대 비율
 
-chrome_driver = ChromeDriverManager().install()
-service = Service(chrome_driver)
-driver = webdriver.Chrome(service=service)
+# chrome_driver = ChromeDriverManager().install()
+# service = Service(chrome_driver)
+
+# reference : https://stackoverflow.com/questions/72758996/selenium-seleniumwire-unknown-error-cannot-determine-loading-status-from-unkn
+# also reference : https://stackoverflow.com/questions/46920243/how-to-configure-chromedriver-to-initiate-chrome-browser-in-headless-mode-throug
+CHROMEDRIVER_PATH = r"C:\Users\dpgbu\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe"
+options = Options()
+options.headless = True
+driver = webdriver.Chrome(CHROMEDRIVER_PATH, options=options)
+driver.implicitly_wait(1)
 
 steamURL = "https://store.steampowered.com/"  # 기본 링크
 
 for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
     # steam 크롤링
-    gameURL = steamURL + "app/" + str(gameID["appid"][i])  # 게임 아이디로 상점 페이지 링크 생성
+    gameURL = steamURL + "app/" + str(gameID["appid"][i]) + "/"  # 게임 아이디로 상점 페이지 링크 생성
     print("i :", i, ", lasts :", 1000 - i)
     print("ID :", gameID["appid"][i])
 
     driver.get(gameURL)
-    time.sleep(1)  # 페이지 로딩 대기 시간 1초
+    # time.sleep(1)  # 페이지 로딩 대기 시간 1초
 
     # 국가 제한 게임 여부 확인
     try:
@@ -106,6 +112,7 @@ for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
         nega_rev.append(None)
         recent_player.append(None)
         peek_player.append(None)
+        most_achiv_rate.append(None)
         continue
     except NoSuchElementException:
         pass
@@ -118,8 +125,10 @@ for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
         driver.find_element(By.CLASS_NAME, "agegate_birthday_selector")
         select = Select(driver.find_element(By.ID, "ageYear"))
         select.select_by_visible_text("1999")
-        driver.find_element(By.XPATH, '/html/body/div[1]/div[7]/div[5]/div/div[2]/div/div[1]/div[3]/div/a[1]').click()
-        time.sleep(1)  # 페이지 로딩 대기 시간 1초
+        st = "#view_product_page_btn"
+        xpath = "/html/body/div[1]/div[7]/div[5]/div/div[2]/div/div[1]/div[4]/div/a[1]"
+        driver.find_element(By.CSS_SELECTOR, st).click()
+        # time.sleep(2)  # 페이지 로딩 대기 시간 1초
     except NoSuchElementException:
         pass
 
@@ -308,7 +317,7 @@ for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
     sing_or_mul.append(res)
     print("is multi :", res)
 
-    # 추천/비추천 리뷰 수
+    # 추천 리뷰 수
     # 리스트 posi_rev
     st = "#reviews_filter_options > div:nth-child(1) > div.user_reviews_filter_menu_flyout > div > label:nth-child(5) > span"
     try:
@@ -375,7 +384,7 @@ for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
     print("developer tier :", res)
 
     driver.get(gameURL)
-    time.sleep(1)  # 페이지 로딩 대기 시간 1초
+    # time.sleep(3)  # 페이지 로딩 대기 시간 1초
 
     # 성인 게임, 생년월일 입력 여부 판단
     # 참고 : https://codediary21.tistory.com/27
@@ -385,8 +394,10 @@ for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
         driver.find_element(By.CLASS_NAME, "agegate_birthday_selector")
         select = Select(driver.find_element(By.ID, "ageYear"))
         select.select_by_visible_text("1999")
-        driver.find_element(By.XPATH, '/html/body/div[1]/div[7]/div[5]/div/div[2]/div/div[1]/div[3]/div/a[1]').click()
-        time.sleep(1)  # 페이지 로딩 대기 시간 1초
+        st = "#view_product_page_btn"
+        xpath = "/html/body/div[1]/div[7]/div[5]/div/div[2]/div/div[1]/div[4]/div/a[1]"
+        driver.find_element(By.CSS_SELECTOR, st).click()
+        # time.sleep(2)  # 페이지 로딩 대기 시간 1초
     except NoSuchElementException:
         pass
     
@@ -432,6 +443,39 @@ for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
     pubs.append(res)
     print("publisher tier :", res)
 
+    driver.get(gameURL)
+    # time.sleep(1)  # 페이지 로딩 대기 시간 1초
+
+    # 성인 게임, 생년월일 입력 여부 판단
+    # 참고 : https://codediary21.tistory.com/27
+    # 참고 : https://ddang-goguma.tistory.com/35
+    # /html/body/div[1]/div[7]/div[5]/div/div[2]/div/div[1]/div[3]/div/a[1]
+    try:
+        driver.find_element(By.CLASS_NAME, "agegate_birthday_selector")
+        select = Select(driver.find_element(By.ID, "ageYear"))
+        select.select_by_visible_text("1999")
+        st = "#view_product_page_btn"
+        xpath = "/html/body/div[1]/div[7]/div[5]/div/div[2]/div/div[1]/div[4]/div/a[1]"
+        driver.find_element(By.CSS_SELECTOR, st).click()
+        # time.sleep(2)  # 페이지 로딩 대기 시간 1초
+    except NoSuchElementException:
+        pass
+
+    # 도전과제 달성 최대 비율
+    # 리스트 most_achiv_rate
+    st = "#achievement_block > div.communitylink_achievement_images > a"
+    try:
+        res_button = driver.find_element(By.CSS_SELECTOR, st)
+        res_button.click()
+        st = "#mainContents > div:nth-child(4) > div.achieveTxtHolder > div.achievePercent"
+        res = driver.find_element(By.CSS_SELECTOR, st).text.strip()
+        res = res.replace("%", "")
+        res = float(res)
+    except NoSuchElementException:  # 없으면 없는거임
+        res = None
+    most_achiv_rate.append(res)
+    print("most achiv rate :", res)
+
     # steam에서 더 수집할 데이터
     # 전체 플레이어 평균 도전과제 달성률
     # 스팀 게임 리뷰 데이터
@@ -439,7 +483,7 @@ for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
     # steamcharts 크롤링
     steamchartsURL = "https://steamcharts.com/app/" + str(gameID["appid"][i])
     driver.get(steamchartsURL)
-    time.sleep(1)  # 페이지 로딩 대기 시간 1초
+    # time.sleep(5)  # 페이지 로딩 대기 시간 1초
 
     # 최근 30일 동시 플레이어 수
     # 리스트 recent_player
@@ -466,8 +510,44 @@ for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
     print("peek player :", res)
 
     print()  # 그냥 줄내림
-    if i >= 3:
-        break
+    # if i >= 3:
+    #     break
+
+    GDate = pd.DataFrame({
+        "releaseDate": gameDates,
+        "price": prices,
+        "developer tier": devs,
+        "publisher tier": pubs,
+        "genre": genre,
+        "early access": eacc,
+        "achievement": achiev,
+        "tag": tag,
+        "languages":langs,
+        "steam award": stAward,
+        "DLC": dlcs,
+        "recent positive": last30dayPositive,
+        "all positive": allPositive,
+        "single or multi": sing_or_mul,
+        "positive review": posi_rev,
+        "negative review": nega_rev,
+        "recent player": recent_player,
+        "peek player": peek_player,
+        "most achieved rate": most_achiv_rate
+    })
+
+    # print(GDate.info())
+
+    games = pd.concat([gameID, GDate], axis=1)
+    games = games.reset_index(drop=True)
+    # print(games.info())
+    # print(games.head())
+
+    games.drop('Unnamed: 0', axis=1, inplace=True)
+    # print(games.info())
+    # print(games.head())
+
+    games.to_csv("../UROP-game-prediction/prepare data/games.csv")
+    print("progress saved\n")
 # end of for
 
 GDate = pd.DataFrame({
@@ -488,7 +568,8 @@ GDate = pd.DataFrame({
     "positive review": posi_rev,
     "negative review": nega_rev,
     "recent player": recent_player,
-    "peek player": peek_player
+    "peek player": peek_player,
+    "most achieved rate": most_achiv_rate
 })
 
 print(GDate.info())
@@ -502,4 +583,4 @@ games.drop('Unnamed: 0', axis=1, inplace=True)
 print(games.info())
 print(games.head())
 
-# games.to_csv("../UROP-game-prediction/prepare data/games.csv")
+games.to_csv("../UROP-game-prediction/prepare data/games.csv")
