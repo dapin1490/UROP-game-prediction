@@ -87,7 +87,12 @@ for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
     print("i :", i, ", lasts :", 1000 - i)
     print("ID :", gameID["appid"][i])
 
-    driver.get(gameURL)
+    while True:
+        try:
+            driver.get(gameURL)
+            break
+        except:
+            continue
     # time.sleep(1)  # 페이지 로딩 대기 시간 1초
 
     # 국가 제한 게임 여부 확인
@@ -383,8 +388,12 @@ for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
     devs.append(res)
     print("developer tier :", res)
 
-    driver.get(gameURL)
-    # time.sleep(3)  # 페이지 로딩 대기 시간 1초
+    while True:
+        try:
+            driver.get(gameURL)
+            break
+        except:
+            continue
 
     # 성인 게임, 생년월일 입력 여부 판단
     # 참고 : https://codediary21.tistory.com/27
@@ -443,7 +452,12 @@ for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
     pubs.append(res)
     print("publisher tier :", res)
 
-    driver.get(gameURL)
+    while True:
+        try:
+            driver.get(gameURL)
+            break
+        except:
+            continue
     # time.sleep(1)  # 페이지 로딩 대기 시간 1초
 
     # 성인 게임, 생년월일 입력 여부 판단
@@ -482,7 +496,12 @@ for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
 
     # steamcharts 크롤링
     steamchartsURL = "https://steamcharts.com/app/" + str(gameID["appid"][i])
-    driver.get(steamchartsURL)
+    while True:
+        try:
+            driver.get(steamchartsURL)
+            break
+        except:
+            continue
     # time.sleep(5)  # 페이지 로딩 대기 시간 1초
 
     # 최근 30일 동시 플레이어 수
