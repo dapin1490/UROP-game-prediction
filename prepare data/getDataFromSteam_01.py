@@ -81,7 +81,7 @@ driver.implicitly_wait(1)
 
 steamURL = "https://store.steampowered.com/"  # 기본 링크
 
-for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
+for i in range(0, len(gameID["appid"])):  # 게임 아이디 수만큼 반복
     # steam 크롤링
     gameURL = steamURL + "app/" + str(gameID["appid"][i]) + "/"  # 게임 아이디로 상점 페이지 링크 생성
     print("i :", i, ", lasts :", 1000 - i)
@@ -277,16 +277,6 @@ for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
     dlcs.append(res)
     print("DLC :", res)
 
-    # 최근 평가 긍정성
-    # 리스트 last30dayPositive
-    st = "#userReviews > div:nth-child(1) > div.summary.column > span.game_review_summary.positive"
-    try:
-        res = driver.find_element(By.CSS_SELECTOR, st).text.strip()
-    except NoSuchElementException:
-        res = None
-    last30dayPositive.append(res)
-    print("recent posi :", res)
-
     # 모든 평가 긍정성
     # 리스트 allPositive
     st = "#userReviews > div:nth-child(2) > div.summary.column > span.game_review_summary.positive"
@@ -296,6 +286,16 @@ for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
         res = None
     allPositive.append(res)
     print("all posi :", res)
+
+    # 최근 평가 긍정성
+    # 리스트 last30dayPositive
+    st = "#userReviews > div:nth-child(1) > div.summary.column > span.game_review_summary.positive"
+    try:
+        res = driver.find_element(By.CSS_SELECTOR, st).text.strip()
+    except NoSuchElementException:
+        res = None
+    last30dayPositive.append(res)
+    print("recent posi :", res)
 
     # 싱글/멀티 여부
     # 리스트 sing_or_mul
@@ -477,6 +477,15 @@ for i in range(len(gameID["appid"])):  # 게임 아이디 수만큼 반복
 
     # 도전과제 달성 최대 비율
     # 리스트 most_achiv_rate
+    # 개발자 라이브가 켜져 있는 경우
+    try:
+        st = "div.broadcast_embeddable_bordered_container"
+        xpath = "/html/body/div[1]/div[7]/div[5]/div[1]/div[3]/div[1]/div[4]/div[1]/div[2]/div[1]/div/div[1]/div[1]/div[2]/div"
+        close_live = driver.find_element(By.XPATH, xpath)
+        close_live.click()
+    except NoSuchElementException:
+        pass
+
     st = "#achievement_block > div.communitylink_achievement_images > a"
     try:
         res_button = driver.find_element(By.CSS_SELECTOR, st)

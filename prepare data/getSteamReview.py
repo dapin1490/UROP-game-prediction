@@ -29,7 +29,7 @@ driver.implicitly_wait(1)
 steamURL = "https://steamcommunity.com/app/"  # 기본 링크
 reviewLink = "/reviews/?browsefilter=toprated&snr=1_5_100010_&filterLanguage=koreana"
 
-for i in range(len(games["appid"])):  # 게임 아이디 수만큼 반복
+for i in range(0, len(games["appid"])):  # 게임 아이디 수만큼 반복
     # steam 크롤링
     revwURL = steamURL + str(games["appid"][i]) + reviewLink  # 게임 아이디로 상점 페이지 링크 생성
     print("i :", i, ", lasts :", 1000 - i)
@@ -76,6 +76,7 @@ for i in range(len(games["appid"])):  # 게임 아이디 수만큼 반복
         res = None
     revw.append(res)
     print(res)
+    res = None
 
     print()  # 그냥 줄내림
     # if i >= 3:
@@ -99,7 +100,7 @@ for i in range(len(games["appid"])):  # 게임 아이디 수만큼 반복
     gameWRevw.to_csv("../UROP-game-prediction/prepare data/gameWReview.csv")
     print("progress saved\n")
 
-    if i >= 516:
+    if i >= 515:
         break
 # end of for
 
