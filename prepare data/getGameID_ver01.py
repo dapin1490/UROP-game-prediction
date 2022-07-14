@@ -3,7 +3,7 @@ import json
 import pandas as pd
 
 apiLink = "https://api.steampowered.com/IStoreService/GetAppList/v1/?key=372EACF35E336EF628507668AC608CEC&include_games=true&include_dlc=false&include_software=false&include_videos=false&include_hardware=false"
-more_apiLink = apiLink + "&last_appid=" + str(116120)
+more_apiLink = apiLink + "&last_appid=" + str(599960)
 response = requests.get(more_apiLink)
 api_response = json.loads(response.text)  # api로 json 받아서 파싱하기
 # &last_appid=0000
