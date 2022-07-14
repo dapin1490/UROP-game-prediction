@@ -32,7 +32,7 @@ gameID = pd.read_csv("../UROP-game-prediction/prepare data/data/gameIDver02.csv"
 
 thresh_cnt = int(len(games02.columns) * 0.8)
 games02 = games02.dropna(thresh=thresh_cnt)
-print(games02.info())
+# print(games02.info())
 
 chrome_driver = ChromeDriverManager().install()
 service = Service(chrome_driver)
@@ -564,8 +564,8 @@ for i in range(694, total_num_of_games):  # 게임 아이디 수만큼 반복
     except:
         pass
 
-    print(games02.info())
-    print(games02.tail().transpose())
+    # print(games02.info())
+    # print(games02.tail().transpose())
 
     games02.to_csv("../UROP-game-prediction/prepare data/data/games_02.csv")
 
