@@ -49,10 +49,10 @@ steamURL = "https://store.steampowered.com/"  # 기본 링크
 
 total_num_of_games = len(gameID["appid"])
 
-for i in range(694, total_num_of_games):  # 게임 아이디 수만큼 반복
+for i in range(838, total_num_of_games):  # 게임 아이디 수만큼 반복
     # steam 크롤링
     gameURL = steamURL + "app/" + str(gameID["appid"][i]) + "/"  # 게임 아이디로 상점 페이지 링크 생성
-    print("i :", i, ", lasts :", total_num_of_games - i)
+    print(f"i : {i}, lasts : {total_num_of_games - i}")
     print("ID :", gameID["appid"][i])
 
     driver.get(gameURL)
