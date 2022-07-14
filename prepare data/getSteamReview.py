@@ -12,7 +12,7 @@ from datetime import datetime
 # steam web api doc : https://steamapi.xpaw.me/#IStoreService/GetAppList
 
 # 게임 아이디 csv 불러오기
-games = pd.read_csv("../UROP-game-prediction/prepare data/games.csv")
+games = pd.read_csv("../UROP-game-prediction/prepare data/data/games.csv")
 revw = []
 
 # chrome_driver = ChromeDriverManager().install()
@@ -97,7 +97,7 @@ for i in range(0, len(games["appid"])):  # 게임 아이디 수만큼 반복
     # print(gameWRevw.info())
     # print(gameWRevw.head())
 
-    gameWRevw.to_csv("../UROP-game-prediction/prepare data/gameWReview.csv")
+    gameWRevw.to_csv("../UROP-game-prediction/prepare data/data/gameWReview.csv")
     print("progress saved\n")
 
     if i >= 515:
@@ -119,5 +119,5 @@ gameWRevw.drop('Unnamed: 0', axis=1, inplace=True)
 # print(gameWRevw.info())
 # print(gameWRevw.head())
 
-gameWRevw.to_csv("../UROP-game-prediction/prepare data/gameWReview.csv")
+gameWRevw.to_csv("../UROP-game-prediction/prepare data/data/gameWReview.csv")
 # print("progress saved\n")

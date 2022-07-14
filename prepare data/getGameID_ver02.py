@@ -27,7 +27,7 @@ gameIds = pd.DataFrame({"appid": ids})
 print(gameIds.info())
 
 # 완성한 데이터프레임을 csv 파일로 저장
-gameIds.to_csv("../UROP-game-prediction/prepare data/gameID.csv")
+gameIds.to_csv("../UROP-game-prediction/prepare data/data/gameID.csv")
 
 # print(len(watchat_dict))
 # print(len(watchat_dict["response"]))

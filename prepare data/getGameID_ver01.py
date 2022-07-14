@@ -3,7 +3,7 @@ import json
 import pandas as pd
 
 apiLink = "https://api.steampowered.com/IStoreService/GetAppList/v1/?key=372EACF35E336EF628507668AC608CEC&include_games=true&include_dlc=false&include_software=false&include_videos=false&include_hardware=false"
-more_apiLink = apiLink + "&last_appid=" + str(105450)
+more_apiLink = apiLink + "&last_appid=" + str(116120)
 response = requests.get(more_apiLink)
 api_response = json.loads(response.text)  # api로 json 받아서 파싱하기
 # &last_appid=0000
@@ -21,6 +21,7 @@ api_response = json.loads(response.text)  # api로 json 받아서 파싱하기
 '''
 
 ids = []  # 게임 아이디 리스트
+ids.append(105600)
 for i in range(len(api_response["response"]["apps"])):
     ids.append(api_response["response"]["apps"][i]["appid"])
 
@@ -53,11 +54,11 @@ while have_more_results:
     except KeyError:
         break
 
-    if gameIds["appid"].count() >= 10000:  # 아니면 게임 아이디가 2만 개 이상 수집되면 종료
-        break
+    # if gameIds["appid"].count() >= 10000:  # 아니면 게임 아이디가 2만 개 이상 수집되면 종료
+    #     break
 
 # 완성한 데이터프레임을 csv 파일로 저장
-gameIds.to_csv("../UROP-game-prediction/prepare data/gameID.csv")
+gameIds.to_csv("../UROP-game-prediction/prepare data/data/gameIDver02.csv")
 
 # print(len(watchat_dict))
 # print(len(watchat_dict["response"]))

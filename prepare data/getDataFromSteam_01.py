@@ -47,7 +47,7 @@ def trans_number(r):
 
 
 # 게임 아이디 csv 불러오기
-gameID = pd.read_csv("../UROP-game-prediction/prepare data/gameID.csv")
+gameID = pd.read_csv("../UROP-game-prediction/prepare data/data/gameID.csv")
 gameDates = []  # 출시 일자
 prices = []  # 가격
 devs = []  # 개발자
@@ -574,7 +574,7 @@ for i in range(0, len(gameID["appid"])):  # 게임 아이디 수만큼 반복
     # print(games.info())
     # print(games.head())
 
-    games.to_csv("../UROP-game-prediction/prepare data/games.csv")
+    games.to_csv("../UROP-game-prediction/prepare data/data/games.csv")
     print("progress saved\n")
 # end of for
 
@@ -611,4 +611,4 @@ games.drop('Unnamed: 0', axis=1, inplace=True)
 print(games.info())
 print(games.head())
 
-games.to_csv("../UROP-game-prediction/prepare data/games.csv")
+games.to_csv("../UROP-game-prediction/prepare data/data/games.csv")
