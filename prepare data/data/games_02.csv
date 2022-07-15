@@ -786,193 +786,539 @@
 784,624060,Shattered Steel,1996-09-30 00:00:00,10500.0,6.0,4.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,5 user reviews,single only,5.0,1.0,,,
 785,624070,Dragon Wars,1990-01-01 00:00:00,10500.0,4.0,4.0,Adventure,0.0,0.0,RPG,1.0,0.0,0.0,,mostly positive,single only,11.0,3.0,,,
 786,624080,Cyberia,1994-01-01 00:00:00,10500.0,6.0,4.0,Action,0.0,0.0,Action,3.0,0.0,0.0,,positive,single only,27.0,0.0,,,
-787,624260,The Crane Trials: Red Edition,2017-04-20 00:00:00,5500.0,6.0,6.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,no user reviews,single only,,,,,
-788,624270,The Painscreek Killings,2017-09-27 00:00:00,20500.0,4.0,4.0,Adventure,0.0,33.0,Detective,14.0,0.0,0.0,very positive,very positive,single only,2439,265,15.2,149,81.2
-789,624320,Loyalty and Blood: Viktor Origins,2018-03-17 00:00:00,10500.0,6.0,6.0,Action,0.0,25.0,Indie,1.0,0.0,1.0,,very positive,single only,49,8,,,33.3
-790,624410,Prank Bros / 欢乐兄弟,2018-07-31 00:00:00,5500.0,6.0,6.0,Action,0.0,72.0,Action,2.0,0.0,1.0,,mixed,single only,64,26,,,93.9
-791,624430,AI Rebellion VR,2017-04-18 00:00:00,10500.0,6.0,6.0,Action,0.0,6.0,Action,6.0,0.0,0.0,,mixed,single only,9,9,4.6,101,42.5
-792,624460,Fantasynth One,2017-04-20 00:00:00,0.0,6.0,6.0,Indie,0.0,0.0,Audio Production,1.0,0.0,0.0,,very positive,single only,420,16,0.6,30,
-793,624550,Spiritual Warfare & Wisdom Tree Collection,2017-04-25 00:00:00,10500.0,4.0,4.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,positive,single only,24,28,,,
-794,624560,Medusa's Labyrinth VR,2017-05-25 00:00:00,5500.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,9 user reviews,single only,1,8,,,
-795,624610,RUN,2017-05-20 00:00:00,2200.0,6.0,6.0,Action,0.0,0.0,Indie,1.0,0.0,0.0,,3 user reviews,single only,3,2,,,
-796,624630,TennisVR,2017-04-20 00:00:00,1100.0,6.0,6.0,Sports,0.0,0.0,Tennis,1.0,0.0,0.0,,negative,single only,2,9,,,
-797,624680,Promethium,2017-08-19 00:00:00,10500.0,6.0,6.0,Action,0.0,24.0,Indie,11.0,0.0,0.0,,mixed,single only,15,7,,,30.1
-798,624690,NEXT JUMP: Shmup Tactics,2017-04-29 00:00:00,5500.0,5.0,5.0,Indie,0.0,51.0,Shoot 'Em Up,2.0,0.0,0.0,,mostly positive,single only,59,16,,,15.2
-799,624710,Cow Milking Simulator,2017-10-31 00:00:00,3300.0,6.0,6.0,Casual,0.0,19.0,Indie,1.0,0.0,0.0,,positive,single only,33,2,8.5,98,11.5
-800,624830,Battle Summoners VR,2017-05-23 00:00:00,,5.0,5.0,Action,0.0,21.0,Indie,1.0,0.0,0.0,,positive,single only,31,3,,,90.6
-801,624890,Adventure Craft,2017-07-06 00:00:00,0,6.0,6.0,Action,0.0,0.0,Early Access,1.0,0.0,0.0,,very positive,single only,133,27,1.7,30,
-802,624900,COMET STRIKE,2017-04-28 00:00:00,3300,6.0,6.0,Action,0.0,24.0,Action,1.0,0.0,0.0,,1 user reviews,single only,1,0,0.0,2,24.1
-803,624920,Trapped With the Dolls VR,2017-04-24 00:00:00,0,6.0,6.0,Adventure,0.0,0.0,Free to Play,1.0,0.0,0.0,,mostly positive,single only,41,11,0.0,4,
-804,624930,Fearless Tigor,,,5.0,5.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,no user reviews,single only,,,,,
-805,624950,B3,,,6.0,6.0,Action,0.0,0.0,VR,1.0,0.0,0.0,,no user reviews,single and multi,,,,,
-806,624970,Battlezone: Combat Commander,2018-03-02 00:00:00,20500,2.0,2.0,Action,0.0,66.0,Strategy,3.0,0.0,0.0,very positive,very positive,single only,577,70,18.8,285,58.3
-807,624990,The Mimic,2017-11-18 00:00:00,10500,6.0,6.0,Action,0.0,25.0,Indie,1.0,0.0,0.0,,8 user reviews,single and multi,10,0,,,65.1
-808,625000,Knightfall,2017-09-04 00:00:00,,5.0,5.0,Action,0.0,0.0,Action,1.0,0.0,1.0,,positive,single only,14,1,,,
-809,625040,Ophidia,2017-05-25 00:00:00,5500,6.0,6.0,Action,0.0,9.0,Casual,1.0,0.0,0.0,,8 user reviews,single only,13,7,,,5.4
-810,625090,Red Flu,,,6.0,6.0,Action,0.0,0.0,Indie,3.0,0.0,0.0,,no user reviews,single only,,,,,
-811,625120,Last Hours Of Jack,2017-05-05 00:00:00,4400,6.0,6.0,Action,0.0,15.0,Action,1.0,0.0,0.0,,positive,single only,30,5,,,15.3
-812,625160,Scrollonoid,2017-06-16 00:00:00,3300,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,4 user reviews,single only,7,4,,,
-813,625180,Elevator VR,2017-05-16 00:00:00,2200,6.0,6.0,Casual,0.0,18.0,Indie,1.0,0.0,1.0,,negative,single only,2,9,,,43.2
-814,625220,Building Blocks / Master Builder of Egypt,2017-12-02 00:00:00,13500,6.0,6.0,Adventure,0.0,0.0,Adventure,2.0,0.0,0.0,,no user reviews,single only,2,0,,,
-815,625320,No Clue VR,2017-05-18 00:00:00,20500,6.0,6.0,Action,0.0,23.0,Indie,5.0,0.0,0.0,,6 user reviews,single only,15,7,,,37.9
-816,625340,XERA: Survival,2021-09-27 00:00:00,0,6.0,6.0,Action,1.0,0.0,Survival,11.0,0.0,0.0,,,,4516,2073,150.2,3079,
-817,625370,A SECOND BEFORE US,2017-05-10 00:00:00,4400,5.0,5.0,Adventure,0.0,16.0,Adventure,4.0,0.0,0.0,,mixed,single only,56,41,,,6.2
-818,625410,Anomie,2017-08-23 00:00:00,8500,6.0,6.0,Action,0.0,0.0,Casual,1.0,0.0,1.0,,3 user reviews,single only,10,0,,,
-819,625430,Doodle God Blitz,2017-09-02 00:00:00,0,5.0,5.0,Casual,0.0,24.0,Free to Play,13.0,0.0,1.0,,mixed,single only,464,225,4.8,256,84.7
-820,625470,The Red Stare,2017-07-31 00:00:00,0,6.0,6.0,Action,0.0,17.0,Free to Play,1.0,0.0,0.0,,very positive,single only,333,40,3.6,123,35.4
-821,625560,The Overdreamer,2017-07-17 00:00:00,11500,6.0,6.0,Adventure,0.0,8.0,Adventure,2.0,0.0,0.0,,9 user reviews,single only,13,2,0.0,35,9.9
-822,625580,The Cleansing - Versus,2017-09-28 00:00:00,0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,1.0,,mixed,single and multi,6,4,0.0,4,
-823,625630,Journey of Johann,2017-05-19 00:00:00,8500,6.0,6.0,Action,0.0,42.0,Action,1.0,0.0,1.0,,4 user reviews,single only,5,0,,,17.8
-824,625680,Way of the Passive Fist,2018-03-06 00:00:00,15500,6.0,6.0,Action,0.0,36.0,Action,6.0,0.0,0.0,,very positive,single only,149,38,,,62.6
-825,625690,归墟纪·寂夜 FINAL WORLD,2017-06-23 00:00:00,18000,6.0,6.0,Action,0.0,0.0,Adventure,2.0,0.0,0.0,,6 user reviews,single only,5,1,,,
-826,625700,Global Soccer: A Management Game 2017,2017-05-24 00:00:00,10500,5.0,5.0,Casual,0.0,50.0,Sports,9.0,0.0,0.0,,mixed,single only,15,12,,,8.5
-827,625730,Cefore,2018-04-06 00:00:00,10500,5.0,6.0,Indie,0.0,12.0,Indie,6.0,0.0,1.0,,mixed,single only,42,13,0.0,12,85.3
-828,625740,Rifter,2018-07-12 00:00:00,12500,6.0,6.0,Action,0.0,14.0,Action,1.0,0.0,0.0,,very positive,single only,104,4,,,94.4
-829,625770,Smashing The Battle VR,2017-06-16 00:00:00,11000,6.0,6.0,Action,0.0,20.0,Action,6.0,0.0,0.0,,positive,single only,19,2,,,5.0
-830,625780,Magic Wand,2016-08-16 00:00:00,4400,6.0,6.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,positive,single only,54,3,0.1,5,
-831,625800,Tomb Guard VR,2017-05-20 00:00:00,10500,6.0,6.0,Action,0.0,0.0,Strategy,2.0,0.0,0.0,,4 user reviews,single only,5,1,,,
-832,625820,Bionic Battle Mutants,2017-10-24 00:00:00,5500,6.0,6.0,Indie,0.0,0.0,Turn-Based Tactics,1.0,0.0,0.0,,mostly positive,single only,30,6,,,
-833,625830,BattleSky VR,2018-01-20 00:00:00,13500,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,positive,single only,25,3,,,
-834,625860,God Awe-full Clicker,2018-09-20 00:00:00,0,6.0,6.0,Action,0.0,80.0,Free to Play,1.0,0.0,0.0,,mixed,single only,235,117,14.2,996,82.6
-835,625900,Ashes of Kanaka,2017-04-26 00:00:00,2200,6.0,6.0,RPG,0.0,0.0,RPG,1.0,0.0,0.0,,4 user reviews,single only,4,2,,,
-836,625910,Time Recoil,2017-08-10 00:00:00,15000,4.0,4.0,Action,0.0,15.0,Action,1.0,0.0,1.0,,very positive,single only,81,21,,,27.7
-837,625940,Tomato Jones 2,2017-05-13 00:00:00,2200,6.0,6.0,Action,0.0,0.0,Casual,2.0,0.0,0.0,,mostly positive,single only,39,13,,,
-838,625960,Stoneshard,2020-02-07 00:00:00,26000,4.0,2.0,Adventure,1.0,54.0,RPG,12.0,0.0,1.0,mostly positive,mostly positive,single only,16113,4948,234.8,10706,18.6
-839,625980,Yomawari: Midnight Shadows,2017-10-25 00:00:00,20000,2.0,2.0,Adventure,0.0,33.0,Horror,2.0,0.0,1.0,very positive,very positive,single only,539,27,8.1,48,79.6
-840,625990,Welcome to Moreytown,2017-05-05 00:00:00,4400,2.0,2.0,Adventure,0.0,22.0,Indie,1.0,0.0,0.0,,positive,single only,35,8,0.1,46,75.5
-841,626010,Office Space: Idle Profits,2017-10-19 00:00:00,0,3.0,3.0,Free to Play,0.0,10.0,Free to Play,7.0,0.0,0.0,,mixed,single only,193,129,6.3,640,61.6
-842,626020,Shadows in the Darkness,2017-10-20 00:00:00,5500,6.0,6.0,Action,0.0,0.0,Indie,1.0,0.0,0.0,,7 user reviews,single and multi,5,3,,,
-843,626160,Awesome Machine,2017-07-04 00:00:00,2200,6.0,6.0,Casual,0.0,36.0,Indie,3.0,0.0,0.0,,9 user reviews,single only,13,5,,,34.6
-844,626170,Apocalypse Night,2017-10-31 00:00:00,1100,6.0,6.0,Action,0.0,27.0,Action,3.0,0.0,0.0,,positive,single only,24,5,,,11.0
-845,626200,Dead Alliance™,2017-08-30 00:00:00,20500,6.0,6.0,Action,0.0,44.0,FPS,6.0,0.0,1.0,,mixed,single only,42,82,0.0,34,55.0
-846,626250,Consortium: THE TOWER,2017-09-22 00:00:00,27000,5.0,5.0,Action,0.0,49.0,RPG,1.0,0.0,0.0,,mixed,single only,27,16,0.0,10,28.3
-847,626460,The Legendary Blacksmith,2017-07-31 00:00:00,,6.0,6.0,Adventure,0.0,0.0,Indie,1.0,0.0,0.0,,no user reviews,single only,,,,,
-848,626510,LoveKami -Useless Goddess-,2017-05-30 00:00:00,14000,2.0,2.0,Adventure,0.0,19.0,Sexual Content,2.0,0.0,1.0,,very positive,single only,290,67,1.8,85,52.4
-849,626550,Prodigy Tactics,2018-09-28 00:00:00,20500,6.0,5.0,Action,0.0,0.0,Strategy,2.0,0.0,0.0,,mostly negative,single only,75,120,,,
-850,626570,Microcosm,2017-04-17 00:00:00,0,6.0,6.0,Casual,0.0,0.0,Indie,1.0,0.0,0.0,,4 user reviews,single only,4,0,,,
-851,626580,Spellspire,2017-05-23 00:00:00,10500,4.0,4.0,RPG,0.0,22.0,RPG,1.0,0.0,0.0,,mostly positive,single only,67,26,0.6,17,45.4
-852,626600,Lost Dimension,2017-10-31 00:00:00,26000,6.0,5.0,RPG,0.0,36.0,JRPG,1.0,0.0,1.0,,mostly positive,single only,139,35,2.2,73,78.8
-853,626610,TT Isle of Man Ride on the Edge,2018-03-27 00:00:00,20500,6.0,2.0,Racing,0.0,31.0,Simulation,11.0,0.0,1.0,,mostly positive,single only,836,340,8.3,425,80.6
-854,626630,Two Worlds II HD - Call of the Tenebrae,2017-07-13 00:00:00,16000,6.0,6.0,Action,0.0,61.0,RPG,2.0,0.0,0.0,,mixed,single only,26,26,,,1.8
-855,626640,Lost Lands: The Wanderer,2017-05-03 00:00:00,7500,4.0,4.0,Adventure,0.0,21.0,Adventure,14.0,0.0,0.0,,very positive,single only,68,3,2.0,18,90.5
-856,626660,Flipping Death,2018-08-07 00:00:00,20500,5.0,5.0,Adventure,0.0,12.0,Adventure,5.0,0.0,0.0,,very positive,single only,154,17,,,46.2
-857,626680,Kreedz Climbing,2017-06-16 00:00:00,0,6.0,6.0,Free to Play,0.0,40.0,Free to Play,4.0,0.0,0.0,,very positive,single and multi,752,173,2.6,376,3.1
-858,626690,Sword Art Online: Fatal Bullet,2018-02-24 00:00:00,32800,1.0,1.0,Action,0.0,63.0,Anime,11.0,0.0,1.0,mostly positive,very positive,single only,13744,3508,214.3,21727,76.4
-859,626700,Clark | HOOVA VR,2018-01-25 00:00:00,0,6.0,6.0,Casual,0.0,0.0,Free to Play,1.0,0.0,0.0,,mostly positive,single only,14,4,,,
-860,626730,The Incredible VR Game Show,2018-04-13 00:00:00,10500,6.0,6.0,Casual,0.0,0.0,Casual,1.0,0.0,0.0,,4 user reviews,single only,4,3,0.0,2,
-861,626760,VRtender,2017-05-03 00:00:00,1100,6.0,6.0,Action,0.0,5.0,Action,1.0,0.0,0.0,,mostly negative,single only,3,8,,,65.2
-862,626780,Botanica: Into the Unknown Collector's Edition,2017-04-27 00:00:00,,6.0,3.0,Adventure,0.0,0.0,Casual,1.0,0.0,0.0,,1 user reviews,single only,1,0,,,
-863,626810,Area of Darkness: Sentinel,,,6.0,6.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,no user reviews,single only,,,,,
-864,626840,Shadow Wolf Mysteries: Curse of the Full Moon Collector's Edition,2017-04-29 00:00:00,10500,6.0,3.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,6 user reviews,single only,6,0,0.4,3,
-865,627070,inVokeR,2017-07-21 00:00:00,16000,6.0,6.0,Action,0.0,12.0,Action,3.0,0.0,0.0,,mostly positive,single only,52,11,,,18.8
-866,627270,Injustice™ 2,2017-12-01 00:00:00,55900,1.0,1.0,Action,0.0,74.0,Fighting,9.0,0.0,1.0,very positive,very positive,single only,12536,2030,297.1,1851,87.4
-867,627350,London Detective Mysteria,2019-08-01 00:00:00,31000,6.0,2.0,Adventure,0.0,16.0,Adventure,2.0,0.0,1.0,,very positive,single only,94,12,,,68.4
-868,627380,The Family Skeleton,,,6.0,6.0,Adventure,0.0,0.0,Adventure,5.0,0.0,0.0,,no user reviews,single only,,,,,
-869,627410,BlackEye,2017-08-09 00:00:00,5500,6.0,6.0,Action,0.0,0.0,Action,27.0,0.0,0.0,,positive,single only,25,10,70.1,961,
-870,627420,Sorgina: A Tale of Witches,2017-05-30 00:00:00,10500,6.0,6.0,Adventure,0.0,38.0,Indie,2.0,0.0,0.0,,3 user reviews,single only,5,3,,,7.4
-871,627450,RUGBY 18,2017-10-27 00:00:00,20500,6.0,2.0,Sports,0.0,23.0,Sports,5.0,0.0,1.0,,mixed,single only,48,49,0.7,33,78.4
-872,627460,THORNYWAY,2017-09-11 00:00:00,6500,6.0,6.0,Action,0.0,7.0,Action,2.0,0.0,0.0,,mostly negative,single only,9,10,,,39.3
-873,627570,VentureVerse: Legend of Ulora,2018-08-24 00:00:00,,6.0,6.0,Action,0.0,17.0,RPG,1.0,0.0,0.0,,3 user reviews,single and multi,12,1,,,8.9
-874,627620,Intelligent Design: An Evolutionary Sandbox,2017-05-12 00:00:00,7500,5.0,5.0,Indie,0.0,12.0,Idler,1.0,0.0,0.0,,mixed,single only,62,75,,,21.1
-875,627670,Rocket Wars,2017-06-15 00:00:00,1100,6.0,6.0,Action,0.0,20.0,4 Player Local,4.0,0.0,0.0,,positive,single and multi,36,3,33.2,430,9.7
-876,627690,Idle Champions of the Forgotten Realms,2020-03-26 00:00:00,0,5.0,5.0,Action,0.0,400.0,Idler,7.0,0.0,1.0,mostly positive,very positive,single only,8405,2034,4922.4,18578,58.4
-877,627820,England Exchange,2017-05-06 00:00:00,16000,4.0,4.0,Casual,0.0,16.0,Sexual Content,1.0,0.0,0.0,,mixed,single only,59,49,0.4,65,83.2
-878,627890,Reventa,2018-08-15 00:00:00,4400,6.0,6.0,Action,0.0,0.0,Action,2.0,0.0,0.0,,positive,single only,44,10,,,
-879,627910,Bubsy: The Woolies Strike Back,2017-11-01 00:00:00,20500,6.0,5.0,Action,0.0,11.0,Adventure,2.0,0.0,1.0,,mixed,single only,97,76,,,31.8
-880,627950,1914: Prelude to Chaos,2017-05-09 00:00:00,1100,6.0,6.0,RPG,0.0,0.0,RPG,1.0,0.0,0.0,,mixed,single only,50,55,4.3,2316,
-881,628070,Romance of the Three Kingdoms XI with Power Up Kit,2018-01-17 00:00:00,41000,1.0,1.0,Strategy,0.0,0.0,Strategy,1.0,0.0,0.0,very positive,very positive,single only,2014,178,434.5,1408,
-882,628080,Romance of the Three Kingdoms XII with Power Up Kit,2018-01-17 00:00:00,41000,1.0,1.0,Strategy,0.0,0.0,Strategy,1.0,0.0,0.0,,mixed,single only,144,58,43.4,200,
-883,628200,The Invisible Hand,2021-05-07 00:00:00,13500,6.0,2.0,Adventure,0.0,31.0,Capitalism,2.0,0.0,1.0,,very positive,single only,256,55,4.1,301,87.9
-884,628290,All Walls Must Fall - A Tech-Noir Tactics Game,2018-02-23 00:00:00,10500,5.0,5.0,Indie,0.0,153.0,Indie,8.0,0.0,1.0,,mixed,single only,173,65,,,54.0
-885,628320,Roah,2019-11-29 00:00:00,26000,6.0,6.0,Action,0.0,60.0,Action,1.0,0.0,1.0,,mostly positive,single only,49,15,,,69.7
-886,628330,Warlocks 2: God Slayers,2019-07-18 00:00:00,20500,5.0,5.0,Action,0.0,32.0,Action,7.0,0.0,1.0,,mixed,single and multi,33,28,0.3,27,68.5
-887,628350,Lazaretto,2017-05-20 00:00:00,7500,6.0,6.0,Action,0.0,0.0,Indie,1.0,0.0,0.0,,mostly positive,single only,70,20,,,
-888,628440,Multiplayer FPS Demo,2017-07-07 00:00:00,0,6.0,6.0,Action,0.0,0.0,Free to Play,1.0,0.0,0.0,,mixed,single and multi,107,92,,,
-889,628450,Magnificent Ships: Volume 2,2017-05-18 00:00:00,10500,5.0,5.0,Casual,0.0,0.0,Casual,27.0,0.0,0.0,,7 user reviews,single only,7,1,,,
-890,628460,Lily of the Valley,2017-05-06 00:00:00,3300,4.0,4.0,Casual,0.0,8.0,Indie,2.0,0.0,1.0,,very positive,single only,63,5,,,54.2
-891,628530,Blobby Tennis,2017-05-13 00:00:00,0,6.0,6.0,Indie,0.0,16.0,Tennis,2.0,0.0,0.0,,mostly positive,single only,32,13,,,37.8
-892,628550,Crypt Stalker,2020-10-30 00:00:00,3300,6.0,6.0,Action,0.0,20.0,Action,1.0,0.0,0.0,,very positive,single only,63,6,0.1,5,72.5
-893,628560,Bebop and Tempo,2017-06-19 00:00:00,10500,6.0,6.0,Action,0.0,22.0,Action,1.0,0.0,0.0,,1 user reviews,single only,4,4,,,10.8
-894,628570,Trivia Night,2022-05-10 00:00:00,5500,5.0,5.0,Casual,0.0,0.0,Indie,2.0,0.0,0.0,,mostly positive,single only,18,9,,,
-895,628580,Miniballist,2018-03-14 00:00:00,4400,5.0,5.0,Casual,0.0,13.0,Indie,1.0,0.0,0.0,,positive,single only,21,10,,,90.1
-896,628650,A New World: Kingdoms,2017-10-05 00:00:00,4400,5.0,5.0,Casual,0.0,14.0,Turn-Based Tactics,1.0,0.0,0.0,,3 user reviews,single only,0,8,,,33.7
-897,628660,Lode Runner Legacy,2017-07-13 00:00:00,12000,6.0,6.0,Action,0.0,35.0,Action,8.0,0.0,0.0,,very positive,single and multi,109,22,,,91.6
-898,628670,Hellpoint,2020-07-31 00:00:00,36000,2.0,2.0,Action,0.0,42.0,Souls-like,10.0,0.0,1.0,mostly positive,mostly positive,single and multi,2580,866,41.8,1862,49.7
-899,628700,The Flaws of Gravity,2017-05-06 00:00:00,0,6.0,6.0,Adventure,0.0,0.0,Free to Play,1.0,0.0,0.0,,mixed,single only,142,92,,,
-900,628710,Hell Warders,2019-02-21 00:00:00,16000,3.0,3.0,Action,0.0,17.0,Action,11.0,0.0,0.0,,mixed,single and multi,80,52,0.3,35,14.0
-901,628730,Adolescent Santa Claus,2018-07-20 00:00:00,0,3.0,3.0,Adventure,0.0,0.0,Free to Play,3.0,0.0,1.0,very positive,very positive,single only,960,181,,,
-902,628750,aMAZE 2,2017-04-22 00:00:00,1100,3.0,3.0,Casual,0.0,10.0,Casual,1.0,0.0,0.0,very positive,very positive,single only,611,97,6.7,2526,16.2
-903,628760,The Adventurer - Episode 1: Beginning of the End,2017-07-31 00:00:00,5500,5.0,5.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,mostly positive,mostly positive,single only,137,110,110.8,2076,
-904,628770,Tangledeep,2018-02-02 00:00:00,15500,6.0,6.0,Indie,0.0,55.0,Traditional Roguelike,5.0,0.0,1.0,,very positive,single only,1063,199,19.6,469,51.1
-905,628800,Super Hydorah,2017-09-20 00:00:00,20500,5.0,5.0,Action,0.0,21.0,Indie,9.0,0.0,0.0,,very positive,single and multi,159,14,0.2,25,45.2
-906,628820,ALaLa: Wake Mi Up!,2017-05-16 00:00:00,11500,6.0,6.0,Adventure,0.0,0.0,Adventure,3.0,0.0,0.0,,mixed,multi only,7,4,0.0,3,
-907,628830,Ultra Hat Dimension,2020-07-17 00:00:00,5500,5.0,5.0,Adventure,0.0,0.0,Casual,7.0,0.0,0.0,,positive,single only,23,0,,,
-908,628880,Battle Commanders,,,6.0,6.0,Indie,0.0,0.0,Early Access,2.0,0.0,0.0,,no user reviews,multi only,,,,,
-909,628900,Terra Mystica,2017-06-09 00:00:00,16000,5.0,5.0,Indie,0.0,5.0,Indie,8.0,0.0,0.0,,mixed,single only,124,84,6.5,122,0.0
-910,628920,Tomboys Need Love Too!,2017-05-12 00:00:00,10500,5.0,5.0,Casual,0.0,7.0,Sexual Content,4.0,0.0,1.0,,very positive,single only,147,21,,,60.8
-911,628940,LIZ: Before the Plague,2019-10-31 00:00:00,9500,6.0,6.0,Action,1.0,17.0,Action,1.0,0.0,0.0,,2 user reviews,single only,2,0,,,15.4
-912,628950,Nephise Begins,2017-04-25 00:00:00,1100,4.0,4.0,Adventure,0.0,5.0,Adventure,3.0,0.0,0.0,,mostly positive,single only,674,404,,,28.4
-913,628960,Journey to Alien Worlds,2017-04-28 00:00:00,4400,6.0,6.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,5 user reviews,single only,7,0,,,
-914,629000,Lydia,2017-06-02 00:00:00,4400,5.0,5.0,Adventure,0.0,0.0,Adventure,7.0,0.0,0.0,,very positive,single only,477,62,0.3,18,
-915,629030,Employee Recycling Center,2017-05-16 00:00:00,2200,6.0,6.0,Adventure,0.0,505.0,Indie,27.0,0.0,0.0,,mostly negative,single only,37,92,,,14.6
-916,629040,Skytropolis,2017-11-03 00:00:00,26000,6.0,6.0,Indie,0.0,0.0,Colony Sim,1.0,0.0,0.0,,mostly positive,single only,25,7,0.0,8,
-917,629080,Beyond: Light Advent Collector's Edition,2017-05-06 00:00:00,10500,6.0,3.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,7 user reviews,single only,7,1,0.0,2,
-918,629090,Horace,2019-07-19 00:00:00,15500,6.0,2.0,Action,0.0,58.0,Indie,5.0,0.0,1.0,,very positive,single only,466,108,1.7,55,84.6
-919,629100,"Cadenza: Music, Betrayal and Death Collector's Edition",2017-05-04 00:00:00,10500,6.0,3.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,positive,single only,17,0,,,
-920,629110,Dark Parables: Ballad of Rapunzel Collector's Edition,2017-05-02 00:00:00,10500,6.0,3.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,positive,single only,29,1,,,
-921,629180,HomeGrove,,,6.0,6.0,Action,0.0,0.0,Indie,1.0,0.0,0.0,,no user reviews,single only,,,,,
-922,629210,Extra Terrestrial Perception,2017-06-14 00:00:00,0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,mostly negative,single only,5,9,0.0,1,
-923,629220,Rise of Insanity,2018-03-02 00:00:00,10500,5.0,5.0,Adventure,0.0,14.0,Indie,9.0,0.0,1.0,,mostly positive,single only,780,204,,,54.3
-924,629230,The StoryTale,2019-08-16 00:00:00,5000,6.0,6.0,Action,1.0,36.0,Action,6.0,0.0,0.0,,positive,single only,57,8,,,41.2
-925,629240,Toilet Run,2018-09-27 00:00:00,3300,6.0,6.0,Casual,0.0,8.0,Simulation,1.0,0.0,0.0,,positive,single only,15,3,,,13.6
-926,629270,Shiny Ninjas,,,5.0,5.0,Action,0.0,0.0,Ninja,2.0,0.0,0.0,,no user reviews,,,,,,
-927,629340,Possession,2019-07-18 00:00:00,10500,6.0,6.0,Indie,0.0,38.0,Roguelike,1.0,0.0,0.0,,6 user reviews,single only,13,1,0.0,4,66.9
-928,629360,The Falling Nights ®,2017-05-18 00:00:00,5500,6.0,6.0,Indie,0.0,50.0,Indie,2.0,0.0,0.0,,5 user reviews,single only,2,4,,,71.7
-929,629380,Cosmic Pioneer,2017-06-08 00:00:00,1100,6.0,6.0,Casual,0.0,0.0,Indie,1.0,0.0,0.0,,mostly negative,single only,17,27,3.4,1946,
-930,629400,Mall Mayhem,2017-10-07 00:00:00,1100,6.0,6.0,Action,0.0,20.0,Action,1.0,0.0,0.0,,3 user reviews,single only,8,6,,,91.3
-931,629410,VectorWave,2017-11-17 00:00:00,0,6.0,6.0,Action,0.0,20.0,Strategy,1.0,0.0,0.0,,positive,single only,24,4,,,29.1
-932,629420,Super Perspective,2017-09-15 00:00:00,0,6.0,6.0,Indie,0.0,8.0,Indie,1.0,0.0,1.0,,positive,single only,26,2,,,26.4
-933,629430,The Last Birdling,2017-09-01 00:00:00,6500,5.0,5.0,Indie,0.0,28.0,Indie,1.0,0.0,1.0,,positive,single only,55,1,,,31.2
-934,629440,Graze Counter,2017-07-29 00:00:00,10500,4.0,4.0,Action,0.0,0.0,Action,6.0,0.0,1.0,,very positive,single only,221,8,0.3,40,
-935,629450,Towards Gold and Glory,,,5.0,5.0,Casual,0.0,0.0,Casual,1.0,0.0,0.0,,no user reviews,multi only,,,,,
-936,629540,Alien Arena: Warriors Of Mars,2017-11-04 00:00:00,0,6.0,6.0,Action,0.0,48.0,Action,1.0,0.0,1.0,,mostly positive,single and multi,110,32,0.3,137,20.6
-937,629550,Placebo Effect,2019-05-03 00:00:00,0,6.0,6.0,Action,0.0,9.0,Action,1.0,0.0,0.0,,mostly positive,single only,8,3,,,67.0
-938,629640,Sea Battle VR,2017-11-24 00:00:00,6500,6.0,6.0,Action,0.0,0.0,Strategy,2.0,0.0,0.0,,8 user reviews,,2,7,,,
-939,629650,Symphonic Rain,2017-06-15 00:00:00,43000,6.0,5.0,Adventure,0.0,13.0,Visual Novel,5.0,0.0,0.0,,overwhelmingly positive,single only,555,20,4.1,67,70.2
-940,629690,Vaporum,2017-09-29 00:00:00,21000,5.0,5.0,Action,0.0,59.0,Dungeon Crawler,10.0,0.0,0.0,,very positive,single only,674,101,4.0,132,71.3
-941,629720,Fuzecat,2017-05-24 00:00:00,4400,6.0,6.0,Action,0.0,0.0,Action,2.0,0.0,0.0,,mixed,single and multi,14,7,0.0,2,
-942,629730,Blade and Sorcery,2018-12-11 00:00:00,20500,5.0,5.0,Action,1.0,0.0,VR,1.0,0.0,0.0,overwhelmingly positive,overwhelmingly positive,single only,31434,1139,822.8,10235,
-943,629760,MORDHAU,2019-04-30 00:00:00,31000,6.0,6.0,Action,0.0,38.0,Medieval,10.0,0.0,1.0,mostly positive,very positive,multi only,82312,19040,2063.3,60204,78.0
-944,629770,Tiny Echo,2017-08-31 00:00:00,8500,3.0,3.0,Adventure,0.0,6.0,Adventure,1.0,0.0,1.0,,very positive,single only,489,73,0.4,24,55.0
-945,629780,WizzBall,2017-12-16 00:00:00,10500,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,2 user reviews,multi only,10,3,,,
-946,629810,Galact Quest,2017-05-11 00:00:00,9500,5.0,5.0,Casual,0.0,0.0,Casual,7.0,0.0,0.0,,4 user reviews,single only,8,4,0.0,3,
-947,629820,Maneater,2021-05-25 00:00:00,41000,2.0,2.0,Action,0.0,44.0,Dark Humor,14.0,0.0,1.0,very positive,very positive,single only,8120,941,143.1,2811,93.6
-948,629840,Caligo,2017-09-22 00:00:00,1100,6.0,6.0,Adventure,0.0,0.0,Indie,2.0,0.0,0.0,,mostly positive,single only,680,235,0.3,37,
-949,629860,Spelunker Party!,2017-10-20 00:00:00,29500,6.0,1.0,Action,0.0,35.0,Action,4.0,0.0,0.0,,positive,single and multi,53,5,0.7,16,78.2
-950,629910,Clicker Heroes 2,2018-07-17 00:00:00,20500,4.0,4.0,Action,0.0,38.0,Clicker,1.0,0.0,1.0,,,single only,1524,1056,63.0,9570,53.7
-951,629960,夏花的轨迹——A summer promise to forever,2017-08-15 00:00:00,2200,6.0,6.0,Adventure,0.0,6.0,Sexual Content,3.0,0.0,0.0,,mostly positive,single only,224,68,9.9,107,40.9
-952,629970,Beast Pets,2019-02-15 00:00:00,10500,6.0,6.0,Casual,1.0,0.0,Casual,1.0,0.0,0.0,,9 user reviews,single only,21,1,0.3,21,
-953,630020,The First Class VR,2017-12-14 00:00:00,7500,6.0,4.0,Indie,0.0,11.0,Simulation,4.0,0.0,0.0,,mostly positive,single only,33,8,,,41.3
-954,630030,War Tech Fighters,2018-07-26 00:00:00,20500,4.0,4.0,Action,0.0,45.0,Action,4.0,0.0,0.0,,mostly positive,single only,236,66,,,76.4
-955,630040,JackHammer: Demolition Dodgeball,,,6.0,6.0,Action,0.0,0.0,Sports,1.0,0.0,0.0,,no user reviews,multi only,,,,,
-956,630050,Dead Exit,2017-06-21 00:00:00,6500,6.0,6.0,Casual,0.0,22.0,Casual,1.0,0.0,0.0,,mixed,single and multi,22,9,,,32.2
-957,630060,Consummate:Missing World 寇莎梅特：困世迷情,2017-07-21 00:00:00,1100,5.0,5.0,Adventure,0.0,888.0,RPG,3.0,0.0,1.0,very positive,overwhelmingly positive,single only,884,40,30.4,418,20.5
-958,630070,Tengutana,2017-10-27 00:00:00,4400,6.0,6.0,Action,0.0,9.0,Action,1.0,0.0,0.0,,8 user reviews,single only,15,4,,,65.0
-959,630080,EggTime 2,2018-05-08 00:00:00,7500,6.0,6.0,Action,0.0,11.0,Action,1.0,0.0,0.0,,positive,single only,17,2,,,52.1
-960,630130,Top Punch,2018-04-25 00:00:00,4400,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,no user reviews,single only,,,,,
-961,630140,Sky Clash: Lords of Clans 3D,2018-09-05 00:00:00,0,6.0,5.0,Free to Play,0.0,27.0,Free to Play,8.0,0.0,0.0,,mostly positive,,146,39,38.2,101,30.5
-962,630160,Super Rocket Shootout,2017-07-15 00:00:00,10500,6.0,5.0,Action,0.0,62.0,Action,3.0,0.0,0.0,,mostly positive,single and multi,18,6,0.0,23,31.3
-963,630170,Murder In Tehran's Alleys 1933,2017-06-09 00:00:00,10500,4.0,6.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,mixed,single only,6,9,0.0,3,
-964,630230,DNL Dedicated Server Tool,2017-07-21 00:00:00,,6.0,6.0,Action,0.0,0.0,Simulation,1.0,0.0,0.0,,no user reviews,single only,,,0.0,1,
-965,630240,Nevertales: Smoke and Mirrors Collector's Edition,2017-05-09 00:00:00,10500,6.0,3.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,5 user reviews,single only,4,1,,,
-966,630260,Tilted Mind,2017-06-10 00:00:00,3300,6.0,6.0,Indie,0.0,0.0,Indie,1.0,0.0,0.0,,8 user reviews,single only,8,0,,,
-967,630310,The Mummy Demastered,2017-10-24 00:00:00,20500,2.0,2.0,Action,0.0,37.0,Action,10.0,0.0,0.0,,very positive,single only,378,90,2.3,45,83.2
-968,630360,Megacity Builder,2017-07-19 00:00:00,8500,6.0,6.0,Indie,0.0,20.0,Trading,14.0,0.0,0.0,,mostly negative,single only,7,14,,,1.7
-969,630390,Safari Venture,2017-05-13 00:00:00,4400,6.0,6.0,Casual,0.0,0.0,Casual,4.0,0.0,0.0,,1 user reviews,single only,7,3,,,
-970,630400,Explottens,,5500,6.0,6.0,Action,0.0,21.0,Early Access,14.0,0.0,0.0,,9 user reviews,single only,14,1,,,35.6
-971,630440,Movie Studio Tycoon,,,6.0,6.0,Casual,0.0,0.0,Simulation,1.0,0.0,0.0,,no user reviews,single only,,,,,
-972,630460,Fist's Elimination Tower,2017-08-28 00:00:00,5500,6.0,6.0,Action,0.0,34.0,Action,1.0,0.0,0.0,,positive,single only,39,1,,,56.4
-973,630470,Solitaire Club,2017-05-12 00:00:00,5500,6.0,6.0,Casual,0.0,0.0,Casual,5.0,0.0,0.0,,mixed,single only,12,5,,,
-974,630490,Storm Area 51: September 20th 2019,2019-09-01 00:00:00,15500,6.0,6.0,Action,1.0,0.0,Simulation,1.0,0.0,0.0,,mostly negative,single only,23,33,,,
-975,630510,PsychLabVR,2017-05-05 00:00:00,,6.0,6.0,Education,0.0,0.0,Education,1.0,0.0,0.0,,no user reviews,,4,1,,,
-976,630610,Disneyland Adventures,2018-09-15 00:00:00,20500,1.0,1.0,Adventure,0.0,49.0,Adventure,16.0,0.0,0.0,,very positive,single and multi,397,42,13.7,103,94.6
+787,624270,The Painscreek Killings,2017-09-27 00:00:00,20500.0,4.0,4.0,Adventure,0.0,33.0,Detective,14.0,0.0,0.0,very positive,very positive,single only,2439.0,265.0,15.2,149.0,81.2
+788,624320,Loyalty and Blood: Viktor Origins,2018-03-17 00:00:00,10500.0,6.0,6.0,Action,0.0,25.0,Indie,1.0,0.0,1.0,,very positive,single only,49.0,8.0,,,33.3
+789,624410,Prank Bros / 欢乐兄弟,2018-07-31 00:00:00,5500.0,6.0,6.0,Action,0.0,72.0,Action,2.0,0.0,1.0,,mixed,single only,64.0,26.0,,,93.9
+790,624430,AI Rebellion VR,2017-04-18 00:00:00,10500.0,6.0,6.0,Action,0.0,6.0,Action,6.0,0.0,0.0,,mixed,single only,9.0,9.0,4.6,101.0,42.5
+791,624460,Fantasynth One,2017-04-20 00:00:00,0.0,6.0,6.0,Indie,0.0,0.0,Audio Production,1.0,0.0,0.0,,very positive,single only,420.0,16.0,0.6,30.0,
+792,624550,Spiritual Warfare & Wisdom Tree Collection,2017-04-25 00:00:00,10500.0,4.0,4.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,positive,single only,24.0,28.0,,,
+793,624560,Medusa's Labyrinth VR,2017-05-25 00:00:00,5500.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,9 user reviews,single only,1.0,8.0,,,
+794,624610,RUN,2017-05-20 00:00:00,2200.0,6.0,6.0,Action,0.0,0.0,Indie,1.0,0.0,0.0,,3 user reviews,single only,3.0,2.0,,,
+795,624630,TennisVR,2017-04-20 00:00:00,1100.0,6.0,6.0,Sports,0.0,0.0,Tennis,1.0,0.0,0.0,,negative,single only,2.0,9.0,,,
+796,624680,Promethium,2017-08-19 00:00:00,10500.0,6.0,6.0,Action,0.0,24.0,Indie,11.0,0.0,0.0,,mixed,single only,15.0,7.0,,,30.1
+797,624690,NEXT JUMP: Shmup Tactics,2017-04-29 00:00:00,5500.0,5.0,5.0,Indie,0.0,51.0,Shoot 'Em Up,2.0,0.0,0.0,,mostly positive,single only,59.0,16.0,,,15.2
+798,624710,Cow Milking Simulator,2017-10-31 00:00:00,3300.0,6.0,6.0,Casual,0.0,19.0,Indie,1.0,0.0,0.0,,positive,single only,33.0,2.0,8.5,98.0,11.5
+799,624830,Battle Summoners VR,2017-05-23 00:00:00,,5.0,5.0,Action,0.0,21.0,Indie,1.0,0.0,0.0,,positive,single only,31.0,3.0,,,90.6
+800,624890,Adventure Craft,2017-07-06 00:00:00,0.0,6.0,6.0,Action,0.0,0.0,Early Access,1.0,0.0,0.0,,very positive,single only,133.0,27.0,1.7,30.0,
+801,624900,COMET STRIKE,2017-04-28 00:00:00,3300.0,6.0,6.0,Action,0.0,24.0,Action,1.0,0.0,0.0,,1 user reviews,single only,1.0,0.0,0.0,2.0,24.1
+802,624920,Trapped With the Dolls VR,2017-04-24 00:00:00,0.0,6.0,6.0,Adventure,0.0,0.0,Free to Play,1.0,0.0,0.0,,mostly positive,single only,41.0,11.0,0.0,4.0,
+803,624970,Battlezone: Combat Commander,2018-03-02 00:00:00,20500.0,2.0,2.0,Action,0.0,66.0,Strategy,3.0,0.0,0.0,very positive,very positive,single only,577.0,70.0,18.8,285.0,58.3
+804,624990,The Mimic,2017-11-18 00:00:00,10500.0,6.0,6.0,Action,0.0,25.0,Indie,1.0,0.0,0.0,,8 user reviews,single and multi,10.0,0.0,,,65.1
+805,625000,Knightfall,2017-09-04 00:00:00,,5.0,5.0,Action,0.0,0.0,Action,1.0,0.0,1.0,,positive,single only,14.0,1.0,,,
+806,625040,Ophidia,2017-05-25 00:00:00,5500.0,6.0,6.0,Action,0.0,9.0,Casual,1.0,0.0,0.0,,8 user reviews,single only,13.0,7.0,,,5.4
+807,625120,Last Hours Of Jack,2017-05-05 00:00:00,4400.0,6.0,6.0,Action,0.0,15.0,Action,1.0,0.0,0.0,,positive,single only,30.0,5.0,,,15.3
+808,625160,Scrollonoid,2017-06-16 00:00:00,3300.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,4 user reviews,single only,7.0,4.0,,,
+809,625180,Elevator VR,2017-05-16 00:00:00,2200.0,6.0,6.0,Casual,0.0,18.0,Indie,1.0,0.0,1.0,,negative,single only,2.0,9.0,,,43.2
+810,625220,Building Blocks / Master Builder of Egypt,2017-12-02 00:00:00,13500.0,6.0,6.0,Adventure,0.0,0.0,Adventure,2.0,0.0,0.0,,no user reviews,single only,2.0,0.0,,,
+811,625320,No Clue VR,2017-05-18 00:00:00,20500.0,6.0,6.0,Action,0.0,23.0,Indie,5.0,0.0,0.0,,6 user reviews,single only,15.0,7.0,,,37.9
+812,625340,XERA: Survival,2021-09-27 00:00:00,0.0,6.0,6.0,Action,1.0,0.0,Survival,11.0,0.0,0.0,,,,4516.0,2073.0,150.2,3079.0,
+813,625370,A SECOND BEFORE US,2017-05-10 00:00:00,4400.0,5.0,5.0,Adventure,0.0,16.0,Adventure,4.0,0.0,0.0,,mixed,single only,56.0,41.0,,,6.2
+814,625410,Anomie,2017-08-23 00:00:00,8500.0,6.0,6.0,Action,0.0,0.0,Casual,1.0,0.0,1.0,,3 user reviews,single only,10.0,0.0,,,
+815,625430,Doodle God Blitz,2017-09-02 00:00:00,0.0,5.0,5.0,Casual,0.0,24.0,Free to Play,13.0,0.0,1.0,,mixed,single only,464.0,225.0,4.8,256.0,84.7
+816,625470,The Red Stare,2017-07-31 00:00:00,0.0,6.0,6.0,Action,0.0,17.0,Free to Play,1.0,0.0,0.0,,very positive,single only,333.0,40.0,3.6,123.0,35.4
+817,625560,The Overdreamer,2017-07-17 00:00:00,11500.0,6.0,6.0,Adventure,0.0,8.0,Adventure,2.0,0.0,0.0,,9 user reviews,single only,13.0,2.0,0.0,35.0,9.9
+818,625580,The Cleansing - Versus,2017-09-28 00:00:00,0.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,1.0,,mixed,single and multi,6.0,4.0,0.0,4.0,
+819,625630,Journey of Johann,2017-05-19 00:00:00,8500.0,6.0,6.0,Action,0.0,42.0,Action,1.0,0.0,1.0,,4 user reviews,single only,5.0,0.0,,,17.8
+820,625680,Way of the Passive Fist,2018-03-06 00:00:00,15500.0,6.0,6.0,Action,0.0,36.0,Action,6.0,0.0,0.0,,very positive,single only,149.0,38.0,,,62.6
+821,625690,归墟纪·寂夜 FINAL WORLD,2017-06-23 00:00:00,18000.0,6.0,6.0,Action,0.0,0.0,Adventure,2.0,0.0,0.0,,6 user reviews,single only,5.0,1.0,,,
+822,625700,Global Soccer: A Management Game 2017,2017-05-24 00:00:00,10500.0,5.0,5.0,Casual,0.0,50.0,Sports,9.0,0.0,0.0,,mixed,single only,15.0,12.0,,,8.5
+823,625730,Cefore,2018-04-06 00:00:00,10500.0,5.0,6.0,Indie,0.0,12.0,Indie,6.0,0.0,1.0,,mixed,single only,42.0,13.0,0.0,12.0,85.3
+824,625740,Rifter,2018-07-12 00:00:00,12500.0,6.0,6.0,Action,0.0,14.0,Action,1.0,0.0,0.0,,very positive,single only,104.0,4.0,,,94.4
+825,625770,Smashing The Battle VR,2017-06-16 00:00:00,11000.0,6.0,6.0,Action,0.0,20.0,Action,6.0,0.0,0.0,,positive,single only,19.0,2.0,,,5.0
+826,625780,Magic Wand,2016-08-16 00:00:00,4400.0,6.0,6.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,positive,single only,54.0,3.0,0.1,5.0,
+827,625800,Tomb Guard VR,2017-05-20 00:00:00,10500.0,6.0,6.0,Action,0.0,0.0,Strategy,2.0,0.0,0.0,,4 user reviews,single only,5.0,1.0,,,
+828,625820,Bionic Battle Mutants,2017-10-24 00:00:00,5500.0,6.0,6.0,Indie,0.0,0.0,Turn-Based Tactics,1.0,0.0,0.0,,mostly positive,single only,30.0,6.0,,,
+829,625830,BattleSky VR,2018-01-20 00:00:00,13500.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,positive,single only,25.0,3.0,,,
+830,625860,God Awe-full Clicker,2018-09-20 00:00:00,0.0,6.0,6.0,Action,0.0,80.0,Free to Play,1.0,0.0,0.0,,mixed,single only,235.0,117.0,14.2,996.0,82.6
+831,625900,Ashes of Kanaka,2017-04-26 00:00:00,2200.0,6.0,6.0,RPG,0.0,0.0,RPG,1.0,0.0,0.0,,4 user reviews,single only,4.0,2.0,,,
+832,625910,Time Recoil,2017-08-10 00:00:00,15000.0,4.0,4.0,Action,0.0,15.0,Action,1.0,0.0,1.0,,very positive,single only,81.0,21.0,,,27.7
+833,625940,Tomato Jones 2,2017-05-13 00:00:00,2200.0,6.0,6.0,Action,0.0,0.0,Casual,2.0,0.0,0.0,,mostly positive,single only,39.0,13.0,,,
+834,625960,Stoneshard,2020-02-07 00:00:00,26000.0,4.0,2.0,Adventure,1.0,54.0,RPG,12.0,0.0,1.0,mostly positive,mostly positive,single only,16113.0,4948.0,234.8,10706.0,18.6
+835,625980,Yomawari: Midnight Shadows,2017-10-25 00:00:00,20000.0,2.0,2.0,Adventure,0.0,33.0,Horror,2.0,0.0,1.0,very positive,very positive,single only,539.0,27.0,8.1,48.0,79.6
+836,625990,Welcome to Moreytown,2017-05-05 00:00:00,4400.0,2.0,2.0,Adventure,0.0,22.0,Indie,1.0,0.0,0.0,,positive,single only,35.0,8.0,0.1,46.0,75.5
+837,626010,Office Space: Idle Profits,2017-10-19 00:00:00,0.0,3.0,3.0,Free to Play,0.0,10.0,Free to Play,7.0,0.0,0.0,,mixed,single only,193.0,129.0,6.3,640.0,61.6
+838,626020,Shadows in the Darkness,2017-10-20 00:00:00,5500.0,6.0,6.0,Action,0.0,0.0,Indie,1.0,0.0,0.0,,7 user reviews,single and multi,5.0,3.0,,,
+839,626160,Awesome Machine,2017-07-04 00:00:00,2200.0,6.0,6.0,Casual,0.0,36.0,Indie,3.0,0.0,0.0,,9 user reviews,single only,13.0,5.0,,,34.6
+840,626170,Apocalypse Night,2017-10-31 00:00:00,1100.0,6.0,6.0,Action,0.0,27.0,Action,3.0,0.0,0.0,,positive,single only,24.0,5.0,,,11.0
+841,626200,Dead Alliance™,2017-08-30 00:00:00,20500.0,6.0,6.0,Action,0.0,44.0,FPS,6.0,0.0,1.0,,mixed,single only,42.0,82.0,0.0,34.0,55.0
+842,626250,Consortium: THE TOWER,2017-09-22 00:00:00,27000.0,5.0,5.0,Action,0.0,49.0,RPG,1.0,0.0,0.0,,mixed,single only,27.0,16.0,0.0,10.0,28.3
+843,626510,LoveKami -Useless Goddess-,2017-05-30 00:00:00,14000.0,2.0,2.0,Adventure,0.0,19.0,Sexual Content,2.0,0.0,1.0,,very positive,single only,290.0,67.0,1.8,85.0,52.4
+844,626550,Prodigy Tactics,2018-09-28 00:00:00,20500.0,6.0,5.0,Action,0.0,0.0,Strategy,2.0,0.0,0.0,,mostly negative,single only,75.0,120.0,,,
+845,626570,Microcosm,2017-04-17 00:00:00,0.0,6.0,6.0,Casual,0.0,0.0,Indie,1.0,0.0,0.0,,4 user reviews,single only,4.0,0.0,,,
+846,626580,Spellspire,2017-05-23 00:00:00,10500.0,4.0,4.0,RPG,0.0,22.0,RPG,1.0,0.0,0.0,,mostly positive,single only,67.0,26.0,0.6,17.0,45.4
+847,626600,Lost Dimension,2017-10-31 00:00:00,26000.0,6.0,5.0,RPG,0.0,36.0,JRPG,1.0,0.0,1.0,,mostly positive,single only,139.0,35.0,2.2,73.0,78.8
+848,626610,TT Isle of Man Ride on the Edge,2018-03-27 00:00:00,20500.0,6.0,2.0,Racing,0.0,31.0,Simulation,11.0,0.0,1.0,,mostly positive,single only,836.0,340.0,8.3,425.0,80.6
+849,626630,Two Worlds II HD - Call of the Tenebrae,2017-07-13 00:00:00,16000.0,6.0,6.0,Action,0.0,61.0,RPG,2.0,0.0,0.0,,mixed,single only,26.0,26.0,,,1.8
+850,626640,Lost Lands: The Wanderer,2017-05-03 00:00:00,7500.0,4.0,4.0,Adventure,0.0,21.0,Adventure,14.0,0.0,0.0,,very positive,single only,68.0,3.0,2.0,18.0,90.5
+851,626660,Flipping Death,2018-08-07 00:00:00,20500.0,5.0,5.0,Adventure,0.0,12.0,Adventure,5.0,0.0,0.0,,very positive,single only,154.0,17.0,,,46.2
+852,626680,Kreedz Climbing,2017-06-16 00:00:00,0.0,6.0,6.0,Free to Play,0.0,40.0,Free to Play,4.0,0.0,0.0,,very positive,single and multi,752.0,173.0,2.6,376.0,3.1
+853,626690,Sword Art Online: Fatal Bullet,2018-02-24 00:00:00,32800.0,1.0,1.0,Action,0.0,63.0,Anime,11.0,0.0,1.0,mostly positive,very positive,single only,13744.0,3508.0,214.3,21727.0,76.4
+854,626700,Clark | HOOVA VR,2018-01-25 00:00:00,0.0,6.0,6.0,Casual,0.0,0.0,Free to Play,1.0,0.0,0.0,,mostly positive,single only,14.0,4.0,,,
+855,626730,The Incredible VR Game Show,2018-04-13 00:00:00,10500.0,6.0,6.0,Casual,0.0,0.0,Casual,1.0,0.0,0.0,,4 user reviews,single only,4.0,3.0,0.0,2.0,
+856,626760,VRtender,2017-05-03 00:00:00,1100.0,6.0,6.0,Action,0.0,5.0,Action,1.0,0.0,0.0,,mostly negative,single only,3.0,8.0,,,65.2
+857,626780,Botanica: Into the Unknown Collector's Edition,2017-04-27 00:00:00,,6.0,3.0,Adventure,0.0,0.0,Casual,1.0,0.0,0.0,,1 user reviews,single only,1.0,0.0,,,
+858,626840,Shadow Wolf Mysteries: Curse of the Full Moon Collector's Edition,2017-04-29 00:00:00,10500.0,6.0,3.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,6 user reviews,single only,6.0,0.0,0.4,3.0,
+859,627070,inVokeR,2017-07-21 00:00:00,16000.0,6.0,6.0,Action,0.0,12.0,Action,3.0,0.0,0.0,,mostly positive,single only,52.0,11.0,,,18.8
+860,627270,Injustice™ 2,2017-12-01 00:00:00,55900.0,1.0,1.0,Action,0.0,74.0,Fighting,9.0,0.0,1.0,very positive,very positive,single only,12536.0,2030.0,297.1,1851.0,87.4
+861,627350,London Detective Mysteria,2019-08-01 00:00:00,31000.0,6.0,2.0,Adventure,0.0,16.0,Adventure,2.0,0.0,1.0,,very positive,single only,94.0,12.0,,,68.4
+862,627410,BlackEye,2017-08-09 00:00:00,5500.0,6.0,6.0,Action,0.0,0.0,Action,27.0,0.0,0.0,,positive,single only,25.0,10.0,70.1,961.0,
+863,627420,Sorgina: A Tale of Witches,2017-05-30 00:00:00,10500.0,6.0,6.0,Adventure,0.0,38.0,Indie,2.0,0.0,0.0,,3 user reviews,single only,5.0,3.0,,,7.4
+864,627450,RUGBY 18,2017-10-27 00:00:00,20500.0,6.0,2.0,Sports,0.0,23.0,Sports,5.0,0.0,1.0,,mixed,single only,48.0,49.0,0.7,33.0,78.4
+865,627460,THORNYWAY,2017-09-11 00:00:00,6500.0,6.0,6.0,Action,0.0,7.0,Action,2.0,0.0,0.0,,mostly negative,single only,9.0,10.0,,,39.3
+866,627570,VentureVerse: Legend of Ulora,2018-08-24 00:00:00,,6.0,6.0,Action,0.0,17.0,RPG,1.0,0.0,0.0,,3 user reviews,single and multi,12.0,1.0,,,8.9
+867,627620,Intelligent Design: An Evolutionary Sandbox,2017-05-12 00:00:00,7500.0,5.0,5.0,Indie,0.0,12.0,Idler,1.0,0.0,0.0,,mixed,single only,62.0,75.0,,,21.1
+868,627670,Rocket Wars,2017-06-15 00:00:00,1100.0,6.0,6.0,Action,0.0,20.0,4 Player Local,4.0,0.0,0.0,,positive,single and multi,36.0,3.0,33.2,430.0,9.7
+869,627690,Idle Champions of the Forgotten Realms,2020-03-26 00:00:00,0.0,5.0,5.0,Action,0.0,400.0,Idler,7.0,0.0,1.0,mostly positive,very positive,single only,8405.0,2034.0,4922.4,18578.0,58.4
+870,627820,England Exchange,2017-05-06 00:00:00,16000.0,4.0,4.0,Casual,0.0,16.0,Sexual Content,1.0,0.0,0.0,,mixed,single only,59.0,49.0,0.4,65.0,83.2
+871,627890,Reventa,2018-08-15 00:00:00,4400.0,6.0,6.0,Action,0.0,0.0,Action,2.0,0.0,0.0,,positive,single only,44.0,10.0,,,
+872,627910,Bubsy: The Woolies Strike Back,2017-11-01 00:00:00,20500.0,6.0,5.0,Action,0.0,11.0,Adventure,2.0,0.0,1.0,,mixed,single only,97.0,76.0,,,31.8
+873,627950,1914: Prelude to Chaos,2017-05-09 00:00:00,1100.0,6.0,6.0,RPG,0.0,0.0,RPG,1.0,0.0,0.0,,mixed,single only,50.0,55.0,4.3,2316.0,
+874,628070,Romance of the Three Kingdoms XI with Power Up Kit,2018-01-17 00:00:00,41000.0,1.0,1.0,Strategy,0.0,0.0,Strategy,1.0,0.0,0.0,very positive,very positive,single only,2014.0,178.0,434.5,1408.0,
+875,628080,Romance of the Three Kingdoms XII with Power Up Kit,2018-01-17 00:00:00,41000.0,1.0,1.0,Strategy,0.0,0.0,Strategy,1.0,0.0,0.0,,mixed,single only,144.0,58.0,43.4,200.0,
+876,628200,The Invisible Hand,2021-05-07 00:00:00,13500.0,6.0,2.0,Adventure,0.0,31.0,Capitalism,2.0,0.0,1.0,,very positive,single only,256.0,55.0,4.1,301.0,87.9
+877,628290,All Walls Must Fall - A Tech-Noir Tactics Game,2018-02-23 00:00:00,10500.0,5.0,5.0,Indie,0.0,153.0,Indie,8.0,0.0,1.0,,mixed,single only,173.0,65.0,,,54.0
+878,628320,Roah,2019-11-29 00:00:00,26000.0,6.0,6.0,Action,0.0,60.0,Action,1.0,0.0,1.0,,mostly positive,single only,49.0,15.0,,,69.7
+879,628330,Warlocks 2: God Slayers,2019-07-18 00:00:00,20500.0,5.0,5.0,Action,0.0,32.0,Action,7.0,0.0,1.0,,mixed,single and multi,33.0,28.0,0.3,27.0,68.5
+880,628350,Lazaretto,2017-05-20 00:00:00,7500.0,6.0,6.0,Action,0.0,0.0,Indie,1.0,0.0,0.0,,mostly positive,single only,70.0,20.0,,,
+881,628440,Multiplayer FPS Demo,2017-07-07 00:00:00,0.0,6.0,6.0,Action,0.0,0.0,Free to Play,1.0,0.0,0.0,,mixed,single and multi,107.0,92.0,,,
+882,628450,Magnificent Ships: Volume 2,2017-05-18 00:00:00,10500.0,5.0,5.0,Casual,0.0,0.0,Casual,27.0,0.0,0.0,,7 user reviews,single only,7.0,1.0,,,
+883,628460,Lily of the Valley,2017-05-06 00:00:00,3300.0,4.0,4.0,Casual,0.0,8.0,Indie,2.0,0.0,1.0,,very positive,single only,63.0,5.0,,,54.2
+884,628530,Blobby Tennis,2017-05-13 00:00:00,0.0,6.0,6.0,Indie,0.0,16.0,Tennis,2.0,0.0,0.0,,mostly positive,single only,32.0,13.0,,,37.8
+885,628550,Crypt Stalker,2020-10-30 00:00:00,3300.0,6.0,6.0,Action,0.0,20.0,Action,1.0,0.0,0.0,,very positive,single only,63.0,6.0,0.1,5.0,72.5
+886,628560,Bebop and Tempo,2017-06-19 00:00:00,10500.0,6.0,6.0,Action,0.0,22.0,Action,1.0,0.0,0.0,,1 user reviews,single only,4.0,4.0,,,10.8
+887,628570,Trivia Night,2022-05-10 00:00:00,5500.0,5.0,5.0,Casual,0.0,0.0,Indie,2.0,0.0,0.0,,mostly positive,single only,18.0,9.0,,,
+888,628580,Miniballist,2018-03-14 00:00:00,4400.0,5.0,5.0,Casual,0.0,13.0,Indie,1.0,0.0,0.0,,positive,single only,21.0,10.0,,,90.1
+889,628650,A New World: Kingdoms,2017-10-05 00:00:00,4400.0,5.0,5.0,Casual,0.0,14.0,Turn-Based Tactics,1.0,0.0,0.0,,3 user reviews,single only,0.0,8.0,,,33.7
+890,628660,Lode Runner Legacy,2017-07-13 00:00:00,12000.0,6.0,6.0,Action,0.0,35.0,Action,8.0,0.0,0.0,,very positive,single and multi,109.0,22.0,,,91.6
+891,628670,Hellpoint,2020-07-31 00:00:00,36000.0,2.0,2.0,Action,0.0,42.0,Souls-like,10.0,0.0,1.0,mostly positive,mostly positive,single and multi,2580.0,866.0,41.8,1862.0,49.7
+892,628700,The Flaws of Gravity,2017-05-06 00:00:00,0.0,6.0,6.0,Adventure,0.0,0.0,Free to Play,1.0,0.0,0.0,,mixed,single only,142.0,92.0,,,
+893,628710,Hell Warders,2019-02-21 00:00:00,16000.0,3.0,3.0,Action,0.0,17.0,Action,11.0,0.0,0.0,,mixed,single and multi,80.0,52.0,0.3,35.0,14.0
+894,628730,Adolescent Santa Claus,2018-07-20 00:00:00,0.0,3.0,3.0,Adventure,0.0,0.0,Free to Play,3.0,0.0,1.0,very positive,very positive,single only,960.0,181.0,,,
+895,628750,aMAZE 2,2017-04-22 00:00:00,1100.0,3.0,3.0,Casual,0.0,10.0,Casual,1.0,0.0,0.0,very positive,very positive,single only,611.0,97.0,6.7,2526.0,16.2
+896,628760,The Adventurer - Episode 1: Beginning of the End,2017-07-31 00:00:00,5500.0,5.0,5.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,mostly positive,mostly positive,single only,137.0,110.0,110.8,2076.0,
+897,628770,Tangledeep,2018-02-02 00:00:00,15500.0,6.0,6.0,Indie,0.0,55.0,Traditional Roguelike,5.0,0.0,1.0,,very positive,single only,1063.0,199.0,19.6,469.0,51.1
+898,628800,Super Hydorah,2017-09-20 00:00:00,20500.0,5.0,5.0,Action,0.0,21.0,Indie,9.0,0.0,0.0,,very positive,single and multi,159.0,14.0,0.2,25.0,45.2
+899,628820,ALaLa: Wake Mi Up!,2017-05-16 00:00:00,11500.0,6.0,6.0,Adventure,0.0,0.0,Adventure,3.0,0.0,0.0,,mixed,multi only,7.0,4.0,0.0,3.0,
+900,628830,Ultra Hat Dimension,2020-07-17 00:00:00,5500.0,5.0,5.0,Adventure,0.0,0.0,Casual,7.0,0.0,0.0,,positive,single only,23.0,0.0,,,
+901,628900,Terra Mystica,2017-06-09 00:00:00,16000.0,5.0,5.0,Indie,0.0,5.0,Indie,8.0,0.0,0.0,,mixed,single only,124.0,84.0,6.5,122.0,0.0
+902,628920,Tomboys Need Love Too!,2017-05-12 00:00:00,10500.0,5.0,5.0,Casual,0.0,7.0,Sexual Content,4.0,0.0,1.0,,very positive,single only,147.0,21.0,,,60.8
+903,628940,LIZ: Before the Plague,2019-10-31 00:00:00,9500.0,6.0,6.0,Action,1.0,17.0,Action,1.0,0.0,0.0,,2 user reviews,single only,2.0,0.0,,,15.4
+904,628950,Nephise Begins,2017-04-25 00:00:00,1100.0,4.0,4.0,Adventure,0.0,5.0,Adventure,3.0,0.0,0.0,,mostly positive,single only,674.0,404.0,,,28.4
+905,628960,Journey to Alien Worlds,2017-04-28 00:00:00,4400.0,6.0,6.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,5 user reviews,single only,7.0,0.0,,,
+906,629000,Lydia,2017-06-02 00:00:00,4400.0,5.0,5.0,Adventure,0.0,0.0,Adventure,7.0,0.0,0.0,,very positive,single only,477.0,62.0,0.3,18.0,
+907,629030,Employee Recycling Center,2017-05-16 00:00:00,2200.0,6.0,6.0,Adventure,0.0,505.0,Indie,27.0,0.0,0.0,,mostly negative,single only,37.0,92.0,,,14.6
+908,629040,Skytropolis,2017-11-03 00:00:00,26000.0,6.0,6.0,Indie,0.0,0.0,Colony Sim,1.0,0.0,0.0,,mostly positive,single only,25.0,7.0,0.0,8.0,
+909,629080,Beyond: Light Advent Collector's Edition,2017-05-06 00:00:00,10500.0,6.0,3.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,7 user reviews,single only,7.0,1.0,0.0,2.0,
+910,629090,Horace,2019-07-19 00:00:00,15500.0,6.0,2.0,Action,0.0,58.0,Indie,5.0,0.0,1.0,,very positive,single only,466.0,108.0,1.7,55.0,84.6
+911,629100,"Cadenza: Music, Betrayal and Death Collector's Edition",2017-05-04 00:00:00,10500.0,6.0,3.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,positive,single only,17.0,0.0,,,
+912,629110,Dark Parables: Ballad of Rapunzel Collector's Edition,2017-05-02 00:00:00,10500.0,6.0,3.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,positive,single only,29.0,1.0,,,
+913,629210,Extra Terrestrial Perception,2017-06-14 00:00:00,0.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,mostly negative,single only,5.0,9.0,0.0,1.0,
+914,629220,Rise of Insanity,2018-03-02 00:00:00,10500.0,5.0,5.0,Adventure,0.0,14.0,Indie,9.0,0.0,1.0,,mostly positive,single only,780.0,204.0,,,54.3
+915,629230,The StoryTale,2019-08-16 00:00:00,5000.0,6.0,6.0,Action,1.0,36.0,Action,6.0,0.0,0.0,,positive,single only,57.0,8.0,,,41.2
+916,629240,Toilet Run,2018-09-27 00:00:00,3300.0,6.0,6.0,Casual,0.0,8.0,Simulation,1.0,0.0,0.0,,positive,single only,15.0,3.0,,,13.6
+917,629340,Possession,2019-07-18 00:00:00,10500.0,6.0,6.0,Indie,0.0,38.0,Roguelike,1.0,0.0,0.0,,6 user reviews,single only,13.0,1.0,0.0,4.0,66.9
+918,629360,The Falling Nights ®,2017-05-18 00:00:00,5500.0,6.0,6.0,Indie,0.0,50.0,Indie,2.0,0.0,0.0,,5 user reviews,single only,2.0,4.0,,,71.7
+919,629380,Cosmic Pioneer,2017-06-08 00:00:00,1100.0,6.0,6.0,Casual,0.0,0.0,Indie,1.0,0.0,0.0,,mostly negative,single only,17.0,27.0,3.4,1946.0,
+920,629400,Mall Mayhem,2017-10-07 00:00:00,1100.0,6.0,6.0,Action,0.0,20.0,Action,1.0,0.0,0.0,,3 user reviews,single only,8.0,6.0,,,91.3
+921,629410,VectorWave,2017-11-17 00:00:00,0.0,6.0,6.0,Action,0.0,20.0,Strategy,1.0,0.0,0.0,,positive,single only,24.0,4.0,,,29.1
+922,629420,Super Perspective,2017-09-15 00:00:00,0.0,6.0,6.0,Indie,0.0,8.0,Indie,1.0,0.0,1.0,,positive,single only,26.0,2.0,,,26.4
+923,629430,The Last Birdling,2017-09-01 00:00:00,6500.0,5.0,5.0,Indie,0.0,28.0,Indie,1.0,0.0,1.0,,positive,single only,55.0,1.0,,,31.2
+924,629440,Graze Counter,2017-07-29 00:00:00,10500.0,4.0,4.0,Action,0.0,0.0,Action,6.0,0.0,1.0,,very positive,single only,221.0,8.0,0.3,40.0,
+925,629540,Alien Arena: Warriors Of Mars,2017-11-04 00:00:00,0.0,6.0,6.0,Action,0.0,48.0,Action,1.0,0.0,1.0,,mostly positive,single and multi,110.0,32.0,0.3,137.0,20.6
+926,629550,Placebo Effect,2019-05-03 00:00:00,0.0,6.0,6.0,Action,0.0,9.0,Action,1.0,0.0,0.0,,mostly positive,single only,8.0,3.0,,,67.0
+927,629640,Sea Battle VR,2017-11-24 00:00:00,6500.0,6.0,6.0,Action,0.0,0.0,Strategy,2.0,0.0,0.0,,8 user reviews,,2.0,7.0,,,
+928,629650,Symphonic Rain,2017-06-15 00:00:00,43000.0,6.0,5.0,Adventure,0.0,13.0,Visual Novel,5.0,0.0,0.0,,overwhelmingly positive,single only,555.0,20.0,4.1,67.0,70.2
+929,629690,Vaporum,2017-09-29 00:00:00,21000.0,5.0,5.0,Action,0.0,59.0,Dungeon Crawler,10.0,0.0,0.0,,very positive,single only,674.0,101.0,4.0,132.0,71.3
+930,629720,Fuzecat,2017-05-24 00:00:00,4400.0,6.0,6.0,Action,0.0,0.0,Action,2.0,0.0,0.0,,mixed,single and multi,14.0,7.0,0.0,2.0,
+931,629730,Blade and Sorcery,2018-12-11 00:00:00,20500.0,5.0,5.0,Action,1.0,0.0,VR,1.0,0.0,0.0,overwhelmingly positive,overwhelmingly positive,single only,31434.0,1139.0,822.8,10235.0,
+932,629760,MORDHAU,2019-04-30 00:00:00,31000.0,6.0,6.0,Action,0.0,38.0,Medieval,10.0,0.0,1.0,mostly positive,very positive,multi only,82312.0,19040.0,2063.3,60204.0,78.0
+933,629770,Tiny Echo,2017-08-31 00:00:00,8500.0,3.0,3.0,Adventure,0.0,6.0,Adventure,1.0,0.0,1.0,,very positive,single only,489.0,73.0,0.4,24.0,55.0
+934,629780,WizzBall,2017-12-16 00:00:00,10500.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,2 user reviews,multi only,10.0,3.0,,,
+935,629810,Galact Quest,2017-05-11 00:00:00,9500.0,5.0,5.0,Casual,0.0,0.0,Casual,7.0,0.0,0.0,,4 user reviews,single only,8.0,4.0,0.0,3.0,
+936,629820,Maneater,2021-05-25 00:00:00,41000.0,2.0,2.0,Action,0.0,44.0,Dark Humor,14.0,0.0,1.0,very positive,very positive,single only,8120.0,941.0,143.1,2811.0,93.6
+937,629840,Caligo,2017-09-22 00:00:00,1100.0,6.0,6.0,Adventure,0.0,0.0,Indie,2.0,0.0,0.0,,mostly positive,single only,680.0,235.0,0.3,37.0,
+938,629860,Spelunker Party!,2017-10-20 00:00:00,29500.0,6.0,1.0,Action,0.0,35.0,Action,4.0,0.0,0.0,,positive,single and multi,53.0,5.0,0.7,16.0,78.2
+939,629910,Clicker Heroes 2,2018-07-17 00:00:00,20500.0,4.0,4.0,Action,0.0,38.0,Clicker,1.0,0.0,1.0,,,single only,1524.0,1056.0,63.0,9570.0,53.7
+940,629960,夏花的轨迹——A summer promise to forever,2017-08-15 00:00:00,2200.0,6.0,6.0,Adventure,0.0,6.0,Sexual Content,3.0,0.0,0.0,,mostly positive,single only,224.0,68.0,9.9,107.0,40.9
+941,629970,Beast Pets,2019-02-15 00:00:00,10500.0,6.0,6.0,Casual,1.0,0.0,Casual,1.0,0.0,0.0,,9 user reviews,single only,21.0,1.0,0.3,21.0,
+942,630020,The First Class VR,2017-12-14 00:00:00,7500.0,6.0,4.0,Indie,0.0,11.0,Simulation,4.0,0.0,0.0,,mostly positive,single only,33.0,8.0,,,41.3
+943,630030,War Tech Fighters,2018-07-26 00:00:00,20500.0,4.0,4.0,Action,0.0,45.0,Action,4.0,0.0,0.0,,mostly positive,single only,236.0,66.0,,,76.4
+944,630050,Dead Exit,2017-06-21 00:00:00,6500.0,6.0,6.0,Casual,0.0,22.0,Casual,1.0,0.0,0.0,,mixed,single and multi,22.0,9.0,,,32.2
+945,630060,Consummate:Missing World 寇莎梅特：困世迷情,2017-07-21 00:00:00,1100.0,5.0,5.0,Adventure,0.0,888.0,RPG,3.0,0.0,1.0,very positive,overwhelmingly positive,single only,884.0,40.0,30.4,418.0,20.5
+946,630070,Tengutana,2017-10-27 00:00:00,4400.0,6.0,6.0,Action,0.0,9.0,Action,1.0,0.0,0.0,,8 user reviews,single only,15.0,4.0,,,65.0
+947,630080,EggTime 2,2018-05-08 00:00:00,7500.0,6.0,6.0,Action,0.0,11.0,Action,1.0,0.0,0.0,,positive,single only,17.0,2.0,,,52.1
+948,630140,Sky Clash: Lords of Clans 3D,2018-09-05 00:00:00,0.0,6.0,5.0,Free to Play,0.0,27.0,Free to Play,8.0,0.0,0.0,,mostly positive,,146.0,39.0,38.2,101.0,30.5
+949,630160,Super Rocket Shootout,2017-07-15 00:00:00,10500.0,6.0,5.0,Action,0.0,62.0,Action,3.0,0.0,0.0,,mostly positive,single and multi,18.0,6.0,0.0,23.0,31.3
+950,630170,Murder In Tehran's Alleys 1933,2017-06-09 00:00:00,10500.0,4.0,6.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,mixed,single only,6.0,9.0,0.0,3.0,
+951,630230,DNL Dedicated Server Tool,2017-07-21 00:00:00,,6.0,6.0,Action,0.0,0.0,Simulation,1.0,0.0,0.0,,no user reviews,single only,,,0.0,1.0,
+952,630240,Nevertales: Smoke and Mirrors Collector's Edition,2017-05-09 00:00:00,10500.0,6.0,3.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,5 user reviews,single only,4.0,1.0,,,
+953,630260,Tilted Mind,2017-06-10 00:00:00,3300.0,6.0,6.0,Indie,0.0,0.0,Indie,1.0,0.0,0.0,,8 user reviews,single only,8.0,0.0,,,
+954,630310,The Mummy Demastered,2017-10-24 00:00:00,20500.0,2.0,2.0,Action,0.0,37.0,Action,10.0,0.0,0.0,,very positive,single only,378.0,90.0,2.3,45.0,83.2
+955,630360,Megacity Builder,2017-07-19 00:00:00,8500.0,6.0,6.0,Indie,0.0,20.0,Trading,14.0,0.0,0.0,,mostly negative,single only,7.0,14.0,,,1.7
+956,630390,Safari Venture,2017-05-13 00:00:00,4400.0,6.0,6.0,Casual,0.0,0.0,Casual,4.0,0.0,0.0,,1 user reviews,single only,7.0,3.0,,,
+957,630400,Explottens,,5500.0,6.0,6.0,Action,0.0,21.0,Early Access,14.0,0.0,0.0,,9 user reviews,single only,14.0,1.0,,,35.6
+958,630460,Fist's Elimination Tower,2017-08-28 00:00:00,5500.0,6.0,6.0,Action,0.0,34.0,Action,1.0,0.0,0.0,,positive,single only,39.0,1.0,,,56.4
+959,630470,Solitaire Club,2017-05-12 00:00:00,5500.0,6.0,6.0,Casual,0.0,0.0,Casual,5.0,0.0,0.0,,mixed,single only,12.0,5.0,,,
+960,630490,Storm Area 51: September 20th 2019,2019-09-01 00:00:00,15500.0,6.0,6.0,Action,1.0,0.0,Simulation,1.0,0.0,0.0,,mostly negative,single only,23.0,33.0,,,
+961,630610,Disneyland Adventures,2018-09-15 00:00:00,20500.0,1.0,1.0,Adventure,0.0,49.0,Adventure,16.0,0.0,0.0,,very positive,single and multi,397.0,42.0,13.7,103.0,94.6
+962,630630,Apex,2017-10-19 00:00:00,3300.0,6.0,6.0,Casual,0.0,0.0,Casual,1.0,0.0,0.0,,mostly positive,,32.0,11.0,,,
+963,630640,SEQUENCE STORM,2018-12-22 00:00:00,0.0,6.0,6.0,Action,0.0,38.0,Rhythm,1.0,0.0,1.0,,very positive,single only,122.0,3.0,,,33.0
+964,630670,Call of the Ocean,2017-12-20 00:00:00,4400.0,6.0,6.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,7 user reviews,single only,3.0,4.0,,,
+965,630690,Interplay Solitaire,2017-05-16 00:00:00,21000.0,5.0,4.0,Casual,0.0,10.0,Casual,1.0,0.0,0.0,,mixed,single only,6.0,10.0,,,41.9
+966,630720,Mana Spark,2018-09-27 00:00:00,12500.0,5.0,5.0,Action,0.0,20.0,Action Roguelike,6.0,0.0,0.0,,very positive,single only,441.0,112.0,3.3,153.0,67.1
+967,630830,The Legacy: Forgotten Gates,2017-08-04 00:00:00,7500.0,4.0,4.0,Adventure,0.0,21.0,Adventure,14.0,0.0,0.0,,very positive,single only,72.0,4.0,1.9,16.0,92.3
+968,630870,Chuusotsu! 1st Graduation: Time After Time,2018-04-24 00:00:00,,3.0,3.0,Adventure,0.0,13.0,Visual Novel,2.0,0.0,1.0,,positive,single only,56.0,3.0,0.1,22.0,47.1
+969,631120,RAYBEEM - Live in Your Music,2017-10-02 00:00:00,15500.0,6.0,6.0,Casual,0.0,0.0,Utilities,1.0,0.0,0.0,,5 user reviews,single only,6.0,0.0,,,
+970,631220,Puzzle Showdown 4K,2017-05-31 00:00:00,6500.0,6.0,6.0,Casual,0.0,16.0,Casual,1.0,0.0,0.0,,4 user reviews,single and multi,3.0,5.0,0.0,18.0,20.7
+971,631240,Haunted Train: Spirits of Charon Collector's Edition,2017-05-11 00:00:00,10500.0,6.0,3.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,3 user reviews,single only,1.0,2.0,,,
+972,631250,Double Clue: Solitaire Stories,2017-05-04 00:00:00,7500.0,6.0,3.0,Casual,0.0,0.0,Casual,1.0,0.0,0.0,,5 user reviews,single only,3.0,2.0,,,
+973,631260,PuppetShow™: Souls of the Innocent Collector's Edition,2017-05-18 00:00:00,10500.0,6.0,3.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,6 user reviews,single only,7.0,0.0,0.1,3.0,
+974,631270,Haunted Hotel II: Believe the Lies,2017-05-20 00:00:00,7500.0,6.0,3.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,7 user reviews,single only,3.0,4.0,,,
+975,631490,Son of Scoregasm,2017-11-30 00:00:00,5500.0,6.0,6.0,Action,0.0,18.0,Action,1.0,0.0,0.0,,mostly positive,single only,26.0,4.0,,,23.4
+976,631510,Devil May Cry HD Collection,2018-03-13 00:00:00,29000.0,1.0,1.0,Action,0.0,99.0,Action,8.0,0.0,1.0,very positive,very positive,single only,5122.0,502.0,450.4,758.0,48.5
+977,631540,Community Inc,2017-08-04 00:00:00,16000.0,6.0,2.0,Indie,0.0,11.0,Simulation,6.0,0.0,0.0,,mostly negative,single only,79.0,109.0,,,82.9
+978,631570,Whispers of a Machine,2019-04-17 00:00:00,15500.0,4.0,2.0,Adventure,0.0,25.0,Adventure,6.0,0.0,1.0,very positive,very positive,single only,1291.0,87.0,6.9,110.0,45.8
+979,631660,Immersion Chess,2017-05-15 00:00:00,0.0,6.0,6.0,Casual,0.0,29.0,Free to Play,1.0,0.0,1.0,,mixed,single only,78.0,39.0,1.2,23.0,13.8
+980,631770,Pixplode,2017-07-04 00:00:00,3300.0,5.0,5.0,Casual,0.0,63.0,Indie,8.0,0.0,0.0,,positive,single only,78.0,27.0,1.0,33.0,38.2
+981,631810,Galactic Gallery,2017-12-05 00:00:00,10500.0,6.0,6.0,Casual,0.0,0.0,Indie,1.0,0.0,0.0,,positive,,22.0,3.0,0.0,4.0,
+982,631830,Sarcophag,2018-04-06 00:00:00,1100.0,4.0,4.0,Casual,0.0,5000.0,Zombies,29.0,0.0,0.0,,mostly positive,single only,142.0,62.0,1.5,401.0,21.6
+983,631900,Airtone,2017-06-08 00:00:00,32000.0,6.0,6.0,Action,0.0,37.0,Action,5.0,0.0,0.0,,very positive,single only,192.0,11.0,0.2,30.0,94.9
+984,631920,Somewhere on Zibylon,2017-09-14 00:00:00,10500.0,5.0,5.0,Action,0.0,26.0,Action,1.0,0.0,0.0,,6 user reviews,single only,20.0,8.0,,,15.8
+985,631950,Caelum: Into the Sky,2017-06-09 00:00:00,5500.0,6.0,6.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,1 user reviews,single only,0.0,2.0,0.0,1.0,
+986,631980,Immortal Planet,2017-07-28 00:00:00,16000.0,6.0,6.0,Action,0.0,9.0,Souls-like,1.0,0.0,0.0,,very positive,single only,224.0,121.0,,,55.0
+987,631990,"Remember, Remember",2017-05-12 00:00:00,10500.0,6.0,6.0,Adventure,0.0,26.0,Violent,1.0,0.0,0.0,,mixed,single only,25.0,13.0,0.0,12.0,97.8
+988,632000,CrossCells,2017-05-26 00:00:00,3300.0,4.0,4.0,Casual,0.0,10.0,Casual,1.0,0.0,0.0,very positive,very positive,single only,535.0,94.0,3.2,106.0,87.3
+989,632020,Necromancer Returns,2018-02-01 00:00:00,10500.0,5.0,5.0,Adventure,0.0,21.0,Strategy,7.0,0.0,1.0,,mostly positive,single only,77.0,27.0,0.3,27.0,56.2
+990,632040,VR Sand,2019-02-08 00:00:00,5500.0,6.0,6.0,Casual,0.0,0.0,Casual,1.0,0.0,0.0,,9 user reviews,single only,9.0,0.0,,,
+991,632050,The Village,2017-10-12 00:00:00,5500.0,5.0,5.0,Action,0.0,8.0,Action,2.0,0.0,1.0,,mixed,single only,42.0,41.0,103.8,1834.0,1.6
+992,632070,The Fidelio Incident,2017-05-23 00:00:00,10500.0,6.0,6.0,Adventure,0.0,14.0,Walking Simulator,1.0,0.0,1.0,,mostly positive,single only,632.0,179.0,,,80.9
+993,632080,Kinese,2018-03-16 00:00:00,0.0,6.0,6.0,Casual,0.0,6.0,Indie,1.0,0.0,1.0,,positive,single only,9.0,1.0,0.0,4.0,10.9
+994,632100,The Last Sigil,2019-03-28 00:00:00,8500.0,6.0,6.0,Action,0.0,40.0,Action,3.0,0.0,0.0,,mixed,single only,22.0,13.0,0.0,13.0,63.3
+995,632110,Crimson Keep,2018-11-29 00:00:00,16000.0,6.0,6.0,Action,0.0,49.0,Action,1.0,0.0,0.0,,mixed,single only,11.0,7.0,,,86.3
+996,632130,Set 'N Det,2022-01-14 00:00:00,2200.0,5.0,5.0,Casual,0.0,0.0,Casual,29.0,0.0,0.0,,1 user reviews,single only,2.0,0.0,0.0,4.0,
+997,632170,Spartan Fist,2018-05-15 00:00:00,15500.0,5.0,5.0,Action,0.0,9.0,Action Roguelike,4.0,0.0,1.0,,mixed,single only,29.0,17.0,,,38.0
+998,632200,Kuro survival,2017-06-21 00:00:00,990.0,6.0,6.0,Action,0.0,5.0,Action,1.0,0.0,0.0,,mixed,single only,32.0,16.0,12.6,690.0,1.3
+999,632240,Gunball,2017-06-29 00:00:00,8500.0,6.0,6.0,Casual,0.0,0.0,Indie,1.0,0.0,0.0,,no user reviews,single only,2.0,0.0,,,
+1000,632250,DERU - The Art of Cooperation,2018-11-08 00:00:00,,6.0,6.0,Casual,0.0,24.0,Local Co-Op,15.0,0.0,1.0,,positive,single and multi,40.0,6.0,0.3,6.0,70.2
+1001,632290,The Grand Ball,2017-05-11 00:00:00,5500.0,6.0,6.0,Adventure,0.0,11.0,Visual Novel,1.0,0.0,1.0,,mixed,single only,18.0,8.0,,,28.3
+1002,632300,Hobo: Tough Life,2021-04-13 00:00:00,31000.0,6.0,6.0,Adventure,1.0,57.0,Survival,6.0,0.0,1.0,very positive,very positive,single and multi,4869.0,1025.0,161.8,2240.0,64.1
+1003,632350,Cyberdimension Neptunia: 4 Goddesses Online,2018-02-28 00:00:00,31000.0,1.0,1.0,RPG,0.0,50.0,Anime,3.0,0.0,1.0,very positive,very positive,single only,3932.0,568.0,11.8,3753.0,89.5
+1004,632360,Risk of Rain 2,2020-08-11 00:00:00,26000.0,2.0,2.0,Action,1.0,118.0,Third-Person Shooter,11.0,0.0,1.0,very positive,overwhelmingly positive,single and multi,198191.0,7323.0,9452.6,71033.0,79.8
+1005,632380,Bionic Attack,2017-05-20 00:00:00,16000.0,6.0,6.0,Indie,0.0,46.0,Indie,2.0,0.0,0.0,,4 user reviews,single only,3.0,2.0,,,8.6
+1006,632470,Disco Elysium - The Final Cut,2019-10-16 00:00:00,41000.0,6.0,6.0,RPG,0.0,40.0,RPG,10.0,0.0,1.0,very positive,very positive,single only,54770.0,3232.0,1754.3,8081.0,34.3
+1007,632510,Blockle,2017-05-09 00:00:00,5500.0,6.0,6.0,Casual,0.0,0.0,Indie,1.0,0.0,0.0,,mixed,,50.0,21.0,,,
+1008,632590,The Tale of Doris and the Dragon - Episode 2,2020-02-08 00:00:00,12500.0,5.0,5.0,Adventure,0.0,19.0,Casual,1.0,0.0,1.0,,positive,single only,31.0,1.0,,,84.1
+1009,632710,Princess Evangile W Happiness - Steam Edition,2017-07-29 00:00:00,38000.0,2.0,2.0,Adventure,0.0,0.0,Sexual Content,2.0,0.0,0.0,,positive,single only,57.0,3.0,0.9,59.0,
+1010,632820,Ricky Raccoon,2017-05-24 00:00:00,9500.0,5.0,5.0,Casual,0.0,0.0,Casual,3.0,0.0,0.0,,5 user reviews,single only,15.0,2.0,0.1,4.0,
+1011,632830,Aztec Venture,2017-06-01 00:00:00,9500.0,6.0,6.0,Casual,0.0,0.0,Casual,3.0,0.0,0.0,,no user reviews,single only,12.0,5.0,,,
+1012,632840,CYBER VR,2017-08-31 00:00:00,9500.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,mixed,multi only,14.0,11.0,,,
+1013,632880,The Majesty of Colors Remastered,2018-02-28 00:00:00,2200.0,5.0,5.0,Adventure,0.0,8.0,Casual,1.0,0.0,0.0,,positive,single only,41.0,1.0,,,56.9
+1014,632900,Serment - Contract with a Devil,2019-02-02 00:00:00,16000.0,5.0,1.0,RPG,0.0,11.0,RPG,1.0,0.0,0.0,,very positive,single only,56.0,13.0,1.0,62.0,50.2
+1015,633060,Orwell: Ignorance is Strength,2018-02-23 00:00:00,10500.0,4.0,2.0,Adventure,0.0,19.0,Simulation,1.0,0.0,1.0,mostly positive,mostly positive,single only,1079.0,312.0,5.6,375.0,59.0
+1016,633110,FAST BEAT LOOP RACER GT | 環狀賽車GT,2018-05-18 00:00:00,10500.0,6.0,5.0,Racing,0.0,0.0,Racing,2.0,0.0,0.0,,mixed,single only,360.0,180.0,0.5,119.0,
+1017,633230,NARUTO TO BORUTO: SHINOBI STRIKER,2018-08-31 00:00:00,54800.0,1.0,1.0,Action,0.0,48.0,Anime,13.0,0.0,1.0,very positive,very positive,single and multi,39939.0,6534.0,1220.9,6303.0,91.0
+1018,633320,Spirit Realm,2017-07-21 00:00:00,0.0,6.0,6.0,Casual,0.0,0.0,Free to Play,1.0,0.0,0.0,,mixed,single only,19.0,10.0,,,
+1019,633360,Remothered: Tormented Fathers,2018-01-30 00:00:00,20500.0,5.0,6.0,Action,0.0,10.0,Action,15.0,0.0,1.0,mostly positive,mostly positive,single only,1318.0,439.0,3.8,188.0,68.8
+1020,633430,Trail of Destruction,2017-05-27 00:00:00,5500.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,1 user reviews,single only,3.0,0.0,,,
+1021,633440,Unit 4,2017-05-24 00:00:00,16000.0,5.0,5.0,Action,0.0,51.0,Action,1.0,0.0,1.0,,mixed,single and multi,26.0,32.0,,,39.2
+1022,633460,Tannenberg,2019-02-13 00:00:00,20500.0,4.0,4.0,Action,0.0,68.0,Gore,12.0,0.0,1.0,very positive,very positive,single only,6954.0,1067.0,48.6,1139.0,79.7
+1023,633580,Neighbourhood Necromancer,2014-05-16 00:00:00,4400.0,2.0,2.0,Adventure,0.0,24.0,Adventure,1.0,0.0,0.0,,mixed,single only,13.0,7.0,,,76.4
+1024,633600,Creatures Such as We,2014-12-12 00:00:00,5500.0,2.0,2.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,positive,single only,26.0,2.0,,,
+1025,633660,Onimod Land,2017-11-11 00:00:00,10500.0,6.0,6.0,Strategy,0.0,0.0,Strategy,2.0,0.0,0.0,,mostly positive,single only,14.0,3.0,0.0,4.0,
+1026,633930,"Yeah Jam Fury: U, Me, Everybody!",2017-12-16 00:00:00,12500.0,6.0,5.0,Action,0.0,50.0,Strategy,1.0,0.0,0.0,,positive,single and multi,28.0,0.0,,,73.2
+1027,633940,Vision Origin,2017-05-19 00:00:00,21000.0,6.0,6.0,Action,0.0,0.0,Action,2.0,0.0,0.0,,mixed,single only,12.0,9.0,,,
+1028,633950,Fall of Light: Darkest Edition,2017-09-29 00:00:00,16000.0,5.0,2.0,Action,0.0,23.0,Adventure,9.0,0.0,0.0,,mixed,single only,160.0,125.0,,,53.0
+1029,634060,ObserVRtarium,2017-06-09 00:00:00,0.0,6.0,6.0,Simulation,0.0,0.0,Early Access,1.0,0.0,0.0,,positive,single only,10.0,2.0,,,
+1030,634070,Murnatan,2018-03-24 00:00:00,0.0,6.0,6.0,Action,0.0,0.0,Free to Play,1.0,0.0,0.0,,mixed,,68.0,41.0,,,
+1031,634090,Suncore Chronicles: The Tower,2018-04-10 00:00:00,0.0,6.0,6.0,Action,0.0,40.0,RPG,1.0,0.0,1.0,,mixed,single and multi,16.0,15.0,,,61.0
+1032,634120,Inmates,2017-10-05 00:00:00,10500.0,2.0,2.0,Adventure,0.0,12.0,Adventure,7.0,0.0,0.0,,mixed,single only,155.0,102.0,,,70.2
+1033,634150,ReSizE,2017-10-12 00:00:00,9500.0,5.0,5.0,Action,0.0,12.0,Action,4.0,0.0,0.0,,8 user reviews,single only,3.0,6.0,,,55.5
+1034,634160,Cattails | Become a Cat!,2017-12-01 00:00:00,15500.0,5.0,5.0,Casual,0.0,43.0,Cats,1.0,0.0,1.0,very positive,overwhelmingly positive,single only,1892.0,81.0,41.1,433.0,68.4
+1035,634180,Darkarta: A Broken Heart's Quest Standard Edition,2017-08-29 00:00:00,6500.0,6.0,6.0,Adventure,0.0,40.0,Hidden Object,6.0,0.0,1.0,,very positive,single only,59.0,15.0,,,34.3
+1036,634200,Tanks vs Aliens,2017-05-25 00:00:00,5500.0,6.0,6.0,Strategy,0.0,36.0,Strategy,5.0,0.0,0.0,,mixed,single only,26.0,6.0,,,9.0
+1037,634230,Project First Contact,2017-07-26 00:00:00,1100.0,4.0,4.0,Action,0.0,0.0,Indie,8.0,0.0,0.0,,mixed,single only,73.0,82.0,3.8,860.0,
+1038,634340,Legend of Himari,2018-03-20 00:00:00,1100.0,5.0,5.0,Casual,0.0,30.0,Indie,2.0,0.0,0.0,,very positive,single only,276.0,34.0,31.4,1070.0,6.6
+1039,634410,A Story Beside,2022-05-25 00:00:00,15500.0,5.0,5.0,Adventure,1.0,16.0,Story Rich,1.0,0.0,0.0,very positive,very positive,single only,156.0,3.0,2.1,15.0,34.0
+1040,634700,PLUTONIUM,2017-05-10 00:00:00,2200.0,6.0,6.0,Action,0.0,14.0,Adventure,2.0,0.0,0.0,,mixed,single only,100.0,109.0,,,73.8
+1041,635040,Freeze Climbing,2017-05-12 00:00:00,1100.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,mixed,single only,9.0,4.0,0.0,2.0,
+1042,635050,DESPOILER,2018-03-30 00:00:00,10500.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,mixed,single only,7.0,6.0,0.0,6.0,
+1043,635060,Castle of no Escape,2017-06-22 00:00:00,5500.0,6.0,6.0,Action,0.0,25.0,Indie,3.0,0.0,0.0,,mixed,single only,67.0,44.0,56.6,621.0,0.8
+1044,635190,Puppy Doge VR,2017-05-11 00:00:00,1100.0,6.0,6.0,Casual,0.0,0.0,Indie,1.0,0.0,0.0,,8 user reviews,single only,4.0,5.0,0.0,2.0,
+1045,635200,Distrust: Polar Survival,2017-08-23 00:00:00,13000.0,3.0,3.0,Adventure,0.0,56.0,Survival,9.0,0.0,0.0,mostly positive,mostly positive,single and multi,1526.0,558.0,6.7,459.0,52.6
+1046,635220,The Naked Game,2017-12-16 00:00:00,15500.0,6.0,6.0,Adventure,0.0,0.0,Adventure,2.0,0.0,0.0,,mixed,single only,20.0,9.0,,,
+1047,635250,Evil Genome 光明重影,2017-08-07 00:00:00,15500.0,3.0,3.0,Action,0.0,109.0,RPG,2.0,0.0,1.0,,mixed,single only,350.0,153.0,,,89.5
+1048,635260,CarX Drift Racing Online,2017-11-18 00:00:00,15500.0,6.0,6.0,Massively Multiplayer,0.0,36.0,Racing,12.0,0.0,1.0,overwhelmingly positive,overwhelmingly positive,single and multi,43838.0,2175.0,2362.6,4798.0,87.3
+1049,635270,Through The Dark: Prologue,2017-05-07 00:00:00,10500.0,6.0,6.0,Action,0.0,0.0,Adventure,1.0,0.0,0.0,,2 user reviews,single only,1.0,1.0,,,
+1050,635310,Ski Sniper,2017-05-18 00:00:00,5500.0,6.0,6.0,Action,0.0,13.0,Casual,1.0,0.0,0.0,,very positive,single only,195.0,34.0,,,79.9
+1051,635320,Last Day of June,,21000.0,2.0,2.0,Adventure,0.0,21.0,Adventure,10.0,0.0,0.0,very positive,very positive,single only,3170.0,476.0,4.1,356.0,60.2
+1052,635390,Thief of Thieves,2018-07-17 00:00:00,20500.0,6.0,3.0,Action,0.0,53.0,Adventure,1.0,0.0,0.0,,mostly positive,single only,107.0,33.0,,,47.0
+1053,635410,The Adventurer and His Backpack,2017-09-04 00:00:00,2800.0,5.0,5.0,Adventure,0.0,98.0,Casual,3.0,0.0,0.0,,mostly positive,single only,54.0,15.0,,,69.2
+1054,635430,Blue Angels Aerobatic Flight Simulator,2017-08-17 00:00:00,15500.0,6.0,6.0,Action,0.0,22.0,Simulation,5.0,0.0,0.0,,mostly positive,single only,7.0,3.0,,,60.2
+1055,635520,Phantasmat: The Endless Night Collector's Edition,2017-05-16 00:00:00,10500.0,6.0,3.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,mostly positive,single only,11.0,3.0,,,
+1056,635590,Vulture Strike,2017-12-20 00:00:00,10000.0,6.0,6.0,Action,0.0,33.0,Action,5.0,0.0,1.0,,1 user reviews,single only,6.0,2.0,,,46.2
+1057,635670,EMPORIUM,2017-04-21 00:00:00,2200.0,6.0,6.0,Adventure,0.0,5.0,Casual,1.0,0.0,0.0,,mostly positive,single only,92.0,38.0,0.1,9.0,34.8
+1058,635790,How to Fool a Liar King,2017-10-04 00:00:00,12500.0,5.0,5.0,Adventure,0.0,28.0,Indie,6.0,0.0,1.0,,positive,single only,32.0,4.0,,,42.1
+1059,635830,Demon Mark: A Russian Saga,2017-06-02 00:00:00,5500.0,2.0,2.0,Adventure,0.0,53.0,Adventure,1.0,0.0,0.0,,6 user reviews,single only,4.0,3.0,,,58.0
+1060,635850,Sentience: The Android's Tale,2017-06-03 00:00:00,3900.0,6.0,2.0,Adventure,0.0,36.0,Adventure,1.0,0.0,0.0,,very positive,single only,100.0,10.0,1.4,294.0,9.4
+1061,635880,Chicken Labyrinth Puzzles,2018-03-26 00:00:00,5500.0,5.0,5.0,Casual,0.0,0.0,Casual,1.0,0.0,0.0,,mostly positive,single only,117.0,57.0,36.0,1967.0,
+1062,635900,Tunnels of Despair,2018-03-16 00:00:00,6500.0,5.0,5.0,Action,0.0,11.0,Adventure,4.0,0.0,0.0,,mixed,single only,44.0,20.0,0.0,16.0,37.2
+1063,635930,DOGO,2017-08-21 00:00:00,10500.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,3 user reviews,,3.0,0.0,0.0,1.0,
+1064,635940,Little Busters! English Edition,2017-11-01 00:00:00,36000.0,2.0,2.0,Adventure,0.0,27.0,Visual Novel,2.0,0.0,1.0,very positive,overwhelmingly positive,single only,640.0,9.0,14.0,172.0,72.6
+1065,635980,Break The Food Chain,2017-07-17 00:00:00,5500.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,6 user reviews,single only,6.0,0.0,,,
+1066,636010,Chateau Garden,2017-07-08 00:00:00,9500.0,5.0,5.0,Casual,0.0,0.0,Casual,3.0,0.0,0.0,,7 user reviews,single only,7.0,7.0,,,
+1067,636020,India Garden,2017-06-03 00:00:00,9500.0,5.0,5.0,Casual,0.0,0.0,Casual,3.0,0.0,0.0,,4 user reviews,single only,6.0,3.0,,,
+1068,636030,Ricky Raccoon 2 - Adventures in Egypt,2017-06-03 00:00:00,9500.0,5.0,5.0,Casual,0.0,0.0,Casual,3.0,0.0,0.0,,9 user reviews,single only,14.0,5.0,,,
+1069,636040,Pixel Worlds: MMO Sandbox,2017-01-21 00:00:00,0.0,6.0,6.0,Adventure,0.0,0.0,Free to Play,4.0,0.0,0.0,mostly positive,mostly positive,multi only,3735.0,1257.0,306.9,1387.0,
+1070,636050,5 Star Rio Resort,2017-07-01 00:00:00,9500.0,5.0,5.0,Casual,0.0,0.0,Casual,3.0,0.0,0.0,,positive,single only,20.0,7.0,0.2,10.0,
+1071,636070,Corridor Z,2018-01-05 00:00:00,8500.0,5.0,5.0,Action,0.0,13.0,Action,1.0,0.0,0.0,,very positive,single only,160.0,54.0,3.8,44.0,50.6
+1072,636100,Tesla vs Lovecraft,2018-01-26 00:00:00,16000.0,4.0,4.0,Action,0.0,20.0,Top-Down Shooter,9.0,0.0,1.0,very positive,very positive,single and multi,943.0,102.0,4.7,234.0,84.2
+1073,636150,Cyberhunt,2017-05-19 00:00:00,1100.0,5.0,5.0,Action,0.0,500.0,Indie,9.0,0.0,1.0,very positive,very positive,single only,989.0,197.0,130.8,5389.0,11.1
+1074,636170,Reaching for Petals,2017-09-04 00:00:00,5500.0,5.0,5.0,Adventure,0.0,6.0,Adventure,1.0,0.0,1.0,,mostly positive,single only,95.0,39.0,,,28.0
+1075,636220,CubeWorks,2017-11-01 00:00:00,10500.0,6.0,6.0,Casual,0.0,20.0,Casual,9.0,0.0,0.0,,7 user reviews,single only,19.0,0.0,,,16.2
+1076,636230,Safe House,2018-05-22 00:00:00,10500.0,6.0,6.0,Adventure,0.0,13.0,Strategy,1.0,0.0,0.0,,mostly negative,single only,13.0,19.0,,,28.4
+1077,636310,Concurrency,2017-05-17 00:00:00,1100.0,6.0,6.0,Adventure,0.0,14.0,Adventure,1.0,0.0,0.0,,mixed,single only,12.0,8.0,,,1.8
+1078,636320,Depth of Extinction,2018-09-28 00:00:00,15500.0,5.0,5.0,RPG,0.0,53.0,RPG,6.0,0.0,1.0,,mostly positive,single only,137.0,48.0,1.3,124.0,79.7
+1079,636330,The God Paradox,2017-09-19 00:00:00,5500.0,6.0,6.0,Action,0.0,54.0,Action,1.0,0.0,0.0,,3 user reviews,single only,21.0,14.0,,,40.5
+1080,636360,Silent Gentlemen,2019-04-29 00:00:00,2200.0,6.0,6.0,RPG,0.0,0.0,RPG,1.0,0.0,0.0,,2 user reviews,single only,0.0,2.0,,,
+1081,636370,The Sun Never Sets,2017-06-06 00:00:00,5500.0,6.0,6.0,RPG,0.0,0.0,RPG,1.0,0.0,0.0,,5 user reviews,single only,12.0,4.0,,,
+1082,636390,Ticket to Earth,2017-06-29 00:00:00,15500.0,6.0,6.0,Indie,0.0,50.0,Strategy,1.0,0.0,0.0,,very positive,single only,88.0,9.0,,,83.3
+1083,636400,CUBOTS The Origins,2017-08-05 00:00:00,3300.0,5.0,5.0,Adventure,0.0,18.0,Indie,1.0,0.0,0.0,,mostly positive,single only,34.0,14.0,,,7.3
+1084,636430,Zombie Kill,2017-05-15 00:00:00,15000.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,5 user reviews,single only,3.0,2.0,,,
+1085,636450,Rez Infinite,2017-08-09 00:00:00,27000.0,6.0,6.0,Action,0.0,20.0,Action,8.0,0.0,1.0,very positive,very positive,single only,859.0,71.0,2.4,201.0,74.8
+1086,636460,Rugby League Team Manager 2018,2017-10-13 00:00:00,43000.0,5.0,5.0,Simulation,0.0,0.0,Sports,1.0,0.0,1.0,,mostly positive,single only,36.0,11.0,,,
+1087,636480,Ravenfield,2017-05-19 00:00:00,16000.0,3.0,3.0,Action,0.0,0.0,FPS,1.0,0.0,0.0,overwhelmingly positive,overwhelmingly positive,single only,49129.0,1492.0,1185.6,3927.0,
+1088,636490,Ka Mate,2018-01-09 00:00:00,5500.0,6.0,6.0,Action,1.0,0.0,Indie,2.0,0.0,0.0,,mostly negative,single only,13.0,21.0,,,
+1089,636520,Gevaudan,2017-06-08 00:00:00,3300.0,2.0,2.0,Adventure,0.0,0.0,Indie,2.0,0.0,0.0,,mixed,single only,80.0,50.0,,,
+1090,636560,Runewards: Strategy Card Game,2018-02-14 00:00:00,0.0,6.0,6.0,Free to Play,0.0,0.0,Free to Play,3.0,0.0,0.0,,mixed,single only,31.0,27.0,,,
+1091,636580,Primal Reign,2017-05-30 00:00:00,0.0,6.0,6.0,Action,0.0,0.0,Free to Play,1.0,0.0,0.0,,mostly positive,single only,35.0,15.0,0.0,74.0,
+1092,636590,VR SUSHI BAR,2017-05-30 00:00:00,10500.0,6.0,6.0,Casual,0.0,0.0,Casual,2.0,0.0,0.0,,9 user reviews,single only,6.0,5.0,,,
+1093,636620,Tanks VR,2018-04-07 00:00:00,10500.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,mixed,,17.0,9.0,,,
+1094,636720,Bring to Light,2018-07-13 00:00:00,20500.0,6.0,6.0,Adventure,0.0,0.0,Survival Horror,2.0,0.0,0.0,,mixed,single only,26.0,11.0,,,
+1095,636740,Akihabara - Feel the Rhythm Remixed,2018-11-29 00:00:00,8500.0,6.0,5.0,Indie,0.0,18.0,Indie,1.0,0.0,1.0,,4 user reviews,single only,7.0,3.0,0.0,1.0,36.6
+1096,636910,Geoid,2017-06-17 00:00:00,10500.0,6.0,6.0,Action,0.0,13.0,Action,1.0,0.0,0.0,,9 user reviews,single and multi,9.0,1.0,0.0,5.0,86.5
+1097,636930,Soundscape VR,2017-04-16 00:00:00,0.0,6.0,6.0,Adventure,0.0,0.0,Free to Play,1.0,0.0,0.0,,mostly positive,single and multi,66.0,26.0,,,
+1098,636950,MarksmanVR,2017-05-17 00:00:00,4400.0,6.0,6.0,Action,0.0,0.0,Indie,1.0,0.0,0.0,,positive,single only,16.0,3.0,,,
+1099,636960,Wo Yao Da 我要大,2017-09-16 00:00:00,3300.0,5.0,6.0,Action,0.0,32.0,Hack and Slash,3.0,0.0,0.0,,very positive,single only,169.0,30.0,,,62.9
+1100,636970,Tales Of Glory,2020-05-30 00:00:00,32000.0,5.0,5.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,very positive,single only,642.0,143.0,5.1,46.0,
+1101,637040,RoadkillerZ,2017-05-29 00:00:00,4400.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,mostly negative,single only,4.0,12.0,,,
+1102,637050,Spire of Sorcery,2021-10-22 00:00:00,25000.0,4.0,4.0,Indie,1.0,16.0,Exploration,7.0,0.0,1.0,,mixed,single only,63.0,44.0,,,83.6
+1103,637060,Tiny Tales: Heart of the Forest,2017-07-21 00:00:00,10500.0,2.0,2.0,Adventure,0.0,20.0,Adventure,9.0,0.0,0.0,,mostly positive,single only,140.0,41.0,,,69.8
+1104,637070,End of the Road VR,2017-06-29 00:00:00,2200.0,6.0,6.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,4 user reviews,single only,2.0,3.0,0.0,1.0,
+1105,637090,BATTLETECH,2018-04-25 00:00:00,41000.0,3.0,1.0,Action,0.0,128.0,Mechs,4.0,0.0,1.0,very positive,very positive,single only,21614.0,4550.0,1860.2,35586.0,90.3
+1106,637100,Sonic Forces,2017-11-08 00:00:00,49800.0,6.0,1.0,Action,0.0,48.0,Great Soundtrack,11.0,0.0,1.0,,,single only,3750.0,2293.0,42.9,2020.0,90.5
+1107,637110,Runes of Avalon - Path of Magic,2017-07-26 00:00:00,9500.0,6.0,6.0,Casual,0.0,0.0,Indie,1.0,0.0,0.0,,2 user reviews,single only,2.0,0.0,0.0,1.0,
+1108,637120,Space God,2018-04-19 00:00:00,5500.0,6.0,6.0,Action,0.0,20.0,Shoot 'Em Up,8.0,0.0,0.0,,positive,single and multi,16.0,2.0,0.0,6.0,75.7
+1109,637310,Stream Service,2019-08-19 00:00:00,1100.0,6.0,6.0,Casual,0.0,0.0,Casual,1.0,0.0,0.0,,mixed,single only,27.0,30.0,4.4,9611.0,
+1110,637330,Stack,2017-05-19 00:00:00,4400.0,5.0,5.0,Casual,0.0,0.0,3D Platformer,1.0,0.0,0.0,,mixed,single only,15.0,9.0,46.6,1713.0,
+1111,637410,Disputed Space,2017-12-08 00:00:00,2200.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,mixed,single and multi,60.0,34.0,0.1,4.0,
+1112,637640,The Glade,2017-05-30 00:00:00,2200.0,6.0,6.0,Action,0.0,0.0,Adventure,1.0,0.0,0.0,,3 user reviews,single only,2.0,2.0,,,
+1113,637650,FINAL FANTASY XV WINDOWS EDITION,2018-03-07 00:00:00,,1.0,1.0,RPG,0.0,97.0,RPG,11.0,0.0,1.0,very positive,very positive,single and multi,34596.0,7414.0,818.3,29279.0,92.9
+1114,637670,Secret of Mana,2018-02-16 00:00:00,44700.0,1.0,1.0,Action,0.0,37.0,JRPG,9.0,0.0,0.0,very positive,,single and multi,1549.0,677.0,14.5,3234.0,86.6
+1115,637850,Confess My Love,2017-05-20 00:00:00,0.0,6.0,6.0,Adventure,0.0,21.0,Free to Play,7.0,0.0,0.0,very positive,very positive,single only,4017.0,279.0,,,47.3
+1116,637860,斩毒：黑与白（Narcotics Police:Black and White）,2017-06-10 00:00:00,1100.0,6.0,6.0,Indie,0.0,0.0,Gore,1.0,0.0,0.0,,mixed,single only,94.0,65.0,,,
+1117,637870,Slice&Dice,2017-06-01 00:00:00,10500.0,6.0,6.0,Casual,0.0,17.0,Casual,7.0,0.0,0.0,,6 user reviews,single only,5.0,1.0,0.0,3.0,94.0
+1118,637880,I wanna be The Cat,2017-12-15 00:00:00,7500.0,6.0,6.0,Action,0.0,31.0,Cats,1.0,0.0,0.0,,very positive,single only,150.0,10.0,0.4,72.0,79.6
+1119,637920,Weather Lord,2017-06-08 00:00:00,5500.0,4.0,4.0,Casual,0.0,0.0,Casual,9.0,0.0,0.0,,7 user reviews,single only,4.0,3.0,,,
+1120,637930,Weather Lord: Hidden Realm,2017-06-08 00:00:00,5500.0,4.0,4.0,Casual,0.0,0.0,Strategy,9.0,0.0,0.0,,3 user reviews,single only,2.0,1.0,1.3,20.0,
+1121,637940,Weather Lord: In Search of the Shaman,2017-06-08 00:00:00,5500.0,4.0,4.0,Casual,0.0,0.0,Strategy,7.0,0.0,0.0,,6 user reviews,single only,4.0,2.0,,,
+1122,637960,ProjectM : Dream,2017-09-05 00:00:00,0.0,6.0,6.0,Simulation,0.0,0.0,Simulation,1.0,0.0,0.0,,very positive,single only,61.0,10.0,0.1,15.0,
+1123,637980,Mission B,2019-06-27 00:00:00,9500.0,6.0,6.0,Action,1.0,0.0,Action,1.0,0.0,0.0,,no user reviews,single only,,,0.0,0.0,
+1124,638000,When Ski Lifts Go Wrong,2019-01-23 00:00:00,15500.0,6.0,2.0,Casual,0.0,40.0,Simulation,10.0,0.0,1.0,,very positive,single only,613.0,86.0,,,76.7
+1125,638020,Castle Wars VR,2018-05-10 00:00:00,10500.0,6.0,6.0,Massively Multiplayer,0.0,0.0,Strategy,9.0,0.0,0.0,,7 user reviews,single only,12.0,9.0,0.0,4.0,
+1126,638060,Majestic Trials,2021-03-12 00:00:00,15500.0,5.0,5.0,Adventure,1.0,26.0,Indie,1.0,0.0,0.0,,4 user reviews,single only,8.0,1.0,,,8.5
+1127,638070,Murderous Pursuits,2018-04-27 00:00:00,10500.0,5.0,5.0,Action,0.0,145.0,Action,10.0,0.0,1.0,,mixed,single only,1742.0,1007.0,44.2,144294.0,18.2
+1128,638110,Desert Bus VR,2017-11-28 00:00:00,0.0,6.0,6.0,Casual,0.0,15.0,Psychological Horror,1.0,0.0,0.0,very positive,very positive,single only,1327.0,181.0,3.0,141.0,69.0
+1129,638130,Sweet Surrender VR,2021-10-01 00:00:00,26000.0,5.0,5.0,Action,0.0,19.0,Action Roguelike,6.0,0.0,1.0,,very positive,single only,62.0,12.0,,,95.2
+1130,638160,Moero Chronicle,2017-08-17 00:00:00,10500.0,1.0,1.0,Adventure,0.0,42.0,RPG,3.0,0.0,1.0,,mostly positive,single only,395.0,172.0,4.6,335.0,77.1
+1131,638200,Capitalism 2,2001-12-17 00:00:00,10500.0,6.0,6.0,Indie,0.0,0.0,Simulation,1.0,0.0,0.0,very positive,very positive,single only,311.0,62.0,9.5,140.0,
+1132,638230,Journey,2020-06-12 00:00:00,15500.0,2.0,2.0,Adventure,0.0,14.0,Adventure,18.0,0.0,0.0,very positive,very positive,single and multi,20358.0,1115.0,74.3,1073.0,49.2
+1133,638240,Calavera: Day of the Dead Collector's Edition,2017-05-25 00:00:00,10500.0,6.0,3.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,4 user reviews,single only,1.0,3.0,,,
+1134,638250,Sea of Lies: Nemesis Collector's Edition,2017-05-27 00:00:00,10500.0,6.0,3.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,2 user reviews,single only,2.0,0.0,0.0,3.0,
+1135,638260,Myths of the World: Stolen Spring Collector's Edition,2017-06-01 00:00:00,10500.0,6.0,3.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,4 user reviews,single only,2.0,2.0,,,
+1136,638270,Rite of Passage: Child of the Forest Collector's Edition,2017-06-06 00:00:00,10500.0,6.0,3.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,3 user reviews,single only,4.0,0.0,,,
+1137,638290,Grim Facade: Sinister Obsession Collector’s Edition,2017-06-03 00:00:00,10500.0,6.0,3.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,2 user reviews,single only,1.0,1.0,0.0,2.0,
+1138,638470,Eggggg - The platform puker,2019-02-04 00:00:00,10500.0,6.0,6.0,Action,0.0,23.0,Indie,14.0,0.0,0.0,,8 user reviews,single only,7.0,2.0,,,98.1
+1139,638490,Soldat,2002-05-09 00:00:00,0.0,5.0,5.0,Action,0.0,0.0,Free to Play,16.0,0.0,1.0,very positive,very positive,single only,1489.0,80.0,10.3,409.0,
+1140,638650,Sword Art Online Re: Hollow Fragment,2018-08-21 00:00:00,20500.0,1.0,1.0,RPG,0.0,54.0,RPG,3.0,0.0,0.0,very positive,very positive,single and multi,1348.0,329.0,31.5,411.0,90.9
+1141,638720,Final Battle,2018-04-21 00:00:00,7500.0,6.0,4.0,Adventure,0.0,7.0,Nudity,1.0,0.0,1.0,,mostly positive,single only,33.0,10.0,,,23.0
+1142,638740,The Seeker,2020-08-21 00:00:00,5500.0,4.0,4.0,Indie,0.0,0.0,RPG,1.0,0.0,0.0,,5 user reviews,single only,2.0,3.0,0.0,4.0,
+1143,638780,Reflector: Bug Hunt,2017-08-22 00:00:00,5500.0,6.0,6.0,Action,0.0,10.0,Action,1.0,0.0,0.0,,4 user reviews,single only,4.0,0.0,,,10.2
+1144,638830,VR Scape,2017-05-27 00:00:00,16000.0,6.0,6.0,Action,0.0,0.0,Adventure,1.0,0.0,0.0,,5 user reviews,single only,3.0,3.0,,,
+1145,638850,Animallica,2022-03-06 00:00:00,21000.0,6.0,6.0,Action,1.0,18.0,Adventure,1.0,0.0,1.0,,mostly positive,single only,578.0,204.0,4.8,122.0,38.9
+1146,638900,Defenders of the Realm VR,2017-05-17 00:00:00,16000.0,6.0,5.0,Strategy,0.0,0.0,Strategy,2.0,0.0,0.0,,no user reviews,single only,5.0,0.0,,,
+1147,638920,BeanVR—The Social VR APP,2017-06-01 00:00:00,0.0,6.0,6.0,Casual,0.0,0.0,Free to Play,2.0,0.0,0.0,,mixed,single and multi,20.0,26.0,,,
+1148,638930,Dal Segno,2017-07-01 00:00:00,43000.0,2.0,2.0,Adventure,0.0,0.0,Adventure,3.0,0.0,0.0,,very positive,single only,113.0,11.0,1.7,33.0,
+1149,638970,Yakuza 0,2018-08-01 00:00:00,22800.0,1.0,1.0,Action,0.0,55.0,Story Rich,2.0,0.0,0.0,overwhelmingly positive,overwhelmingly positive,single only,48458.0,2517.0,1409.2,8907.0,93.0
+1150,638990,UNDYING,2021-10-19 00:00:00,20500.0,5.0,5.0,Adventure,1.0,57.0,Early Access,8.0,0.0,1.0,very positive,very positive,single only,623.0,82.0,16.4,264.0,47.4
+1151,639130,Ultrawings,2017-07-21 00:00:00,15500.0,5.0,5.0,Adventure,0.0,10.0,Simulation,8.0,0.0,0.0,,very positive,single only,344.0,44.0,0.5,67.0,66.1
+1152,639180,"Time, Space and Matter",2019-08-30 00:00:00,,6.0,6.0,Action,0.0,12.0,Adventure,8.0,0.0,0.0,,5 user reviews,single only,5.0,4.0,0.0,3.0,36.4
+1153,639220,Throttle Powah VR,2017-05-31 00:00:00,9500.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,mostly positive,,37.0,10.0,,,
+1154,639230,Rival Books of Aster,2017-06-21 00:00:00,0.0,6.0,6.0,Casual,0.0,0.0,Early Access,1.0,0.0,1.0,,mixed,,35.0,16.0,,,
+1155,639240,CodeRed: Agent Sarah's Story - Day one,2017-12-13 00:00:00,10500.0,6.0,6.0,Adventure,0.0,18.0,Indie,2.0,0.0,0.0,,1 user reviews,single only,6.0,3.0,,,20.9
+1156,639270,Operation Warcade VR,2017-06-02 00:00:00,,5.0,5.0,Action,0.0,20.0,Action,11.0,0.0,0.0,,very positive,single only,271.0,13.0,0.6,48.0,60.4
+1157,639280,Lander 8009 VR,2017-06-16 00:00:00,16000.0,5.0,5.0,Action,0.0,0.0,Strategy,2.0,0.0,0.0,,mostly positive,single only,9.0,3.0,0.0,4.0,
+1158,639300,Age of Gladiators II: Death League,2017-09-21 00:00:00,13500.0,5.0,5.0,Indie,0.0,38.0,Sports,2.0,0.0,0.0,,mixed,single only,57.0,28.0,,,56.9
+1159,639320,Fading,2017-12-22 00:00:00,4400.0,6.0,6.0,Indie,0.0,9.0,Indie,1.0,0.0,0.0,,2 user reviews,single only,6.0,1.0,,,60.2
+1160,639440,VRemedies - CT Procedure Experience,2018-03-07 00:00:00,205000.0,6.0,6.0,Simulation,0.0,0.0,Simulation,1.0,0.0,0.0,,no user reviews,single only,,,0.0,1.0,
+1161,639460,Zombie Riot,2017-05-26 00:00:00,21000.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,mostly positive,single only,58.0,19.0,,,
+1162,639470,Original Journey,2017-08-16 00:00:00,12500.0,6.0,5.0,Action,0.0,28.0,Action Roguelike,5.0,0.0,0.0,,mixed,single only,134.0,48.0,,,72.8
+1163,639490,Umineko When They Cry - Answer Arcs,2017-11-18 00:00:00,31000.0,3.0,2.0,Adventure,0.0,23.0,Great Soundtrack,2.0,0.0,0.0,very positive,overwhelmingly positive,single only,631.0,26.0,24.1,80.0,67.0
+1164,639560,Spacescape,2018-03-28 00:00:00,8500.0,6.0,6.0,Indie,0.0,0.0,Indie,1.0,0.0,0.0,,very positive,single only,50.0,12.0,,,
+1165,639650,1982,2017-06-29 00:00:00,0.0,5.0,6.0,Action,0.0,20.0,Free to Play,1.0,0.0,0.0,,very positive,single only,685.0,46.0,1.1,79.0,30.7
+1166,639720,A Bloody Night,2017-06-23 00:00:00,3300.0,5.0,5.0,Action,0.0,27.0,Action,1.0,0.0,0.0,,mostly positive,single only,74.0,17.0,7.2,68.0,30.8
+1167,639730,Murder In Tehran's Alleys 2016,2017-06-09 00:00:00,10500.0,4.0,6.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,8 user reviews,single only,8.0,5.0,,,
+1168,639770,UNTITLED,2017-06-03 00:00:00,5500.0,6.0,6.0,Indie,0.0,12.0,Indie,27.0,0.0,0.0,,positive,single only,35.0,2.0,,,61.1
+1169,639840,FIELD BREAKING,2017-06-04 00:00:00,4400.0,5.0,5.0,Casual,0.0,6.0,Casual,2.0,0.0,0.0,,mixed,single only,20.0,16.0,,,76.2
+1170,639920,Escape The Gray,2017-06-02 00:00:00,2200.0,6.0,6.0,Casual,0.0,10.0,Indie,1.0,0.0,0.0,,2 user reviews,single only,1.0,3.0,,,65.1
+1171,640050,Soldiers of the Universe,2017-09-14 00:00:00,5500.0,6.0,6.0,Action,0.0,0.0,Action,10.0,0.0,0.0,,mixed,single and multi,207.0,235.0,0.0,21.0,
+1172,640090,Zarya-1: Mystery on the Moon,2017-05-31 00:00:00,4400.0,4.0,6.0,Adventure,0.0,0.0,Adventure,9.0,0.0,0.0,,very positive,single only,71.0,6.0,0.3,7.0,
+1173,640120,Youropa,2018-06-27 00:00:00,15500.0,6.0,6.0,Action,0.0,14.0,Puzzle Platformer,15.0,0.0,0.0,,very positive,single only,444.0,71.0,1.4,68.0,92.5
+1174,640150,Tale of Toast,2018-02-23 00:00:00,0.0,6.0,6.0,Adventure,0.0,14.0,Free to Play,1.0,0.0,0.0,,mixed,,387.0,358.0,,,22.4
+1175,640210,Just One Line,2018-09-13 00:00:00,0.0,5.0,5.0,Adventure,0.0,29.0,Choose Your Own Adventure,8.0,0.0,0.0,,mostly positive,single only,79.0,32.0,,,57.0
+1176,640250,Kitty Hawk,2018-01-04 00:00:00,1100.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,5 user reviews,single only,6.0,1.0,,,
+1177,640290,Super Multitasking,2018-02-23 00:00:00,5500.0,5.0,5.0,Action,0.0,33.0,Action,1.0,0.0,0.0,,8 user reviews,single only,18.0,1.0,,,89.9
+1178,640300,Run Of Mydan,2017-07-28 00:00:00,0.0,5.0,5.0,Action,0.0,7.0,Adventure,1.0,0.0,0.0,,mostly positive,single and multi,57.0,19.0,0.1,11.0,9.9
+1179,640310,Drive-By Hero,2017-06-14 00:00:00,4400.0,6.0,6.0,Action,0.0,5394.0,Casual,27.0,0.0,0.0,,mixed,single only,110.0,115.0,0.6,18.0,91.3
+1180,640340,Serious Sam: Tormental,2022-04-08 00:00:00,12500.0,6.0,1.0,Action,1.0,49.0,Action,1.0,0.0,0.0,,very positive,single and multi,134.0,28.0,2.2,37.0,80.1
+1181,640380,UBERMOSH Vol.5,2017-05-26 00:00:00,5500.0,4.0,4.0,Action,0.0,22.0,Indie,1.0,0.0,0.0,,very positive,single only,275.0,16.0,0.2,8.0,41.3
+1182,640590,The LEGO® NINJAGO® Movie Video Game,2017-09-23 00:00:00,22500.0,6.0,1.0,Action,0.0,50.0,Action,13.0,0.0,0.0,very positive,very positive,single and multi,4473.0,760.0,76.6,5388.0,72.4
+1183,640600,Bleeding Kansas,2017-07-23 00:00:00,10500.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,3 user reviews,single only,0.0,3.0,,,
+1184,640690,Super Tony Land,2018-04-19 00:00:00,15500.0,6.0,6.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,9 user reviews,single and multi,11.0,3.0,,,
+1185,640700,Narvas,2020-06-05 00:00:00,9500.0,6.0,2.0,Action,1.0,0.0,Action,1.0,0.0,0.0,,positive,single and multi,13.0,1.0,,,
+1186,640760,Code51:Mecha Arena,2018-08-28 00:00:00,20500.0,5.0,5.0,Action,0.0,37.0,Action,2.0,0.0,0.0,,mixed,single only,24.0,9.0,,,59.1
+1187,640800,Skyfront VR,2019-03-08 00:00:00,10500.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,mostly positive,,108.0,39.0,5.0,347.0,
+1188,640820,Pathfinder: Kingmaker - Enhanced Plus Edition,2018-09-25 00:00:00,20500.0,3.0,4.0,RPG,0.0,74.0,RPG,6.0,0.0,1.0,,mostly positive,single only,21758.0,5976.0,1407.5,22536.0,83.2
+1189,640860,Stone Rage,2020-08-29 00:00:00,12500.0,6.0,6.0,Action,1.0,10.0,Indie,1.0,0.0,0.0,,mixed,multi only,92.0,68.0,,,0.3
+1190,640880,Hyper Sentinel,2018-05-11 00:00:00,8500.0,5.0,5.0,Action,0.0,34.0,Action,7.0,0.0,0.0,,positive,single only,44.0,6.0,,,77.8
+1191,640890,Will Glow the Wisp,2017-09-16 00:00:00,3300.0,5.0,5.0,Action,0.0,20.0,Bullet Hell,3.0,0.0,0.0,,positive,single only,784.0,126.0,1.6,311.0,78.2
+1192,640970,In Game Adventure: Legend of Monsters,2017-06-29 00:00:00,0.0,5.0,5.0,Action,0.0,30.0,Roguelite,3.0,0.0,1.0,,mostly positive,single only,94.0,30.0,,,55.7
+1193,640990,Fashioning Little Miss Lonesome,2017-09-09 00:00:00,27000.0,2.0,2.0,Adventure,0.0,29.0,Otome,2.0,0.0,1.0,,very positive,single only,248.0,45.0,,,92.9
+1194,641050,StroodleDoodle,2017-09-04 00:00:00,,6.0,6.0,Casual,0.0,0.0,Casual,1.0,0.0,0.0,,1 user reviews,single only,2.0,0.0,,,
+1195,641080,Trials® Rising,2019-02-27 00:00:00,22000.0,6.0,1.0,Racing,0.0,0.0,Racing,12.0,0.0,1.0,very positive,,single only,1427.0,770.0,33.6,1750.0,
+1196,641320,Cooking Simulator,2019-06-07 00:00:00,20500.0,4.0,4.0,Simulation,0.0,266.0,Simulation,12.0,0.0,1.0,very positive,very positive,single only,11602.0,2242.0,257.5,3484.0,76.8
+1197,641590,Perplexigon,2017-09-22 00:00:00,10500.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,2 user reviews,single and multi,3.0,1.0,,,
+1198,641780,The Drone Racing League Simulator,2017-06-16 00:00:00,10500.0,6.0,6.0,Action,0.0,19.0,Action,2.0,0.0,0.0,mostly positive,very positive,single only,2464.0,465.0,94.5,389.0,14.1
+1199,641860,Trenches of War,2017-07-07 00:00:00,0.0,6.0,6.0,Action,0.0,0.0,Strategy,1.0,0.0,0.0,,very positive,single only,53.0,6.0,,,
+1200,641870,symeCu8e,2017-07-05 00:00:00,9500.0,6.0,6.0,Casual,0.0,0.0,Casual,1.0,0.0,0.0,,no user reviews,single only,1.0,6.0,,,
+1201,641910,Bike Rush,2018-01-16 00:00:00,5500.0,5.0,5.0,Action,0.0,10.0,Racing,6.0,0.0,0.0,,mixed,single only,30.0,35.0,,,12.6
+1202,641950,Last Stonelord,2017-09-28 00:00:00,10500.0,6.0,6.0,Indie,0.0,0.0,Indie,1.0,0.0,0.0,,mixed,single only,15.0,7.0,,,
+1203,641960,BOXVR,2019-05-21 00:00:00,31000.0,6.0,6.0,Action,0.0,22.0,Sports,12.0,0.0,1.0,,mostly positive,single only,1241.0,323.0,4.8,572.0,69.1
+1204,641980,Block Survival: Legend of the Lost Islands,2017-07-14 00:00:00,1100.0,6.0,6.0,Action,0.0,24.0,Action,1.0,0.0,0.0,,positive,single only,62.0,12.0,,,95.4
+1205,641990,The Escapists 2,2017-08-22 00:00:00,21000.0,1.0,1.0,Indie,0.0,58.0,Multiplayer,7.0,0.0,1.0,very positive,very positive,single and multi,21327.0,2316.0,441.9,11156.0,86.5
+1206,642000,Regenesis Arcade Lite,2017-11-20 00:00:00,0.0,6.0,6.0,Action,0.0,10.0,Action,10.0,0.0,0.0,,mixed,single only,29.0,14.0,,,49.8
+1207,642070,VR Theme Park Rides,2017-06-08 00:00:00,3300.0,5.0,5.0,Casual,0.0,0.0,Casual,17.0,0.0,0.0,,mixed,single only,12.0,17.0,,,
+1208,642170,Legendary Hunter VR,2017-08-24 00:00:00,10500.0,5.0,5.0,Action,0.0,9.0,Hunting,1.0,0.0,0.0,,mostly positive,single only,39.0,13.0,,,77.2
+1209,642190,Beer Pong League,2018-12-01 00:00:00,5500.0,6.0,6.0,Casual,1.0,0.0,Casual,1.0,0.0,0.0,,mixed,single only,23.0,10.0,,,
+1210,642520,Trio,2017-06-09 00:00:00,1100.0,6.0,6.0,Casual,0.0,673.0,Casual,27.0,0.0,0.0,,mixed,single only,56.0,42.0,,,86.7
+1211,642560,Art Of Gravity,2017-06-14 00:00:00,1100.0,5.0,5.0,Casual,0.0,9.0,Indie,27.0,0.0,0.0,,very positive,single only,540.0,49.0,,,29.0
+1212,642570,Flame of Mirrors,2017-07-14 00:00:00,1100.0,6.0,6.0,Indie,0.0,0.0,Indie,1.0,0.0,0.0,,1 user reviews,single only,0.0,1.0,,,
+1213,642580,Cally's Caves 4,2018-01-10 00:00:00,10500.0,5.0,5.0,Action,0.0,72.0,Action,1.0,0.0,1.0,,very positive,single only,102.0,23.0,,,47.5
+1214,642600,Burst Fighter,2017-09-16 00:00:00,5500.0,6.0,6.0,Action,0.0,21.0,Indie,1.0,0.0,0.0,,positive,single and multi,17.0,0.0,,,85.5
+1215,642610,Shape of the World,2018-06-06 00:00:00,13500.0,4.0,6.0,Casual,0.0,26.0,Casual,10.0,0.0,1.0,,very positive,single only,244.0,44.0,,,62.8
+1216,642650,Pepper's Puzzles,2017-08-08 00:00:00,7500.0,6.0,6.0,Casual,0.0,30.0,Casual,5.0,0.0,0.0,,very positive,single only,104.0,5.0,2.4,17.0,94.7
+1217,642660,VRemedies - MRI Procedure Experience,2018-05-05 00:00:00,205000.0,6.0,6.0,Simulation,0.0,0.0,Simulation,1.0,0.0,0.0,,2 user reviews,single only,1.0,1.0,,,
+1218,642670,VRemedies - Radiotherapy Procedure Experience,2018-05-10 00:00:00,205000.0,6.0,6.0,Simulation,0.0,0.0,Simulation,1.0,0.0,0.0,,no user reviews,single only,,,0.0,0.0,
+1219,642700,The Murder Room VR,2017-05-22 00:00:00,11500.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,mixed,single only,6.0,7.0,,,
+1220,642730,Virtual SlotCars,2017-06-09 00:00:00,10500.0,6.0,6.0,Indie,0.0,24.0,Racing,8.0,0.0,0.0,,positive,single only,44.0,7.0,,,5.5
+1221,642830,Milanoir,2018-06-01 00:00:00,13500.0,6.0,3.0,Action,0.0,34.0,Action,7.0,0.0,1.0,,mixed,single and multi,70.0,32.0,0.1,12.0,48.8
+1222,642840,Red Bull Doodle Art - Global VR Gallery,2017-07-01 00:00:00,0.0,6.0,6.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,9 user reviews,single only,9.0,0.0,,,
+1223,643200,Keep in Mind: Remastered,2018-03-09 00:00:00,2200.0,6.0,4.0,Adventure,0.0,0.0,Horror,9.0,0.0,1.0,,mostly positive,single only,259.0,79.0,2.6,78.0,
+1224,643260,Break Stuff With Coins,2018-05-04 00:00:00,8500.0,6.0,6.0,Action,0.0,134.0,Action,4.0,0.0,0.0,,8 user reviews,single only,20.0,0.0,,,81.8
+1225,643270,OLDTV,2017-07-14 00:00:00,0.0,6.0,6.0,Free to Play,0.0,48.0,Free to Play,14.0,0.0,1.0,very positive,very positive,single only,5012.0,268.0,2.4,353.0,87.5
+1226,643570,Avatar of the Wolf,2017-06-22 00:00:00,4400.0,2.0,2.0,,0.0,21.0,Choices Matter,1.0,0.0,0.0,,positive,single only,24.0,0.0,0.1,30.0,67.8
+1227,643590,Everyday Golf VR,2017-07-13 00:00:00,32000.0,6.0,6.0,Sports,0.0,24.0,Sports,6.0,0.0,1.0,,mixed,single and multi,34.0,46.0,0.4,24.0,91.4
+1228,643610,Mortal Blitz,2017-07-20 00:00:00,21000.0,6.0,6.0,Action,0.0,36.0,Action,5.0,0.0,0.0,,mostly positive,single only,50.0,21.0,,,23.9
+1229,643620,Night Trap - 25th Anniversary Edition,2017-08-16 00:00:00,15500.0,6.0,6.0,Action,0.0,30.0,Action,1.0,0.0,0.0,,very positive,single only,130.0,24.0,0.5,40.0,70.4
+1230,643700,Fix Me Up Doc! – Dark Humor,2017-06-23 00:00:00,1100.0,4.0,4.0,Action,0.0,40.0,Sports,8.0,0.0,0.0,,very positive,single only,175.0,32.0,0.0,9.0,84.7
+1231,643810,Fugl,2017-09-15 00:00:00,10500.0,6.0,6.0,Adventure,0.0,0.0,Flight,17.0,0.0,0.0,,very positive,single only,403.0,82.0,0.9,15.0,
+1232,643820,ShadowSide,2018-08-18 00:00:00,10500.0,5.0,5.0,Adventure,0.0,34.0,Adventure,3.0,0.0,1.0,,mixed,single only,216.0,120.0,0.6,58.0,66.0
+1233,643830,Botlike - a robot's rampage,2017-09-15 00:00:00,10500.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,positive,single only,52.0,8.0,,,
+1234,643870,Kitten Adventures in City Park,2017-09-09 00:00:00,0.0,5.0,5.0,Adventure,0.0,0.0,Cute,6.0,0.0,1.0,,very positive,single only,458.0,33.0,,,
+1235,643880,Strikey Sisters,2017-06-01 00:00:00,9900.0,4.0,4.0,Action,0.0,10.0,Action-Adventure,10.0,0.0,0.0,,very positive,single and multi,621.0,69.0,1.0,41.0,41.4
+1236,643900,Alvora Tactics,2017-06-01 00:00:00,10500.0,5.0,5.0,Indie,0.0,15.0,Indie,1.0,0.0,0.0,,very positive,single only,100.0,8.0,0.8,15.0,60.0
+1237,643940,Jim is Moving Out!,2019-07-19 00:00:00,,6.0,5.0,Casual,0.0,23.0,Indie,1.0,0.0,0.0,,8 user reviews,single and multi,13.0,2.0,0.0,3.0,73.9
+1238,643950,A Handful of Keflings,2018-01-25 00:00:00,20500.0,6.0,6.0,Simulation,0.0,20.0,Simulation,1.0,0.0,0.0,,9 user reviews,single only,4.0,8.0,,,83.9
+1239,643960,Cursed Treasure 2,2017-07-25 00:00:00,5500.0,5.0,3.0,Indie,0.0,53.0,Strategy,1.0,0.0,0.0,,very positive,single only,321.0,55.0,11.8,119.0,91.7
+1240,643970,Return to Planet X,2018-09-07 00:00:00,10500.0,6.0,6.0,Action,0.0,0.0,Action,7.0,0.0,0.0,,mixed,single only,12.0,7.0,0.0,3.0,
+1241,643980,Ironbound,2018-01-04 00:00:00,0.0,6.0,6.0,Free to Play,0.0,26.0,Free to Play,1.0,0.0,0.0,,mixed,single only,170.0,82.0,0.9,56.0,14.7
+1242,644000,INTERSTELLAR PRIME,2020-01-08 00:00:00,10500.0,6.0,6.0,Action,1.0,0.0,Action,1.0,0.0,0.0,,mixed,single only,28.0,15.0,0.3,5.0,
+1243,644010,Racing Glider,2020-02-28 00:00:00,7500.0,6.0,6.0,Casual,0.0,0.0,Racing,1.0,0.0,0.0,,mixed,single only,33.0,14.0,,,
+1244,644080,Alphabear: Hardcover Edition,2017-08-23 00:00:00,10500.0,6.0,6.0,Casual,0.0,10.0,Indie,1.0,0.0,0.0,,very positive,single only,82.0,17.0,0.6,119.0,76.3
+1245,644110,Lone Pirate VR,2017-05-27 00:00:00,1100.0,6.0,6.0,Action,0.0,7.0,Action,1.0,0.0,0.0,,mixed,single only,11.0,10.0,,,29.2
+1246,644150,Smogpunk 湮霾之地,2018-09-14 00:00:00,15500.0,6.0,6.0,Action,0.0,80.0,Action,2.0,0.0,0.0,,7 user reviews,single and multi,14.0,4.0,,,59.5
+1247,644160,Reflecting Fate,2017-07-11 00:00:00,5500.0,6.0,6.0,Action,0.0,0.0,Indie,2.0,0.0,0.0,,mostly positive,single only,30.0,20.0,,,
+1248,644200,Starlight of Aeons,2017-12-09 00:00:00,5500.0,6.0,5.0,Adventure,0.0,8.0,Female Protagonist,3.0,0.0,1.0,,very positive,single only,255.0,51.0,,,55.8
+1249,644290,MEMORIES OF MARS,2020-03-12 00:00:00,20500.0,6.0,2.0,Action,0.0,46.0,Open World Survival Craft,7.0,0.0,0.0,,mixed,multi only,981.0,610.0,8.1,583.0,66.7
+1250,644330,In The Dark,2018-08-01 00:00:00,2200.0,6.0,6.0,Action,0.0,22.0,Action,1.0,0.0,0.0,,no user reviews,single only,1.0,1.0,,,57.5
+1251,644370,Howard Phillips Lovecar,2018-10-02 00:00:00,2200.0,5.0,5.0,Action,0.0,11.0,Action,1.0,0.0,0.0,,positive,single only,30.0,6.0,,,40.5
+1252,644380,Hegis' Grasp: Evil Resurrected,2018-09-27 00:00:00,0.0,6.0,6.0,Action,0.0,33.0,Action,1.0,0.0,1.0,,mixed,single only,18.0,17.0,,,34.7
+1253,644390,D&D Lords of Waterdeep,2017-09-02 00:00:00,10500.0,5.0,5.0,Strategy,0.0,76.0,Strategy,1.0,0.0,1.0,very positive,very positive,single only,1163.0,80.0,57.6,373.0,62.9
+1254,644400,RoboTraps,2016-12-28 00:00:00,7500.0,6.0,6.0,Casual,0.0,0.0,Casual,2.0,0.0,0.0,,4 user reviews,single only,5.0,0.0,,,
+1255,644420,Xion,2018-08-30 00:00:00,10500.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,mixed,single only,35.0,16.0,,,
+1256,644480,Outbreak: The New Nightmare,2018-01-06 00:00:00,13500.0,5.0,5.0,Action,0.0,18.0,Survival Horror,1.0,0.0,1.0,,mixed,single and multi,175.0,86.0,0.2,19.0,79.0
+1257,644530,The Maid_san's Caving Adventure - メイドさん洞窟探検 -,2017-06-22 00:00:00,5500.0,5.0,5.0,Action,0.0,0.0,Action,2.0,0.0,1.0,,mixed,single only,7.0,8.0,,,
+1258,644540,Dies irae ~Amantes amentes~,2017-06-02 00:00:00,0.0,5.0,6.0,Adventure,0.0,0.0,Visual Novel,2.0,0.0,1.0,,very positive,single only,391.0,67.0,5.3,279.0,
+1259,644550,篱笆庄秘闻 / Mysteries of Fence,2017-07-14 00:00:00,4400.0,4.0,4.0,Adventure,0.0,5.0,Casual,2.0,0.0,0.0,,very positive,single only,255.0,29.0,,,94.5
+1260,644580,Slash or Die 2,2018-07-13 00:00:00,3300.0,5.0,5.0,Action,0.0,10.0,Action,6.0,0.0,0.0,,positive,single only,24.0,1.0,,,76.6
+1261,644610,Drums Hero PC,2017-06-22 00:00:00,5500.0,6.0,6.0,Action,0.0,0.0,Early Access,2.0,0.0,0.0,,mixed,single only,22.0,11.0,,,
+1262,644640,Band of Defenders,2018-04-06 00:00:00,14500.0,5.0,5.0,Action,0.0,45.0,FPS,10.0,0.0,0.0,,mixed,single and multi,197.0,180.0,,,80.6
+1263,644660,Lathe Safety Simulator,2017-06-07 00:00:00,0.0,6.0,6.0,Indie,0.0,0.0,Simulation,1.0,0.0,0.0,,mostly positive,single only,20.0,6.0,2.5,5.0,
+1264,644670,DEUS VULT | Online VR sword fighting,2017-05-27 00:00:00,5500.0,5.0,5.0,Action,0.0,0.0,Early Access,1.0,0.0,0.0,,mixed,,94.0,54.0,,,
+1265,644680,"Libra of the Vampire Princess: Lycoris & Aoi in ""The Promise"" PLUS Iris in ""Homeworld""",2017-07-08 00:00:00,17000.0,6.0,6.0,Adventure,0.0,8.0,Adventure,2.0,0.0,0.0,,4 user reviews,single only,6.0,3.0,,,88.0
+1266,644710,Gary Grigsby's War in the West,2014-12-04 00:00:00,86000.0,2.0,2.0,Simulation,0.0,0.0,Simulation,1.0,0.0,1.0,,very positive,single only,115.0,16.0,7.4,48.0,
+1267,644740,VRun,2017-06-01 00:00:00,5500.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,1 user reviews,single only,1.0,0.0,,,
+1268,644760,Streetball VR,2017-06-02 00:00:00,1100.0,6.0,6.0,Simulation,0.0,6.0,Sports,1.0,0.0,1.0,,8 user reviews,single only,16.0,15.0,,,61.4
+1269,644830,The Surge 2,2019-09-24 00:00:00,29800.0,2.0,2.0,Action,0.0,57.0,Souls-like,13.0,0.0,1.0,,mostly positive,single only,4780.0,1362.0,62.5,3679.0,82.1
+1270,644860,The Lightbringers,2020-08-28 00:00:00,5500.0,4.0,4.0,Indie,0.0,0.0,RPG,1.0,0.0,0.0,,2 user reviews,single only,0.0,2.0,,,
+1271,644870,Fortress of Hell,2019-05-23 00:00:00,7500.0,4.0,4.0,Adventure,0.0,10.0,RPG,1.0,0.0,1.0,,3 user reviews,single only,3.0,0.0,0.6,4.0,21.8
+1272,644890,DarkLast,2018-02-16 00:00:00,1100.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,negative,single only,12.0,27.0,,,
+1273,644930,They Are Billions,2019-06-19 00:00:00,31000.0,4.0,4.0,Strategy,0.0,34.0,Base Building,12.0,0.0,1.0,mostly positive,very positive,single only,33449.0,5888.0,2955.4,22295.0,61.1
+1274,645090,Zup! 5,2017-06-13 00:00:00,1100.0,4.0,4.0,Casual,0.0,2130.0,Casual,27.0,0.0,1.0,very positive,very positive,single only,2370.0,159.0,7.9,213.0,63.5
+1275,645150,Unborne,2018-02-20 00:00:00,10500.0,6.0,6.0,Indie,0.0,0.0,Indie,1.0,0.0,0.0,,8 user reviews,single only,3.0,5.0,,,
+1276,645200,Lethal Running,2021-01-15 00:00:00,18500.0,6.0,6.0,Indie,1.0,0.0,Early Access,2.0,0.0,0.0,,6 user reviews,single only,9.0,2.0,,,
+1277,645230,RUCKBALL,2019-05-18 00:00:00,0.0,6.0,6.0,Action,1.0,0.0,Sports,2.0,0.0,0.0,,mixed,,66.0,31.0,,,
+1278,645240,Costumenaut,2017-09-22 00:00:00,5500.0,6.0,4.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,5 user reviews,single only,6.0,0.0,,,
+1279,645260,Trophy Fishing 2,2017-07-13 00:00:00,0.0,6.0,6.0,Free to Play,0.0,225.0,Free to Play,10.0,0.0,0.0,,mostly positive,,610.0,241.0,120.0,490.0,36.0
+1280,645270,30 days to survive,2021-03-16 00:00:00,6500.0,5.0,5.0,Action,1.0,36.0,Simulation,3.0,0.0,1.0,,mostly positive,single only,79.0,26.0,,,34.9
+1281,645280,MYSTIC VR,2017-07-22 00:00:00,1100.0,6.0,6.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,5 user reviews,single only,6.0,3.0,,,
+1282,645290,Mechanism,2018-07-19 00:00:00,13500.0,5.0,5.0,Adventure,0.0,18.0,Adventure,6.0,0.0,1.0,,mixed,single only,92.0,38.0,,,63.2
+1283,645320,SCARF,2021-12-23 00:00:00,20000.0,6.0,4.0,Action,0.0,25.0,Action,18.0,0.0,0.0,,very positive,single only,134.0,18.0,,,80.0
+1284,645330,Frontline Heroes VR,2018-06-29 00:00:00,1100.0,6.0,6.0,Action,0.0,10.0,Action,1.0,0.0,0.0,,7 user reviews,single only,6.0,14.0,,,73.9
+1285,645340,Relax Walk VR,2017-06-02 00:00:00,1100.0,6.0,6.0,Simulation,0.0,6.0,Simulation,1.0,0.0,0.0,,mixed,single only,28.0,26.0,,,58.4
+1286,645360,Cube XL,2018-03-12 00:00:00,1100.0,5.0,5.0,Casual,0.0,11.0,Indie,1.0,0.0,1.0,,5 user reviews,single only,7.0,15.0,,,76.1
+1287,645380,Heroes of Umbra,2018-06-01 00:00:00,10500.0,6.0,6.0,Action,0.0,37.0,Indie,6.0,0.0,0.0,,positive,single and multi,33.0,5.0,,,71.2
+1288,645410,Ominous Tales: The Forsaken Isle,2017-03-27 00:00:00,7500.0,2.0,6.0,Adventure,0.0,0.0,Adventure,2.0,0.0,0.0,,mixed,single only,18.0,12.0,,,
+1289,645420,Entwined: Strings of Deception,2011-10-10 00:00:00,6500.0,2.0,6.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,positive,single only,29.0,5.0,0.3,7.0,
+1290,645440,Tearstone,2011-05-30 00:00:00,6500.0,6.0,6.0,Adventure,0.0,0.0,Adventure,1.0,0.0,0.0,,7 user reviews,single only,3.0,15.0,,,
+1291,645450,Gravity Quest,2017-06-23 00:00:00,3300.0,6.0,6.0,Adventure,0.0,5.0,Adventure,1.0,0.0,0.0,,mixed,single only,58.0,24.0,,,78.4
+1292,645460,Mind Maze,2017-06-16 00:00:00,5500.0,5.0,5.0,Action,0.0,19.0,Casual,15.0,0.0,1.0,,mostly positive,single only,57.0,18.0,,,74.9
+1293,645470,LOG the game,2017-07-07 00:00:00,6500.0,6.0,6.0,Action,0.0,0.0,Racing,1.0,0.0,0.0,,no user reviews,single only,5.0,4.0,,,
+1294,645480,Spider-Man: Homecoming - Virtual Reality Experience,2017-07-01 00:00:00,0.0,6.0,6.0,Action,0.0,0.0,Action,8.0,0.0,0.0,,mixed,single only,266.0,255.0,3.5,297.0,
+1295,645500,Cat Sorter VR,2017-08-29 00:00:00,10500.0,6.0,6.0,Casual,0.0,0.0,Casual,2.0,0.0,0.0,,positive,single only,24.0,7.0,,,
+1296,645630,Car Mechanic Simulator 2018,2017-07-28 00:00:00,21000.0,5.0,2.0,Racing,0.0,60.0,Simulation,17.0,0.0,1.0,very positive,very positive,single only,39341.0,4082.0,550.8,8382.0,68.0
+1297,645650,Chickens Madness,2018-02-14 00:00:00,10500.0,5.0,5.0,Action,0.0,18.0,Local Multiplayer,1.0,0.0,0.0,,mixed,multi only,11.0,11.0,,,5.9
+1298,645690,Fantasia of the Wind - 风之幻想曲,2017-10-26 00:00:00,4400.0,5.0,5.0,Adventure,0.0,66.0,Adventure,1.0,0.0,1.0,,very positive,single only,339.0,47.0,,,60.5
+1299,645700,第502統合戦闘航空団 ブレイブウィッチーズ VR-Operation Baba_yaga-雪中迎撃戦,2017-06-09 00:00:00,19000.0,6.0,6.0,Utilities,0.0,0.0,Nudity,1.0,0.0,0.0,,mixed,,8.0,10.0,,,
+1300,645730,RESONANCE OF FATE™/END OF ETERNITY™ 4K/HD EDITION,2018-10-17 00:00:00,36000.0,6.0,6.0,RPG,0.0,47.0,RPG,6.0,0.0,1.0,,very positive,single only,563.0,132.0,11.8,822.0,78.1
+1301,645750,Rule with an Iron Fish - A Pirate Fishing Adventure,2017-08-25 00:00:00,10500.0,6.0,6.0,Adventure,0.0,12.0,Casual,2.0,0.0,0.0,,positive,single only,30.0,2.0,,,89.6
+1302,645780,Robot Pirates,2017-06-09 00:00:00,2200.0,6.0,6.0,Casual,0.0,30.0,Indie,11.0,0.0,0.0,,1 user reviews,single only,7.0,6.0,,,48.8
+1303,645790,Home Wars,2017-06-14 00:00:00,10500.0,5.0,5.0,Action,0.0,0.0,Strategy,1.0,0.0,0.0,,mostly positive,single only,555.0,184.0,8.2,226.0,
+1304,645820,Odysseus Kosmos and his Robot Quest (Complete Season),2017-12-02 00:00:00,16000.0,4.0,4.0,Indie,0.0,72.0,Point & Click,3.0,0.0,1.0,,very positive,single only,122.0,21.0,0.7,317.0,19.4
+1305,645830,Son Korsan,2017-05-30 00:00:00,0.0,6.0,6.0,Action,0.0,0.0,Free to Play,7.0,0.0,0.0,,mostly negative,,34.0,77.0,,,
+1306,645860,Spartan VR,2017-08-25 00:00:00,5500.0,6.0,6.0,Action,0.0,15.0,Adventure,6.0,0.0,0.0,,mixed,single only,7.0,7.0,0.0,2.0,33.5
+1307,645920,Dreamstones,2017-11-09 00:00:00,12500.0,5.0,5.0,Action,0.0,25.0,Action-Adventure,1.0,0.0,1.0,,positive,single only,71.0,15.0,,,41.8
+1308,645930,Zero Killed,2020-09-04 00:00:00,15500.0,6.0,6.0,Action,0.0,0.0,Action,1.0,0.0,0.0,,mixed,single only,32.0,29.0,,,
+1309,645940,OneScreen Solar Sails,2017-05-26 00:00:00,2200.0,6.0,6.0,Casual,0.0,0.0,Casual,2.0,0.0,0.0,,9 user reviews,single and multi,26.0,10.0,,,
+1310,646010,Golem,2018-05-30 00:00:00,16000.0,5.0,5.0,Adventure,0.0,13.0,Adventure,10.0,0.0,0.0,,mixed,single only,20.0,11.0,,,75.0
+1311,646050,Past Cure,2018-02-23 00:00:00,39800.0,6.0,6.0,Action,0.0,13.0,Action,12.0,0.0,1.0,,mostly negative,single only,18.0,39.0,0.0,23.0,55.4
+1312,646100,Woodlands,2017-09-27 00:00:00,6500.0,6.0,6.0,Action,0.0,0.0,Indie,1.0,0.0,0.0,,mostly negative,single only,96.0,216.0,,,
+1313,646150,Winter Wolves Classic Games Collection,2017-10-25 00:00:00,5500.0,4.0,4.0,Simulation,0.0,0.0,Simulation,1.0,0.0,0.0,,3 user reviews,single only,2.0,1.0,,,
+1314,646180,Nightcrawler VR Bowling,2017-05-27 00:00:00,0.0,6.0,6.0,Casual,0.0,0.0,Casual,1.0,0.0,0.0,,7 user reviews,single only,4.0,3.0,0.2,2.0,
+1315,646200,Dead Effect 2 VR,2017-10-04 00:00:00,26000.0,6.0,6.0,Action,0.0,206.0,Action,4.0,0.0,1.0,,very positive,single only,922.0,210.0,2.3,228.0,71.9
+1316,646240,Bacon May Die,2021-04-15 00:00:00,0.0,4.0,4.0,Action,0.0,21.0,Free to Play,1.0,0.0,0.0,very positive,very positive,single and multi,592.0,34.0,3.1,111.0,46.6
+1317,646270,60 Parsecs!,2018-09-19 00:00:00,10500.0,4.0,4.0,Adventure,0.0,40.0,Point & Click,8.0,0.0,0.0,very positive,very positive,single only,2086.0,332.0,29.9,719.0,87.0
+1318,646280,Too Many Weapons,2017-06-01 00:00:00,10500.0,5.0,5.0,Action,0.0,97.0,4 Player Local,1.0,0.0,0.0,,mostly positive,single and multi,23.0,7.0,,,55.0
+1319,646300,ChainMan,2017-08-15 00:00:00,14500.0,6.0,6.0,Action,0.0,12.0,Action,2.0,0.0,0.0,,9 user reviews,single and multi,8.0,4.0,0.0,5,58.5
+1320,646310,ProjectM : Daydream,2017-09-05 00:00:00,5500.0,6.0,6.0,Adventure,0.0,0.0,Simulation,8.0,0.0,0.0,,mixed,single only,63.0,25.0,,,
+1321,646330,Darkness and Flame: Missing Memories,2017-10-24 00:00:00,7500.0,4.0,4.0,Adventure,0.0,22.0,Adventure,13.0,0.0,0.0,,very positive,single only,84.0,2.0,1.3,19,91.9
+1322,646350,Tracon!2012:SE,2018-02-09 00:00:00,38000.0,5.0,5.0,Indie,0.0,0.0,Simulation,1.0,0.0,1.0,,mixed,single only,7.0,6.0,0.2,4,
