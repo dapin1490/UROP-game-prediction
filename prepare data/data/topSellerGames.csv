@@ -1,0 +1,444 @@
+,appid,is_top_seller,title,releaseDate,price,developer tier,publisher tier,genre,early access,achievement,tag,languages,steam award,DLC,recent positive,all positive,single or multi,positive review,negative review,recent player,peek player,most achieved rate
+0,48700,1,Mount & Blade: Warband,2010-03-31,20000.0,2,2,Action,0,80,Medieval,10,0,1,overwhelmingly positive,overwhelmingly positive,single only,139965,3221,4681.5,32799.0,53.3
+1,646570,1,Slay the Spire,2019-01-24,26000.0,3,3,Indie,0,46,Roguelike Deckbuilder,17,0,1,overwhelmingly positive,overwhelmingly positive,single only,112417,2427,10190.1,32937.0,90.8
+2,588650,1,Dead Cells,2018-08-07,25800.0,2,2,Action,0,108,Roguelite,13,0,1,overwhelmingly positive,overwhelmingly positive,single only,106363,3210,3071.2,13651.0,93.3
+3,526870,1,Satisfactory,2020-06-09,31000.0,2,2,Adventure,0,0,Base Building,21,0,0,overwhelmingly positive,overwhelmingly positive,single and multi,97748,2832,13029.0,34145.0,
+4,433340,1,Slime Rancher,2017-08-02,21000.0,2,2,Action,0,57,Cute,10,0,1,overwhelmingly positive,overwhelmingly positive,single only,90602,1970,1892.6,7189.0,83.4
+5,3590,1,Plants vs. Zombies GOTY Edition,2009-05-06,5000.0,2,2,Strategy,0,21,Tower Defense,1,0,0,overwhelmingly positive,overwhelmingly positive,single only,81224,2371,3517.5,13028.0,82.5
+6,883710,1,Resident Evil 2,2019-01-25,45600.0,1,1,Action,0,44,Zombies,14,0,1,overwhelmingly positive,overwhelmingly positive,single only,107386,3171,1443.0,74024.0,94.7
+7,1092790,1,Inscryption,2021-10-20,22000.0,2,1,Adventure,0,40,Card Battler,12,0,1,overwhelmingly positive,overwhelmingly positive,single only,71523,2107,2003.1,17044.0,96.1
+8,1366540,1,Dyson Sphere Program,2021-01-21,20500.0,5,2,Indie,1,100,Space,2,0,1,overwhelmingly positive,overwhelmingly positive,single only,62235,1426,3952.3,59339.0,37.0
+9,504230,1,Celeste,2018-01-25,21000.0,6,6,Action,0,32,Precision Platformer,9,0,1,overwhelmingly positive,overwhelmingly positive,single only,54889,1247,1364.2,2216.0,74.8
+10,205100,1,Dishonored,2012-10-10,11530.0,2,1,Action,0,80,Stealth,5,0,1,overwhelmingly positive,overwhelmingly positive,single only,66241,1693,601.9,19930.0,84.8
+11,238460,1,BattleBlock Theater®,2014-05-16,15500.0,2,2,Action,0,30,Comedy,11,0,0,overwhelmingly positive,overwhelmingly positive,single and multi,63906,1802,328.7,14269.0,86.9
+12,1113000,1,Persona 4 Golden,2020-06-14,19800.0,2,1,RPG,0,50,JRPG,4,0,0,very positive,overwhelmingly positive,single only,54753,1587,1916.8,29984.0,77.0
+13,636480,1,Ravenfield,2017-05-19,16000.0,3,3,Action,0,0,FPS,1,0,0,overwhelmingly positive,overwhelmingly positive,single only,49412,1500,1201.8,3927.0,
+14,239030,1,"Papers, Please",2013-08-09,10500.0,2,2,Adventure,0,13,Indie,10,0,0,overwhelmingly positive,overwhelmingly positive,single only,50836,1575,477.3,6038.0,56.8
+15,213670,1,South Park™: The Stick of Truth™,2014-03-06,33000.0,2,1,Action,0,50,RPG,8,0,1,overwhelmingly positive,overwhelmingly positive,single only,49594,1236,322.9,34645.0,73.5
+16,1332010,1,Stray,2022-07-20,35000.0,2,2,Adventure,0,24,Cats,16,0,1,,overwhelmingly positive,single only,37649,863,33242.1,51455.0,93.6
+17,1454400,1,Cookie Clicker,2021-09-02,5500.0,6,6,Casual,0,583,Clicker,13,0,1,overwhelmingly positive,overwhelmingly positive,single only,33457,871,12351.1,67806.0,99.7
+18,447530,1,VA-11 Hall-A: Cyberpunk Bartender Action,2016-06-21,16000.0,2,4,Adventure,0,34,Cyberpunk,3,0,0,overwhelmingly positive,overwhelmingly positive,single only,28716,676,163.5,1554.0,97.8
+19,250320,1,The Wolf Among Us,2013-10-11,15500.0,6,6,Action,0,35,Adventure,1,0,0,overwhelmingly positive,overwhelmingly positive,single only,27789,653,92.1,14130.0,90.3
+20,420,1,Half-Life 2: Episode Two,2007-10-10,8500.0,1,1,Action,0,23,FPS,17,0,1,overwhelmingly positive,overwhelmingly positive,single only,28981,914,171.6,1381.0,91.3
+21,1290000,1,PowerWash Simulator,2022-07-15,29800.0,6,1,Casual,1,40,Simulation,9,0,0,overwhelmingly positive,overwhelmingly positive,single and multi,22888,539,3232.5,10503.0,23.1
+22,288160,1,The Room,2014-07-28,5500.0,2,2,Adventure,0,5,Puzzle,6,0,0,overwhelmingly positive,overwhelmingly positive,single only,20489,467,96.5,648.0,89.2
+23,597170,1,Clone Drone in the Danger Zone,2021-07-27,20500.0,6,6,Action,1,57,Robots,11,0,0,overwhelmingly positive,overwhelmingly positive,single and multi,18252,559,290.8,1921.0,67.8
+24,450540,1,"Hot Dogs, Horseshoes & Hand Grenades",2016-04-05,21000.0,6,6,Action,0,0,VR,1,0,0,overwhelmingly positive,overwhelmingly positive,single only,15227,470,281.5,5184.0,
+25,425580,1,The Room Two,2016-07-05,5500.0,2,2,Adventure,0,7,Puzzle,6,0,0,overwhelmingly positive,overwhelmingly positive,single only,14447,316,72.8,369.0,92.4
+26,531510,1,Just Shapes & Beats,2018-06-01,20500.0,4,4,Action,0,26,Rhythm,14,0,1,overwhelmingly positive,overwhelmingly positive,single and multi,14532,326,108.9,918.0,74.2
+27,1392820,1,Milk inside a bag of milk inside a bag of milk,2020-08-26,1100.0,6,6,Adventure,0,0,Visual Novel,10,0,1,overwhelmingly positive,overwhelmingly positive,single only,12189,338,18.5,70.0,
+28,557600,1,Gorogoa,2017-12-15,15500.0,2,2,Adventure,0,11,Puzzle,17,0,1,overwhelmingly positive,overwhelmingly positive,single only,11453,298,64.6,809.0,96.2
+29,617670,1,Zup! S,2018-11-15,1100.0,4,4,Casual,0,800,Casual,28,0,0,overwhelmingly positive,overwhelmingly positive,single only,10071,249,38.5,711.0,79.8
+30,341800,1,Keep Talking and Nobody Explodes,2015-10-09,16000.0,5,5,Indie,0,10,Co-op,26,0,1,overwhelmingly positive,overwhelmingly positive,multi only,10774,234,164.2,1744.0,87.8
+31,488860,1,MADNESS: Project Nexus,2021-09-30,26000.0,6,6,Action,0,38,Gore,1,0,1,overwhelmingly positive,overwhelmingly positive,single and multi,9425,280,465.0,4919.0,82.0
+32,246420,1,Kingdom Rush - Tower Defense,2014-01-07,10500.0,2,2,Strategy,0,74,Tower Defense,10,0,0,overwhelmingly positive,overwhelmingly positive,single only,9499,288,177.3,1950.0,92.3
+33,732690,1,FIVE NIGHTS AT FREDDY'S: HELP WANTED,2019-05-28,31000.0,5,6,Action,0,15,Horror,11,0,1,overwhelmingly positive,overwhelmingly positive,single only,8152,270,39.0,844.0,88.8
+34,1082430,1,Before Your Eyes,2021-04-08,10500.0,6,3,Adventure,0,11,Emotional,8,0,1,overwhelmingly positive,overwhelmingly positive,single only,8157,179,17.9,491.0,65.4
+35,367580,1,Hook,2015-01-25,2200.0,5,5,Casual,0,0,Casual,27,0,0,very positive,overwhelmingly positive,single only,8240,251,7.1,261.0,
+36,1318690,1,shapez,2020-06-07,13000.0,5,5,Casual,1,45,Automation,24,0,1,very positive,overwhelmingly positive,single only,7732,219,409.6,2582.0,70.8
+37,667970,1,VTOL VR,2017-08-04,32000.0,6,6,Action,0,0,Flight,4,0,1,overwhelmingly positive,overwhelmingly positive,single and multi,7256,176,353.3,1054.0,
+38,601220,1,Zup! F,2019-12-11,1100.0,4,4,Casual,0,640,Casual,29,0,0,very positive,overwhelmingly positive,single only,7347,196,24.2,751.0,66.9
+39,1406990,1,NEKOPARA Vol. 4,2020-11-27,10500.0,6,1,Adventure,0,19,Sexual Content,3,0,1,overwhelmingly positive,overwhelmingly positive,single only,7117,171,50.5,2512.0,90.1
+40,909080,1,Cube Escape: Paradox,2018-09-20,0.0,1,1,Adventure,0,28,Puzzle,14,0,1,overwhelmingly positive,overwhelmingly positive,single only,6650,176,90.8,1828.0,77.7
+41,435400,1,Hidden Folks,2017-02-15,13500.0,5,5,Adventure,0,8,Hidden Object,23,0,1,very positive,overwhelmingly positive,single only,7811,268,32.7,747.0,41.0
+42,1604000,1,Milk outside a bag of milk outside a bag of milk,2021-12-16,9500.0,6,6,Casual,0,10,Visual Novel,9,0,1,overwhelmingly positive,overwhelmingly positive,single only,5486,160,35.3,297.0,75.9
+43,1239080,1,Door Kickers 2: Task Force North,2020-11-04,26000.0,4,4,Action,1,0,Strategy,1,0,0,very positive,overwhelmingly positive,single and multi,5471,173,324.2,900.0,
+44,558990,1,Opus Magnum,2017-12-08,20500.0,2,2,Indie,0,5,Puzzle,12,0,0,very positive,overwhelmingly positive,single only,4666,123,133.7,890.0,50.9
+45,434170,1,The Jackbox Party Pack 3,2016-10-18,27000.0,2,2,Casual,0,20,Trivia,1,0,1,very positive,overwhelmingly positive,single and multi,4640,135,237.1,10894.0,66.9
+46,1172450,1,Carto,2020-10-27,0.0,6,2,Adventure,0,20,Indie,9,0,1,overwhelmingly positive,overwhelmingly positive,single only,4654,135,44.4,909.0,80.1
+47,348550,1,GUILTY GEAR XX ACCENT CORE PLUS R,2015-05-27,16000.0,2,2,Action,0,30,Fighting,8,0,0,very positive,overwhelmingly positive,single only,4701,164,147.3,2330.0,91.4
+48,1218900,1,Zup! Z,2020-12-22,1100.0,4,4,Casual,0,512,Puzzle,29,0,0,very positive,overwhelmingly positive,single only,3462,95,16.4,1272.0,57.9
+49,483980,1,Mad Father,2016-09-23,10500.0,6,2,Adventure,0,21,RPGMaker,6,0,0,very positive,overwhelmingly positive,single only,3453,99,12.8,230.0,80.1
+50,1764390,1,BAD END THEATER,2021-10-27,10500.0,4,4,Simulation,0,48,Story Rich,17,0,1,overwhelmingly positive,overwhelmingly positive,single only,3228,80,13.7,149.0,98.4
+51,1079260,1,Fireworks Mania - An Explosive Simulator,2020-12-18,12500.0,5,5,Action,0,0,Sandbox,17,0,0,overwhelmingly positive,overwhelmingly positive,single only,3043,94,102.8,764.0,
+52,370360,1,TIS-100,2015-07-21,7500.0,2,2,Indie,0,10,Programming,1,0,0,very positive,overwhelmingly positive,single only,3357,109,24.0,468.0,89.8
+53,1337010,1,Alba: A Wildlife Adventure,2020-12-11,17500.0,4,4,Adventure,0,9,Casual,14,0,0,overwhelmingly positive,overwhelmingly positive,single only,3082,68,17.5,192.0,96.3
+54,648100,1,Raging Loop,2017-08-24,32000.0,4,4,Adventure,0,0,Adventure,2,0,0,overwhelmingly positive,overwhelmingly positive,single only,2917,84,110.7,429.0,
+55,1104380,1,The Room VR: A Dark Matter,2020-03-26,31000.0,2,2,Adventure,0,6,Adventure,10,0,0,very positive,overwhelmingly positive,single only,2713,66,9.4,137.0,84.9
+56,397740,1,Hylics,2015-10-03,3300.0,6,6,Indie,0,0,Indie,1,0,0,overwhelmingly positive,overwhelmingly positive,single only,2865,60,9.7,74.0,
+57,1058830,1,Spin Rhythm XD,2019-10-22,20000.0,6,6,Action,1,42,Rhythm,11,0,1,very positive,overwhelmingly positive,single only,2382,77,34.6,309.0,34.6
+58,990630,1,The Last Campfire,2021-10-07,15500.0,2,2,Adventure,0,22,Adventure,14,0,0,overwhelmingly positive,overwhelmingly positive,single only,2538,61,47.2,299.0,92.0
+59,251290,1,The Legend of Heroes: Trails in the Sky SC,2015-10-30,32000.0,6,2,RPG,0,23,JRPG,1,0,0,very positive,overwhelmingly positive,single only,2338,50,92.1,820.0,78.8
+60,995460,1,Miracle Snack Shop,2018-12-26,10500.0,3,3,Casual,0,0,Dating Sim,3,0,1,,overwhelmingly positive,single only,2075,54,,,
+61,1123450,1,Chicory: A Colorful Tale,2021-06-11,20500.0,6,3,Adventure,0,33,Indie,7,0,1,overwhelmingly positive,overwhelmingly positive,single and multi,1832,39,41.5,313.0,93.7
+62,1522870,1,Supraland Six Inches Under,2022-01-14,20500.0,4,4,Adventure,0,53,Puzzle,15,0,0,very positive,overwhelmingly positive,single only,1579,45,70.2,1964.0,98.3
+63,604330,1,The Crown of Leaves,2018-11-27,5500.0,4,6,Adventure,0,33,Adventure,2,0,1,very positive,overwhelmingly positive,single only,1485,43,4.2,254.0,60.7
+64,1510030,1,Knights College,2021-01-15,26000.0,6,6,Adventure,0,9,LGBTQ+,5,0,0,very positive,overwhelmingly positive,single only,1331,34,19.5,570.0,89.5
+65,1421790,1,Labyrinth City: Pierre the Maze Detective,2021-06-22,12500.0,6,5,Adventure,0,41,Adventure,10,0,0,very positive,overwhelmingly positive,single only,1439,45,15.8,535.0,49.0
+66,615120,1,COMPOUND,2022-07-20,,6,6,Action,1,21,Action,1,0,0,very positive,overwhelmingly positive,single only,1213,31,13.8,156.0,10.8
+67,1111370,1,A Summer's End - Hong Kong 1986,2020-04-23,15500.0,6,6,Casual,0,0,Indie,3,0,1,very positive,overwhelmingly positive,single only,1217,38,7.6,86.0,
+68,402620,1,Kindred Spirits on the Roof,2016-02-13,38000.0,5,2,Adventure,0,0,Visual Novel,2,0,1,very positive,overwhelmingly positive,single only,1048,30,7.4,225.0,
+69,1999360,1,Placid Plastic Duck Simulator,2022-07-06,2200.0,6,6,Casual,0,15,Immersive Sim,13,0,0,,overwhelmingly positive,single only,939,24,240.7,535.0,86.7
+70,410890,1,Higurashi When They Cry Hou - Ch.2 Watanagashi,2015-11-14,8500.0,3,2,Adventure,0,15,Visual Novel,2,0,0,very positive,overwhelmingly positive,single only,873,29,11.9,164.0,53.0
+71,1562700,1,SANABI,2022-06-21,15500.0,2,2,Action,1,0,Action,7,0,0,overwhelmingly positive,overwhelmingly positive,single only,786,19,48.9,413.0,
+72,1080750,1,Mutazione,2019-09-19,20500.0,6,4,Adventure,0,20,Relaxing,15,0,1,very positive,overwhelmingly positive,single only,634,21,8.2,49.0,83.9
+73,4000,1,Garry's Mod,2006-11-29,10500.0,2,6,Indie,0,29,Sandbox,25,0,0,overwhelmingly positive,overwhelmingly positive,single and multi,822717,29012,28775.6,73750.0,87.6
+74,292030,1,The Witcher® 3: Wild Hunt,2015-05-18,34800.0,1,1,RPG,0,78,Open World,16,1,1,,overwhelmingly positive *,single only,617325,25026,13510.0,103329.0,64.7
+75,322330,1,Don't Starve Together,2016-04-22,15500.0,1,1,Adventure,0,0,Exploration,2,0,1,very positive,overwhelmingly positive,single and multi,328375,13263,20350.5,66829.0,
+76,264710,1,Subnautica,2018-01-23,31000.0,2,2,Adventure,0,17,Open World Survival Craft,23,0,1,overwhelmingly positive,overwhelmingly positive,single only,191742,7232,3253.6,50876.0,83.6
+77,391540,1,Undertale,2015-09-15,10500.0,6,6,Indie,0,0,Great Soundtrack,2,0,1,overwhelmingly positive,overwhelmingly positive,single only,175114,6069,689.1,10462.0,
+78,632360,1,Risk of Rain 2,2020-08-11,26000.0,2,2,Action,1,118,Third-Person Shooter,11,0,1,very positive,overwhelmingly positive,single and multi,198996,7353,9487.6,71033.0,79.9
+79,203160,1,Tomb Raider,2013-03-05,2200.0,1,1,Action,0,50,Adventure,13,0,1,overwhelmingly positive,overwhelmingly positive,single only,206396,8180,777.8,89494.0,57.3
+80,22380,1,Fallout: New Vegas,2010-10-22,10500.0,2,1,Action,0,75,Open World,5,0,1,overwhelmingly positive,overwhelmingly positive,single only,154923,5665,4592.1,30309.0,93.1
+81,10,1,Counter-Strike,2000-11-01,10500.0,1,1,Action,0,0,Action,8,0,0,overwhelmingly positive,overwhelmingly positive,,198326,5132,8957.3,65188.0,
+82,427520,1,Factorio,2020-08-14,,6,6,Casual,0,38,Automation,22,0,1,,overwhelmingly positive *,single and multi,145086,5210,11046.5,34640.0,61.5
+83,284160,1,BeamNG.drive,2015-05-30,26000.0,3,3,Racing,0,0,Simulation,11,0,0,overwhelmingly positive,overwhelmingly positive,single only,127265,4196,7370.4,15811.0,
+84,8930,1,Sid Meier's Civilization® V,2010-09-24,32000.0,2,1,Strategy,0,286,Turn-Based Strategy,10,0,1,overwhelmingly positive,overwhelmingly positive,single only,178687,7165,15742.7,91020.0,89.1
+85,268910,1,Cuphead,2017-09-29,21000.0,2,2,Action,0,42,Difficult,12,0,1,overwhelmingly positive,overwhelmingly positive,single and multi,107915,3871,7190.8,19076.0,77.8
+86,240,1,Counter-Strike: Source,2004-11-02,10500.0,1,1,Action,0,147,Shooter,12,0,0,overwhelmingly positive,overwhelmingly positive,,135132,5345,5249.4,48458.0,62.6
+87,270880,1,American Truck Simulator,2016-02-02,24800.0,1,1,Indie,0,80,Automobile Sim,24,0,1,,overwhelmingly positive *,single and multi,104560,3860,5337.2,19138.0,
+88,1057090,1,Ori and the Will of the Wisps,2020-03-11,29900.0,2,1,Action,0,37,Beautiful,21,1,1,overwhelmingly positive,overwhelmingly positive,single only,86269,3149,1242.8,31224.0,84.3
+89,219740,1,Don't Starve,,10500.0,1,6,Adventure,0,0,Survival,2,0,1,very positive,overwhelmingly positive,single only,93792,3110,1949.5,16556.0,
+90,1426210,1,It Takes Two,2021-03-26,,2,1,Action,0,20,Co-op,12,1,0,overwhelmingly positive,overwhelmingly positive,multi only,90560,3732,6177.0,32647.0,62.9
+91,457140,1,Oxygen Not Included,2019-07-31,26000.0,1,1,Indie,0,45,Colony Sim,4,0,1,overwhelmingly positive,overwhelmingly positive,single only,82951,3015,7455.1,27380.0,
+92,204360,1,Castle Crashers®,2012-09-27,15500.0,2,2,Action,0,12,Co-op,11,0,1,overwhelmingly positive,overwhelmingly positive,single and multi,89410,3466,907.4,15960.0,49.3
+93,238320,1,Outlast,2013-09-04,20500.0,2,2,Action,0,14,Horror,9,0,1,overwhelmingly positive,overwhelmingly positive,single only,84335,3242,492.8,11684.0,44.5
+94,70,1,Half-Life,1998-11-09,10500.0,1,1,Action,0,0,FPS,8,0,1,overwhelmingly positive,overwhelmingly positive,single only,73270,2614,678.4,5998.0,
+95,311690,1,Enter the Gungeon,2016-04-05,16000.0,1,1,Action,0,54,Bullet Hell,11,0,0,very positive,overwhelmingly positive,single only,64568,2618,1175.1,15767.0,86.6
+96,620980,1,Beat Saber,2019-05-22,31000.0,6,6,Indie,0,26,VR,7,1,1,overwhelmingly positive,overwhelmingly positive,single only,61267,2547,950.9,42095.0,80.5
+97,1196590,1,Resident Evil Village,2021-05-07,48400.0,1,1,Action,0,49,Survival Horror,13,1,1,overwhelmingly positive,overwhelmingly positive,single only,73907,3145,1227.2,106631.0,90.2
+98,683320,1,GRIS,2018-12-13,17500.0,1,1,Adventure,0,17,Beautiful,10,1,1,overwhelmingly positive,overwhelmingly positive,single only,54211,1923,151.5,1345.0,91.7
+99,206440,1,To the Moon,2011-11-01,10500.0,2,2,Adventure,0,0,Story Rich,13,0,1,overwhelmingly positive,overwhelmingly positive,single only,60018,2217,98.1,601.0,
+100,1167630,1,Teardown,2022-04-21,22500.0,6,6,Action,1,27,Destruction,1,0,0,very positive,overwhelmingly positive,single only,43905,1904,2077.7,8221.0,19.5
+101,1593500,1,God of War,2022-01-15,45800.0,1,1,Action,0,37,Action,18,0,0,overwhelmingly positive,overwhelmingly positive,single only,51395,1615,4147.4,73529.0,90.4
+102,207610,1,The Walking Dead,2012-04-25,15500.0,6,3,Adventure,0,48,Zombies,5,0,1,overwhelmingly positive,overwhelmingly positive,single only,56197,1732,156.1,12067.0,83.5
+103,500,1,Left 4 Dead,2008-11-17,10500.0,1,1,Action,0,73,Zombies,17,0,0,overwhelmingly positive,overwhelmingly positive,single only,40153,1607,632.6,2333.0,68.7
+104,629730,1,Blade and Sorcery,2018-12-11,20500.0,5,5,Action,1,0,VR,1,0,0,overwhelmingly positive,overwhelmingly positive,single only,31873,1157,955.8,10235.0,
+105,35140,1,Batman: Arkham Asylum Game of the Year Edition,2010-03-27,21000.0,6,1,Action,0,47,Action,5,0,0,overwhelmingly positive,overwhelmingly positive,single only,41993,1578,574.5,6739.0,74.0
+106,386940,1,Ultimate Chicken Horse,2016-03-05,15500.0,4,4,Action,0,31,Multiplayer,15,0,1,overwhelmingly positive,overwhelmingly positive,multi only,27729,1020,652.2,2705.0,75.9
+107,413410,1,Danganronpa: Trigger Happy Havoc,2016-02-18,21000.0,2,2,Adventure,0,38,Anime,3,0,0,very positive,overwhelmingly positive,single only,22620,844,373.7,3374.0,84.7
+108,557340,1,My Friend Pedro,2019-06-21,20500.0,1,1,Action,0,30,Action,10,1,1,very positive,overwhelmingly positive,single only,23424,967,54.2,6320.0,85.0
+109,261030,1,The Walking Dead: Season Two,2013-12-18,15500.0,6,3,Adventure,0,40,Zombies,1,0,0,overwhelmingly positive,overwhelmingly positive,single only,24981,1013,65.2,18433.0,88.3
+110,413420,1,Danganronpa 2: Goodbye Despair,2016-04-19,21000.0,2,2,Adventure,0,47,Anime,3,0,0,very positive,overwhelmingly positive,single only,19577,708,387.8,1848.0,79.3
+111,247080,1,Crypt of the NecroDancer,2015-04-24,16000.0,4,4,Action,0,44,Rhythm,11,0,1,very positive,overwhelmingly positive,single and multi,20793,854,177.8,2234.0,46.3
+112,32440,1,LEGO® Star Wars™ - The Complete Saga,2009-11-13,20500.0,6,6,Adventure,0,0,LEGO,5,0,0,overwhelmingly positive,overwhelmingly positive,single only,18253,628,312.5,1933.0,
+113,653530,1,Return of the Obra Dinn,2018-10-19,20500.0,2,2,Adventure,0,16,Detective,12,0,1,overwhelmingly positive,overwhelmingly positive,single only,16579,546,141.5,1220.0,62.2
+114,1388880,1,Doki Doki Literature Club Plus!,2021-07-01,15500.0,6,4,Casual,0,19,Psychological Horror,12,0,1,overwhelmingly positive,overwhelmingly positive,single only,15743,539,168.0,6912.0,59.4
+115,1127500,1,Mini Motorways,2021-07-20,10500.0,4,4,Casual,0,90,Casual,14,0,0,overwhelmingly positive,overwhelmingly positive,single only,13150,548,504.3,9914.0,98.6
+116,1235140,1,Yakuza: Like a Dragon,2020-11-11,59800.0,6,1,Action,0,63,RPG,11,0,1,very positive,overwhelmingly positive,single only,16186,620,1308.1,9508.0,85.9
+117,512900,1,Streets of Rogue,2019-07-13,20500.0,4,2,Action,0,52,Roguelite,8,0,1,overwhelmingly positive,overwhelmingly positive,single and multi,15323,556,489.4,4265.0,83.3
+118,1284190,1,The Planet Crafter,2022-03-25,20500.0,4,4,Adventure,1,23,Open World Survival Craft,10,0,0,overwhelmingly positive,overwhelmingly positive,single only,10819,414,1027.7,14237.0,93.8
+119,335670,1,LISA: The Painful,2014-12-15,10500.0,4,4,Adventure,0,68,Dark Humor,1,0,1,overwhelmingly positive,overwhelmingly positive,single only,11847,459,31.1,1157.0,88.9
+120,1127400,1,Mindustry,2019-09-27,6500.0,6,6,Strategy,0,54,Base Building,18,0,0,very positive,overwhelmingly positive,single and multi,11086,405,573.0,2676.0,80.2
+121,287980,1,Mini Metro,2015-11-07,10500.0,4,4,Indie,0,63,Strategy,25,0,0,very positive,overwhelmingly positive,single only,12248,439,143.6,2101.0,77.2
+122,456750,1,The Room Three,2018-11-13,6500.0,2,2,Adventure,0,10,Puzzle,8,0,0,very positive,overwhelmingly positive,single only,8064,291,100.8,1331.0,88.8
+123,1948280,1,Stacklands,2022-04-09,5500.0,2,2,Casual,0,16,Card Battler,12,0,0,overwhelmingly positive,overwhelmingly positive,single only,7853,300,1685.2,5135.0,99.0
+124,813630,1,Supraland,2019-04-05,20500.0,4,4,Action,0,98,Puzzle,16,0,1,very positive,overwhelmingly positive,single only,9310,435,114.6,1397.0,91.9
+125,1182620,1,Impostor Factory,2021-10-01,10500.0,2,2,Adventure,0,0,Indie,12,0,1,overwhelmingly positive,overwhelmingly positive,single only,7491,278,18.3,1089.0,
+126,1239690,1,Retrowave,2022-05-07,3300.0,4,4,Action,1,44,Racing,11,0,1,overwhelmingly positive,overwhelmingly positive,single only,7602,397,68.1,638.0,61.2
+127,1211020,1,Wobbly Life,2020-07-09,14500.0,5,5,Action,1,40,Adventure,1,0,0,overwhelmingly positive,overwhelmingly positive,single and multi,7583,246,1013.6,2895.0,87.6
+128,858210,1,Nova Drift,2019-03-27,15500.0,4,4,Action,1,19,Action Roguelike,9,0,1,overwhelmingly positive,overwhelmingly positive,single only,7824,262,333.4,1133.0,62.9
+129,610370,1,Desperados III,2020-06-17,50900.0,2,1,Strategy,0,36,Strategy,10,0,1,very positive,overwhelmingly positive,single only,9820,333,230.3,5997.0,43.5
+130,314650,1,SpaceEngine,2019-06-11,26000.0,6,6,Casual,1,0,Early Access,18,0,1,very positive,overwhelmingly positive,single only,6117,249,80.3,596.0,
+131,458710,1,Kingdom Rush Frontiers - Tower Defense,2016-07-25,10500.0,2,2,Strategy,0,87,Tower Defense,10,0,0,very positive,overwhelmingly positive,single only,5868,204,176.8,973.0,94.4
+132,508900,1,Zup! X,2018-05-17,1100.0,4,4,Casual,0,2880,Casual,27,0,0,very positive,overwhelmingly positive,single only,5750,183,17.8,364.0,70.8
+133,874260,1,The Forgotten City,2021-07-28,26000.0,4,3,Adventure,0,40,Adventure,8,0,1,overwhelmingly positive,overwhelmingly positive,single only,5667,182,61.1,585.0,
+134,1062160,1,Poly Bridge 2,2020-05-29,15500.0,4,4,Indie,0,22,Building,11,0,1,overwhelmingly positive,overwhelmingly positive,single only,4805,207,192.0,1852.0,82.6
+135,532110,1,Rusty Lake: Roots,2016-10-20,3300.0,1,1,Adventure,0,16,Puzzle,14,0,0,very positive,overwhelmingly positive,single only,4870,191,62.7,329.0,83.3
+136,1003590,1,Tetris® Effect: Connected,2021-08-18,41000.0,6,6,Casual,0,43,Casual,10,0,1,very positive,overwhelmingly positive,single and multi,3743,156,145.1,1253.0,82.3
+137,915310,1,SNKRX,2021-05-17,3300.0,4,4,Action,0,24,Action Roguelike,1,0,0,very positive,overwhelmingly positive,single only,3543,144,31.4,1723.0,95.8
+138,3320,1,Insaniquarium Deluxe,2006-08-30,5000.0,2,2,Casual,0,0,Casual,1,0,0,very positive,overwhelmingly positive,single only,3588,124,65.9,264.0,
+139,1506980,1,葬花·暗黑桃花源,2021-10-22,14500.0,6,6,Adventure,0,33,Adventure,1,0,1,very positive,overwhelmingly positive,single only,3406,114,18.4,887.0,92.6
+140,1215390,1,Animal Revolt Battle Simulator,2022-04-16,16000.0,5,5,Action,1,5,Sandbox,10,0,0,overwhelmingly positive,overwhelmingly positive,single only,3142,108,363.2,1034.0,23.3
+141,1634150,1,Behind the Frame: The Finest Scenery,2021-08-25,13500.0,6,4,Adventure,0,19,Atmospheric,10,0,1,overwhelmingly positive,overwhelmingly positive,single only,3239,116,11.9,170.0,90.2
+142,801480,1,Agent A: A puzzle in disguise,2019-08-30,20500.0,4,4,Adventure,0,30,Puzzle,11,0,0,overwhelmingly positive,overwhelmingly positive,single only,2748,112,26.6,178.0,95.1
+143,1217390,1,Some Some Convenience Store,2020-01-15,15000.0,3,3,Adventure,0,25,Dating Sim,2,0,1,very positive,overwhelmingly positive,single only,2635,99,8.3,763.0,98.9
+144,1488200,1,Symphony of War: The Nephilim Saga,2022-06-11,20500.0,6,4,Adventure,0,19,RPG,1,0,1,overwhelmingly positive,overwhelmingly positive,single only,2360,76,815.8,3175.0,75.5
+145,1359980,1,POSTAL: Brain Damaged,2022-06-10,20500.0,4,2,Action,0,26,Funny,2,0,1,overwhelmingly positive,overwhelmingly positive,single only,2416,91,110.2,735.0,70.6
+146,941460,1,Death Trash,2021-08-05,21500.0,5,5,Action,1,14,Early Access,2,0,0,very positive,overwhelmingly positive,single and multi,2355,94,22.9,936.0,84.7
+147,1310990,1,Bishojo Mangekyo Kotowari to Meikyu no Shojo,2021-06-20,19000.0,2,2,Adventure,0,0,FPS,1,0,0,very positive,overwhelmingly positive,single only,2184,86,22.4,703.0,
+148,318130,1,Doom & Destiny,2011-08-26,10500.0,5,5,Indie,0,44,RPG,6,0,0,,overwhelmingly positive,single only,1950,77,4.7,101.0,82.1
+149,885810,1,The Witch's House MV,2018-10-31,15500.0,6,2,Adventure,0,0,Horror,11,0,0,very positive,overwhelmingly positive,single only,1957,61,10.9,151.0,
+150,1156990,1,Return to Shironagasu Island,2020-03-03,5500.0,5,5,Adventure,0,6,Adventure,8,0,1,very positive,overwhelmingly positive,single only,1885,64,24.2,256.0,60.0
+151,1817940,1,Love Delivery,2022-05-31,15500.0,6,6,Indie,1,24,Dating Sim,1,0,0,very positive,overwhelmingly positive,single only,1506,58,24.7,522.0,97.0
+152,955740,1,Mini Healer,2020-04-24,8500.0,6,6,Action,1,0,Party-Based RPG,4,0,0,overwhelmingly positive,overwhelmingly positive,single only,1408,48,128.4,722.0,
+153,1718870,1,Spaceflight Simulator,2022-02-18,12500.0,6,6,Indie,1,0,Sandbox,1,0,0,very positive,overwhelmingly positive,single only,1184,49,81.7,469.0,
+154,566050,1,Zeus + Poseidon,2016-12-16,11500.0,6,4,Strategy,0,0,Strategy,1,0,0,very positive,overwhelmingly positive,single only,1145,50,98.7,329.0,
+155,1481080,1,DRAMAtical Murder,2021-04-07,20500.0,2,2,Adventure,0,18,LGBTQ+,2,0,0,very positive,overwhelmingly positive,single only,1137,43,36.5,263.0,91.8
+156,1173010,1,Flowers Blooming at the End of Summer,2021-02-26,0.0,5,4,Casual,0,9,Indie,1,0,1,very positive,overwhelmingly positive,single only,1109,46,,,95.4
+157,865540,1,PLAYNE : The Meditation Game,2020-05-01,15500.0,5,5,Casual,0,40,Relaxing,1,0,1,,overwhelmingly positive,single only,949,35,8.1,36.0,74.4
+158,552080,1,IronWolf VR,2022-04-13,21000.0,6,6,Action,0,0,Co-op,1,0,0,,overwhelmingly positive,single and multi,916,35,5.0,83.0,
+159,1786790,1,Magical Girl Celesphonia,2022-05-07,20500.0,1,1,Adventure,0,0,Sexual Content,3,0,0,overwhelmingly positive,overwhelmingly positive,single only,860,33,214.4,1583.0,
+160,353540,1,Stephen's Sausage Roll,2016-04-18,31000.0,6,6,Indie,0,0,Puzzle,1,0,0,very positive,overwhelmingly positive,single only,1158,57,6.7,82.0,
+161,284850,1,Grim Legends: The Forsaken Bride,2014-02-25,10500.0,2,2,Casual,0,24,Hidden Object,10,0,0,very positive,overwhelmingly positive,single only,1323,51,12.6,711.0,64.6
+162,1499120,1,I Expect You To Die 2,2021-08-25,26000.0,6,6,Adventure,0,19,Puzzle,1,0,1,very positive,overwhelmingly positive,single only,769,29,13.4,210.0,84.5
+163,279800,1,Grim Legends 2: Song of the Dark Swan,2014-09-27,10500.0,2,2,Adventure,0,29,Hidden Object,11,0,0,very positive,overwhelmingly positive,single only,1096,41,7.1,204.0,63.4
+164,1335560,1,UNREAL LIFE,2020-11-20,20500.0,6,6,Adventure,0,64,Adventure,9,0,1,very positive,overwhelmingly positive,single only,653,23,14.4,71.0,89.4
+165,639490,1,Umineko When They Cry - Answer Arcs,2017-11-18,31000.0,3,2,Adventure,0,23,Great Soundtrack,2,0,0,very positive,overwhelmingly positive,single only,640,26,26.7,80.0,67.1
+166,242760,1,The Forest,2018-05-01,20500.0,6,6,Action,0,45,Open World Survival Craft,16,0,0,overwhelmingly positive,overwhelmingly positive,single and multi,369010,18577,17441.3,66829.0,82.0
+167,892970,1,Valheim,2021-02-02,20500.0,2,2,Action,1,0,Open World Survival Craft,12,0,1,very positive,overwhelmingly positive,single and multi,337025,16222,15739.2,498478.0,
+168,239140,1,Dying Light,2015-01-26,34800.0,2,2,Action,0,78,Zombies,17,0,1,overwhelmingly positive,overwhelmingly positive,single and multi,316493,16568,5003.6,45770.0,94.8
+169,435150,1,Divinity: Original Sin 2 - Definitive Edition,2017-09-14,54000.0,2,2,Adventure,0,97,Tactical RPG,12,0,1,very positive,overwhelmingly positive,single and multi,141738,5849,8094.3,93350.0,84.3
+170,220200,1,Kerbal Space Program,2015-04-28,43000.0,2,6,Indie,0,0,Space,9,0,1,overwhelmingly positive,overwhelmingly positive,single only,99446,5320,2836.8,19079.0,
+171,362890,1,Black Mesa,2020-03-06,20500.0,6,6,Action,0,50,FPS,26,0,0,very positive,overwhelmingly positive,single only,80177,3761,954.8,7116.0,63.3
+172,212680,1,FTL: Faster Than Light,2012-09-15,10500.0,2,2,Indie,0,51,Roguelike,10,0,1,very positive,overwhelmingly positive,single only,62214,2684,1301.5,18821.0,33.8
+173,601150,1,Devil May Cry 5,2019-03-08,33400.0,1,1,Action,0,55,Action,12,0,1,overwhelmingly positive,overwhelmingly positive,single and multi,77301,4128,2634.9,88735.0,92.2
+174,55230,1,Saints Row: The Third,2011-11-15,10500.0,1,1,Action,0,83,Open World,9,0,1,overwhelmingly positive,overwhelmingly positive,single only,62653,2673,345.8,34254.0,90.0
+175,635260,1,CarX Drift Racing Online,2017-11-18,15500.0,6,6,Massively Multiplayer,0,36,Racing,12,0,1,overwhelmingly positive,overwhelmingly positive,single and multi,44325,2186,2434.1,4798.0,87.3
+176,881100,1,Noita,2020-10-16,20500.0,4,4,Action,1,14,Physics,11,0,1,very positive,overwhelmingly positive,single only,43171,2063,1709.2,5183.0,66.8
+177,261570,1,Ori and the Blind Forest,2015-03-11,,2,1,Action,0,50,Great Soundtrack,9,0,0,very positive,overwhelmingly positive,single only,46404,2228,155.3,13048.0,82.6
+178,113200,1,The Binding of Isaac,2011-09-29,5500.0,2,2,Action,0,99,Action Roguelike,1,0,1,very positive,overwhelmingly positive,single only,51755,2493,225.3,12295.0,70.1
+179,638970,1,Yakuza 0,2018-08-01,22800.0,1,1,Action,0,55,Story Rich,2,0,0,overwhelmingly positive,overwhelmingly positive,single only,48764,2532,1586.9,8907.0,93.0
+180,346010,1,Besiege,2020-02-18,15500.0,4,4,Indie,0,36,Building,14,0,0,overwhelmingly positive,overwhelmingly positive,single and multi,42117,1935,379.0,11120.0,44.0
+181,1250,1,Killing Floor,2009-05-14,21000.0,2,2,Action,0,285,FPS,8,0,1,very positive,overwhelmingly positive,single only,60433,3202,241.1,21151.0,68.3
+182,753640,1,Outer Wilds,2020-06-19,26000.0,2,2,Action,0,31,Exploration,13,0,1,overwhelmingly positive,overwhelmingly positive,single only,36030,1774,693.4,7936.0,32.1
+183,200260,1,Batman: Arkham City - Game of the Year Edition,2012-09-08,21000.0,6,1,Action,0,64,Action,8,0,0,overwhelmingly positive,overwhelmingly positive,single only,44991,1924,689.0,6822.0,84.7
+184,501300,1,What Remains of Edith Finch,2017-04-25,21000.0,2,2,Adventure,0,9,Story Rich,11,0,1,overwhelmingly positive,overwhelmingly positive,single only,25901,1211,68.3,405.0,61.1
+185,383980,1,Rivals of Aether,2017-03-29,31000.0,6,6,Indie,0,36,Fighting,2,0,1,very positive,overwhelmingly positive,single and multi,23686,1174,422.1,2828.0,34.4
+186,333600,1,NEKOPARA Vol. 1,2014-12-30,10500.0,2,1,Casual,0,14,Hentai,3,0,1,very positive,overwhelmingly positive,single only,24354,1145,82.0,482.0,91.1
+187,972660,1,Spiritfarer®: Farewell Edition,2020-08-18,31000.0,3,3,Adventure,0,39,Emotional,11,0,1,overwhelmingly positive,overwhelmingly positive,single and multi,20604,891,1450.7,4574.0,72.3
+188,4700,1,Total War: MEDIEVAL II – Definitive Edition,2006-11-15,25000.0,6,1,Strategy,0,0,Strategy,9,0,0,overwhelmingly positive,overwhelmingly positive,single only,24380,1056,2967.9,8419.0,
+189,41700,1,S.T.A.L.K.E.R.: Call of Pripyat,2010-02-12,21000.0,2,2,Action,0,0,Atmospheric,8,0,0,overwhelmingly positive,overwhelmingly positive,single only,21561,1106,274.9,1221.0,
+190,380,1,Half-Life 2: Episode One,2006-06-01,8500.0,1,1,Action,0,13,FPS,18,0,1,overwhelmingly positive,overwhelmingly positive,single only,20514,927,140.0,1102.0,60.2
+191,860510,1,Little Nightmares II,2021-02-11,,1,1,Adventure,0,35,Horror,14,0,1,very positive,overwhelmingly positive,single only,19671,938,308.1,5368.0,85.9
+192,1369630,1,ENDER LILIES: Quietus of the Knights,2021-06-21,26500.0,6,4,Action,1,38,Metroidvania,11,0,1,very positive,overwhelmingly positive,single only,17313,847,503.8,6332.0,93.5
+193,230290,1,Universe Sandbox,2015-08-24,31000.0,4,4,Casual,0,0,Sandbox,26,0,0,overwhelmingly positive,overwhelmingly positive,single only,16833,706,289.4,629.0,
+194,406150,1,Refunct,2015-10-16,3300.0,4,4,Adventure,0,10,Parkour,28,0,0,overwhelmingly positive,overwhelmingly positive,single only,15791,707,17.5,476.0,88.1
+195,35720,1,Trine 2: Complete Story,2013-06-07,5500.0,3,3,Action,0,97,Puzzle Platformer,15,0,1,very positive,overwhelmingly positive,single and multi,19522,894,50.7,3653.0,80.7
+196,1190000,1,Car Mechanic Simulator 2021,2021-08-11,,5,2,Racing,0,46,Simulation,17,0,1,overwhelmingly positive,overwhelmingly positive,single only,13657,620,1549.7,22530.0,82.2
+197,1046030,1,ISLANDERS,2019-04-04,6500.0,4,4,Casual,0,26,Relaxing,12,0,0,very positive,overwhelmingly positive,single only,13434,681,62.2,1761.0,98.8
+198,1451940,1,NEEDY STREAMER OVERLOAD,2022-01-21,16500.0,4,4,Simulation,0,30,Psychological Horror,5,0,1,very positive,overwhelmingly positive,single only,12898,678,235.0,3627.0,80.0
+199,50,1,Half-Life: Opposing Force,1999-11-01,5500.0,6,1,Action,0,0,FPS,4,0,0,very positive,overwhelmingly positive,single only,14316,718,101.0,620.0,
+200,601840,1,Griftlands,2021-06-02,20500.0,1,1,Indie,1,13,Card Battler,11,0,0,very positive,overwhelmingly positive,single only,11434,593,271.9,7545.0,4.0
+201,35700,1,Trine Enchanted Edition,2009-07-02,16000.0,3,3,Action,0,33,Puzzle Platformer,5,0,1,very positive,overwhelmingly positive,single and multi,12978,559,38.6,1186.0,84.5
+202,837470,1,Untitled Goose Game,2020-09-24,20500.0,4,6,Action,0,25,Funny,14,0,0,overwhelmingly positive,overwhelmingly positive,single and multi,10731,478,311.9,1669.0,42.3
+203,1557740,1,ROUNDS,2021-04-02,6500.0,2,2,Action,0,0,Multiplayer,1,0,0,overwhelmingly positive,overwhelmingly positive,,11017,521,570.0,1332.0,
+204,9450,1,"Warhammer® 40,000: Dawn of War® - Soulstorm",2008-03-05,14000.0,1,1,Strategy,0,0,Warhammer 40K,3,0,0,very positive,overwhelmingly positive,single only,12346,587,824.8,3245.0,
+205,40700,1,Machinarium,2009-10-17,5000.0,2,2,Adventure,0,12,Point & Click,15,0,0,overwhelmingly positive,overwhelmingly positive,single only,10331,482,73.6,720.0,41.0
+206,1584090,1,Touhou Mystia's Izakaya,2021-10-01,6300.0,6,6,Casual,1,141,Casual,4,0,1,overwhelmingly positive,overwhelmingly positive,single only,8751,367,472.9,1651.0,90.7
+207,927380,1,Yakuza Kiwami 2,2019-05-09,34000.0,1,1,Action,0,59,Action,2,0,1,very positive,overwhelmingly positive,single only,9762,458,384.9,3217.0,81.8
+208,266010,1,LYNE,2014-03-17,3300.0,5,5,Casual,0,33,Puzzle,12,0,0,very positive,overwhelmingly positive,single only,7589,328,9.0,239.0,88.8
+209,375480,1,Chronicon,2020-08-21,14500.0,5,5,Action,0,145,Loot,4,0,1,very positive,overwhelmingly positive,single and multi,7092,330,314.4,4858.0,89.8
+210,430960,1,Lucy -The Eternity She Wished For-,2016-02-28,10500.0,6,6,Adventure,0,0,Visual Novel,9,0,1,very positive,overwhelmingly positive,single only,6885,353,6.4,190.0,
+211,900270,1,Reventure,2019-06-04,8500.0,5,5,Adventure,0,101,Adventure,14,0,1,very positive,overwhelmingly positive,single only,6951,373,48.3,1303.0,84.0
+212,40950,1,Stronghold HD,2001-10-19,6500.0,2,2,Simulation,0,0,Real Time Tactics,10,0,1,very positive,overwhelmingly positive,single only,7241,351,178.8,749.0,
+213,914800,1,Coffee Talk,2020-01-30,13500.0,2,2,Adventure,0,24,Conversation,11,0,1,overwhelmingly positive,overwhelmingly positive,single only,5827,277,61.4,673.0,96.2
+214,435120,1,Rusty Lake Hotel,2016-01-29,2200.0,1,1,Adventure,0,23,Puzzle,20,0,0,very positive,overwhelmingly positive,single only,5622,260,46.0,4900.0,47.4
+215,1504020,1,Mosaique Neko Waifus 4,2021-02-13,2200.0,2,2,Casual,0,101,Hentai,14,0,1,very positive,overwhelmingly positive,single only,3608,172,25.1,693.0,82.1
+216,1195290,1,Moncage,2021-11-16,15500.0,6,2,Adventure,0,15,Puzzle,8,0,1,very positive,overwhelmingly positive,single only,3419,178,27.5,1942.0,69.2
+217,1574580,1,Strange Horticulture,2022-01-21,15500.0,2,2,Adventure,0,18,Mystery,8,0,0,overwhelmingly positive,overwhelmingly positive,single only,3223,139,,,96.9
+218,494150,1,The Thrill of the Fight - VR Boxing,2016-07-01,10500.0,6,6,Action,0,0,Sports,1,0,0,very positive,overwhelmingly positive,single only,2935,142,16.8,482.0,
+219,1046480,1,THE IDOLM@STER STARLIT SEASON,2021-10-14,64800.0,1,1,Simulation,0,47,Anime,1,0,1,very positive,overwhelmingly positive,single only,3247,139,117.5,6104.0,47.1
+220,744190,1,Rusty Lake Paradise,2018-01-11,4400.0,1,1,Adventure,0,50,Puzzle,14,0,0,very positive,overwhelmingly positive,single only,3089,172,59.8,1124.0,90.4
+221,488310,1,Eleven Table Tennis,2016-06-20,20500.0,6,6,Casual,0,0,Sports,16,0,0,very positive,overwhelmingly positive,single only,2712,136,22.8,547.0,
+222,1062520,1,Dinkum,2022-07-14,20500.0,6,6,Indie,1,0,Early Access,1,0,0,,overwhelmingly positive,single and multi,2616,141,5921.4,10307.0,
+223,858260,1,Until You Fall,2020-10-27,26000.0,5,5,Action,1,47,VR,9,0,1,very positive,overwhelmingly positive,single only,2578,144,17.0,136.0,68.0
+224,246840,1,FATE,2005-05-18,15500.0,5,5,Action,0,10,RPG,1,0,0,very positive,overwhelmingly positive,single only,2529,144,89.3,349.0,82.6
+225,359510,1,Tangle Tower,2019-10-22,20500.0,4,4,Adventure,0,10,Detective,14,0,1,overwhelmingly positive,overwhelmingly positive,single only,2059,100,32.8,335.0,80.4
+226,1345820,1,Ragnarock,2021-07-16,26000.0,5,5,Casual,1,11,Rhythm,11,0,1,very positive,overwhelmingly positive,single only,2110,111,30.2,128.0,19.8
+227,1546860,1,Saiko no sutoka,2020-09-06,5500.0,6,6,Action,0,30,Horror,12,0,0,very positive,overwhelmingly positive,single only,1838,86,18.4,136.0,87.1
+228,1299120,1,Mosaique Neko Waifus 2,2020-06-05,2200.0,2,2,Casual,0,100,Hentai,10,0,1,very positive,overwhelmingly positive,single only,1841,84,24.6,722.0,73.9
+229,587430,1,I Expect You To Die,2017-04-25,26000.0,5,5,Adventure,0,11,VR,9,0,0,very positive,overwhelmingly positive,single only,2014,112,17.8,822.0,92.4
+230,355980,1,Dungeon Warfare,2015-11-05,9900.0,5,5,Indie,0,35,Tower Defense,7,0,0,very positive,overwhelmingly positive,single only,1544,66,23.0,455.0,88.9
+231,577690,1,Spooky's Jump Scare Mansion: HD Renovation,2017-03-01,10500.0,5,5,Action,0,34,Horror,4,0,0,very positive,overwhelmingly positive,single only,1557,77,16.4,173.0,86.9
+232,440880,1,The Count Lucanor,2016-03-03,10500.0,4,2,Adventure,0,32,Survival Horror,12,0,0,very positive,overwhelmingly positive,single only,1819,102,4.8,80.0,65.9
+233,345820,1,Shantae and the Pirate's Curse,2015-04-23,21000.0,2,2,Action,0,44,Platformer,1,0,0,very positive,overwhelmingly positive,single only,2185,148,8.0,483.0,71.7
+234,1385730,1,Mosaique Neko Waifus 3,2020-08-28,2200.0,2,2,Casual,0,100,Hentai,10,0,1,very positive,overwhelmingly positive,single only,1358,66,18.9,192.0,72.1
+235,353330,1,Love at First Sight,2015-05-19,10500.0,1,1,Indie,0,12,Visual Novel,2,0,0,very positive,overwhelmingly positive,single only,1149,50,,,69.0
+236,1437830,1,Heroes of the Three Kingdoms 2,2020-11-13,1100.0,6,6,Action,0,0,Strategy,1,0,0,very positive,overwhelmingly positive,single only,1028,45,346.9,704.0,
+237,1477790,1,Luna's Fishing Garden,2021-06-17,8500.0,5,5,Adventure,0,14,Collectathon,9,0,1,very positive,overwhelmingly positive,single only,1014,46,5.9,172.0,90.9
+238,1689910,1,Dōkyūsei: Bangin' Summer,2022-04-15,20500.0,6,2,Adventure,0,0,Dating Sim,4,0,1,very positive,overwhelmingly positive,single only,848,46,31.8,1276.0,
+239,1052990,1,A Monster's Expedition,2020-09-11,20500.0,4,4,Adventure,0,9,Puzzle,14,0,1,very positive,overwhelmingly positive,single only,842,35,12.8,250.0,83.9
+240,846030,1,ΔV: Rings of Saturn,2019-08-12,10500.0,5,5,Action,1,74,Early Access,14,0,1,very positive,overwhelmingly positive,single only,861,42,42.8,204.0,61.9
+241,1086410,1,Golf Around!,2020-12-05,5500.0,6,6,Casual,1,22,Sports,10,0,0,very positive,overwhelmingly positive,single only,837,42,13.1,211.0,85.4
+242,1918520,1,Ninja Village,2022-05-23,12000.0,2,2,Casual,0,6,Tactical RPG,6,0,0,very positive,very positive,single only,117,0,33.5,248.0,89.6
+243,1817000,1,Zodiacats,2022-01-22,2150.0,5,5,Casual,0,16,Cats,6,0,1,very positive,very positive,single only,105,0,3.2,11.0,81.1
+244,1420810,1,Touhou Kaeizuka ～ Phantasmagoria of Flower View.,2005-08-14,15500.0,6,6,Action,0,0,Action,1,0,0,,very positive,single only,98,0,3.0,87.0,
+245,1722520,1,FIND ALL 2: Middle Ages,2022-03-03,2200.0,5,5,Casual,0,100,Hidden Object,4,0,0,very positive,very positive,single only,96,0,2.3,17.0,97.0
+246,1969080,1,A Building Full of Cats,2022-07-08,2200.0,5,5,Casual,0,22,Cats,11,0,0,,very positive,single only,347,3,18.3,60.0,96.2
+247,889910,1,Hell Pie,2022-07-22,26000.0,6,2,Action,0,32,Comedy,7,0,0,,very positive,single only,158,1,192.2,263.0,88.4
+248,937570,1,Danmaku Amanojaku ~ Impossible Spell Card.,2014-05-11,11500.0,2,2,Action,0,0,Indie,1,0,0,,very positive,single only,132,2,,,
+249,1597730,1,Dogs Organized Neatly,2021-11-01,3300.0,4,4,Casual,0,20,Casual,21,0,0,very positive,very positive,single only,519,5,4.8,106.0,92.7
+250,1599880,1,Cats in Time,2021-08-27,5500.0,4,4,Adventure,0,24,Puzzle,12,0,0,very positive,very positive,single only,486,9,12.9,99.0,90.5
+251,668350,1,Higurashi When They Cry Hou - Ch.6 Tsumihoroboshi,2018-06-15,8500.0,3,2,Adventure,0,15,Visual Novel,2,0,0,,very positive,single only,369,6,5.8,45.0,77.3
+252,1730360,1,I'm on Observation Duty 4,2021-12-23,5500.0,4,4,Indie,0,8,Psychological Horror,1,0,0,very positive,very positive,single only,382,6,18.7,122.0,33.1
+253,47880,1,Battlefield: Bad Company 2 Vietnam,2010-12-18,6000.0,1,1,Action,0,0,Action,7,0,0,,very positive,,215,4,0.0,2.0,
+254,701380,1,El Tango de la Muerte,2018-04-25,5500.0,6,6,,0,0,Rhythm,10,0,1,,very positive,single only,221,4,,,
+255,1871310,1,Hook 2,2022-06-30,2200.0,5,5,Casual,0,0,Puzzle,1,0,0,,very positive,single only,184,2,8.3,37.0,
+256,1100160,1,Touhou Seirensen ~ Undefined Fantastic Object.,2009-08-15,15500.0,2,2,Action,0,0,Indie,1,0,0,,very positive,single only,181,3,4.5,19.0,
+257,1399240,1,Yotsume God -Reunion-,2022-02-16,31000.0,6,6,Adventure,0,0,Adventure,4,0,0,very positive,very positive,single only,165,2,3.4,79.0,
+258,1281790,1,SHEEPO,2020-08-27,10500.0,5,5,Action,0,18,Metroidvania,1,0,1,,very positive,single only,166,2,,,82.2
+259,1921780,1,The Sushi Spinnery,2022-05-23,12000.0,2,2,Casual,0,6,Simulation,6,0,0,very positive,very positive,single only,138,2,42.6,225.0,73.1
+260,1725640,1,Sudocats,2022-03-15,2200.0,5,5,Casual,0,14,Casual,3,0,1,very positive,very positive,single only,131,2,5.5,21.0,96.4
+261,1790490,1,Regular Factory: Escape Room,2022-04-14,10500.0,6,6,Adventure,0,5,Escape Room,12,0,1,,very positive,single only,75,1,4.0,37.0,86.9
+262,1641500,1,The Blind Of The New World,2021-05-28,10000.0,6,6,Casual,0,0,Casual,2,0,1,,very positive,single only,62,1,,,
+263,1834920,1,Countryball: Europe 1890,2022-03-21,4400.0,5,5,Action,0,0,Strategy,9,0,0,very positive,very positive,single only,50,1,4.9,52.0,
+264,1056490,1,The World is Your Weapon,2019-06-28,10500.0,6,6,Action,0,0,Roguelike,5,0,0,,very positive,single only,495,15,,,
+265,1213230,1,Rain on Your Parade,2021-04-15,15500.0,5,5,Action,0,33,Relaxing,11,0,1,,very positive,single only,538,10,3.3,95.0,98.8
+266,1927720,1,Monument Valley: Panoramic Edition,2022-07-12,8500.0,4,4,Adventure,0,19,Adventure,14,0,0,,very positive,single only,394,9,119.0,311.0,0.1
+267,1348700,1,Spice&Wolf VR2,2020-12-10,26000.0,6,6,Casual,0,6,VR,4,0,0,very positive,very positive,single only,402,10,,,83.6
+268,577480,1,Higurashi When They Cry Hou - Ch. 5 Meakashi,2017-04-29,8500.0,3,2,Adventure,0,16,Adventure,2,0,0,,very positive,single only,416,14,5.6,46.0,56.7
+269,1100150,1,Touhou Chireiden ~ Subterranean Animism.,2008-08-16,15500.0,2,2,Action,0,0,Indie,1,0,0,very positive,very positive,single only,313,9,10.2,32.0,
+270,1642220,1,FIND ALL,2021-06-03,1100.0,5,5,Casual,0,33,Hidden Object,6,0,0,very positive,very positive,single only,252,7,0.9,9.0,94.8
+271,1687550,1,Bear's Restaurant,2021-10-07,13500.0,5,5,Adventure,0,5,Story Rich,14,0,1,very positive,very positive,single only,226,6,3.0,23.0,72.4
+272,1906020,1,Drums Rock,2022-06-03,20500.0,6,6,Action,1,9,VR,5,0,0,very positive,very positive,single only,90,2,3.2,15.0,89.2
+273,1829420,1,Before The Night,2022-07-15,14500.0,6,6,Action,0,0,Action,7,0,0,,very positive,single only,85,2,14.0,44.0,
+274,968350,1,Hotel Sowls,2019-12-31,5500.0,6,6,Adventure,1,39,Indie,3,0,1,,very positive,single only,451,14,,,98.1
+275,1379560,1,Steven Universe: Unleash the Light,2021-02-20,26000.0,6,4,Action,0,32,RPG,13,0,0,very positive,very positive,single only,390,13,23.1,110.0,90.9
+276,1303950,1,Toodee and Topdee,2021-08-05,20500.0,5,5,Action,0,20,Controller,10,0,1,,very positive,single and multi,410,15,4.6,104.0,67.2
+277,526490,1,Higurashi When They Cry Hou - Ch.4 Himatsubushi,2016-10-14,6500.0,3,2,Adventure,0,8,Visual Novel,2,0,0,,very positive,single only,373,12,4.5,66.0,54.8
+278,1443430,1,Rogue,1985-06-01,3300.0,6,5,Adventure,0,0,Traditional Roguelike,1,0,0,,very positive,single only,289,12,,,
+279,1034940,1,Higurashi When They Cry Hou - Ch.7 Minagoroshi,2019-07-19,8500.0,3,2,Adventure,0,14,Adventure,2,0,0,very positive,very positive,single only,290,10,5.9,48.0,87.1
+280,1150460,1,Summer Paws,2020-05-27,5500.0,5,5,Casual,0,23,Relaxing,15,0,0,,very positive,single only,289,11,,,94.4
+281,1721170,1,What Lies in the Multiverse,2022-03-05,18000.0,5,5,Adventure,0,43,Puzzle Platformer,10,0,1,very positive,very positive,single only,189,4,1.9,41.0,92.6
+282,1819230,1,UDONGEIN X,2021-12-04,5500.0,6,6,Action,0,17,Action,3,0,0,,very positive,single only,141,5,,,18.8
+283,1618290,1,TRAIN CREW,2021-10-01,15500.0,6,6,Simulation,1,0,Simulation,4,0,0,very positive,very positive,single only,87,4,10.8,44.0,
+284,1921760,1,Pocket Academy,2022-06-13,12000.0,2,2,Adventure,0,6,Simulation,6,0,0,very positive,very positive,single only,77,3,14.0,174.0,82.4
+285,1985260,1,Kinkoi: Golden Time,2022-07-15,31000.0,2,2,Adventure,0,15,Visual Novel,4,0,0,,very positive,single only,117,2,147.2,316.0,97.5
+286,1035850,1,Balancelot,2019-05-23,8500.0,6,6,Action,0,10,Indie,1,0,0,,very positive,single only,90,24,,,16.0
+287,1069190,1,Flight Of Nova,2022-06-01,31000.0,6,6,Simulation,1,0,Flight,4,0,0,,very positive,single only,53,4,3.0,25.0,
+288,1769170,1,Shattered Pixel Dungeon,2022-03-24,10500.0,6,6,Adventure,0,88,Traditional Roguelike,16,0,1,very positive,very positive,single only,456,23,32.0,339.0,87.4
+289,866140,1,Arise: A Simple Story,2020-12-04,23000.0,5,5,Adventure,0,34,3D Platformer,14,0,1,very positive,very positive,single and multi,385,17,3.9,22.0,70.3
+290,898580,1,Premium Bowling,2019-10-19,20500.0,6,6,Indie,0,99,Sports,9,0,0,,very positive,single only,288,15,4.5,29.0,69.0
+291,1473050,1,100 hidden birds,2020-12-02,1100.0,4,4,Adventure,0,100,Casual,1,0,0,very positive,very positive,single only,314,16,,,100.0
+292,640380,1,UBERMOSH Vol.5,2017-05-26,5500.0,4,4,Action,0,22,Indie,1,0,0,,very positive,single only,275,16,,,41.3
+293,589940,1,Eye of the Temple,2021-10-14,20500.0,5,5,Action,0,27,VR,10,0,1,,very positive,single only,261,12,1.8,36.0,87.5
+294,1850550,1,I'm on Observation Duty 5,2022-05-14,10500.0,4,4,Indie,0,10,Horror,1,0,0,very positive,very positive,single only,222,9,30.8,217.0,92.9
+295,31810,1,Nancy Drew®: Last Train to Blue Moon Canyon,2005-10-18,7500.0,3,3,Adventure,0,0,Adventure,1,0,0,,very positive,single only,218,9,5.8,31.0,
+296,1742610,1,Spirits of the Hellements - TD,2022-04-29,12500.0,6,6,Strategy,0,37,Strategy,1,0,0,very positive,very positive,single only,198,9,15.4,252.0,88.1
+297,2001570,1,Yakiniku simulator,2022-06-03,5500.0,6,6,Casual,0,20,Cooking,4,0,0,very positive,very positive,single only,185,9,9.0,135.0,54.0
+298,1706210,1,Reloader: test_subject,2022-01-14,1100.0,5,4,Action,0,13,Side Scroller,3,0,0,,very positive,single only,119,7,,,85.6
+299,1522950,1,Dadish,2021-02-22,3300.0,6,6,Action,0,7,Action,1,0,0,very positive,very positive,single only,100,5,,,85.6
+300,1261960,1,STRIKERS 1945,2020-04-30,10500.0,4,4,Action,0,32,Action,4,0,0,,very positive,single and multi,105,6,0.9,21.0,93.0
+301,1567440,1,inbento,2019-09-03,5500.0,5,5,Casual,0,15,Casual,15,0,0,,very positive,single only,99,4,,,94.8
+302,679770,1,Dr. Cares - Pet Rescue 911,2017-09-21,13500.0,6,6,Adventure,0,21,Simulation,15,0,0,,very positive,single only,62,4,,,95.5
+303,814380,1,Sekiro™: Shadows Die Twice - GOTY Edition,2019-03-22,59800.0,6,3,Action,0,34,Souls-like,13,1,0,very positive,very positive,single only,179638,9345,5988.7,124334.0,95.3
+304,477160,1,Human: Fall Flat,2016-07-23,20500.0,6,2,Adventure,0,103,Co-op,16,0,1,very positive,very positive,single and multi,157766,8924,2560.1,127516.0,93.4
+305,489830,1,The Elder Scrolls V: Skyrim Special Edition,2016-10-28,45000.0,1,1,RPG,0,75,Open World,9,0,1,overwhelmingly positive,very positive,single only,198088,19705,21060.0,69777.0,68.0
+306,1237970,1,Titanfall® 2,2016-10-28,33000.0,2,1,Action,0,50,FPS,10,0,1,overwhelmingly positive,very positive,single only,115367,6456,3768.0,27547.0,73.3
+307,813780,1,Age of Empires II: Definitive Edition,2019-11-15,21000.0,1,1,Strategy,0,191,Strategy,15,0,1,overwhelmingly positive,very positive,single and multi,99084,5680,14745.8,38725.0,52.9
+308,1217060,1,Gunfire Reborn,2021-11-18,20500.0,6,6,Action,1,102,FPS,17,0,0,very positive,very positive,single and multi,70416,4038,3529.3,35002.0,97.8
+309,632470,1,Disco Elysium - The Final Cut,2019-10-16,41000.0,6,6,RPG,0,40,RPG,10,0,1,very positive,very positive,single only,55163,3241,1655.6,8081.0,34.4
+310,787860,1,Farming Simulator 19,2018-11-20,19800.0,2,2,Simulation,0,23,Simulation,18,0,1,very positive,very positive,single and multi,58926,3778,4740.7,59234.0,58.0
+311,233860,1,Kenshi,2018-12-07,31000.0,2,2,Action,0,0,Open World,9,0,1,very positive,very positive,single only,54324,2824,3580.7,10579.0,
+312,418370,1,Resident Evil 7 Biohazard,2017-01-26,24300.0,1,1,Action,0,58,Horror,14,0,1,very positive,very positive,single only,58272,3235,721.1,18211.0,96.3
+313,246620,1,Plague Inc: Evolved,2016-02-19,16000.0,2,2,Casual,0,229,Strategy,15,0,1,overwhelmingly positive,very positive,single and multi,41905,2464,358.3,17889.0,92.3
+314,1832640,1,Mirror 2: Project X,2022-01-21,2200.0,6,6,Adventure,1,0,3D,6,0,1,mostly positive,very positive,single only,35503,2306,1260.7,33035.0,
+315,621060,1,PC Building Simulator,2019-01-30,20500.0,6,3,Indie,0,94,Simulation,10,0,1,very positive,very positive,single only,41525,2553,781.8,3883.0,67.0
+316,200510,1,XCOM: Enemy Unknown,2012-10-12,54000.0,2,1,Strategy,0,85,Turn-Based Strategy,10,0,1,very positive,very positive,single only,47116,2773,687.6,70560.0,87.5
+317,843380,1,Super Animal Royale,2021-08-27,,6,4,Action,1,13,Battle Royale,12,0,1,very positive,very positive,multi only,29896,1818,1099.3,7514.0,48.1
+318,424840,1,Little Nightmares,2017-04-28,25800.0,1,1,Adventure,0,22,Horror,13,0,1,overwhelmingly positive,very positive,single only,75270,4273,506.7,77529.0,46.9
+319,555160,1,Pavlov VR,2017-02-28,26000.0,4,4,Action,0,0,VR,1,0,0,very positive,very positive,multi only,31031,1806,789.2,17629.0,
+320,50130,1,Mafia II (Classic),2011-03-23,35000.0,1,1,Action,0,67,Action,8,0,0,very positive,very positive,single only,45690,2384,253.6,5358.0,92.4
+321,4500,1,S.T.A.L.K.E.R.: Shadow of Chernobyl,2007-03-20,23000.0,2,2,Action,0,0,Atmospheric,8,0,0,very positive,very positive,single only,29072,1691,365.8,2303.0,
+322,7670,1,BioShock™,2007-08-21,21000.0,4,1,Action,0,0,FPS,5,0,0,overwhelmingly positive,very positive,single only,26226,1545,56.9,2625.0,
+323,207140,1,SpeedRunners,2016-04-20,,5,2,Action,0,29,Multiplayer,19,0,1,overwhelmingly positive,very positive,single only,31092,2031,294.8,17131.0,68.5
+324,638230,1,Journey,2020-06-12,15500.0,2,2,Adventure,0,14,Adventure,18,0,0,very positive,very positive,single and multi,20452,1120,76.9,1073.0,49.2
+325,568220,1,Lobotomy Corporation | Monster Management Simulation,2018-04-09,26000.0,2,2,Indie,0,0,Management,11,0,1,very positive,very positive,single only,18701,1179,1072.1,2885.0,
+326,1088850,1,Marvel's Guardians of the Galaxy,2021-10-27,69800.0,6,1,Action,0,59,Story Rich,14,1,1,very positive,very positive,single only,21385,1096,368.0,9826.0,83.7
+327,47780,1,Dead Space™ 2,2011-01-28,22000.0,1,1,Action,0,0,Horror,6,0,0,very positive,very positive,single only,17720,1137,168.8,992.0,
+328,590380,1,Into the Breach,2018-02-28,15500.0,2,2,Indie,0,70,Strategy,17,0,1,overwhelmingly positive,very positive,single only,14193,827,789.2,14573.0,78.6
+329,282800,1,100% Orange Juice,2013-09-10,7500.0,3,3,Indie,0,278,Anime,9,0,1,very positive,very positive,single and multi,21261,1599,269.6,3839.0,51.7
+330,1062090,1,Timberborn,2021-09-16,26000.0,6,6,Indie,1,0,Early Access,12,0,1,very positive,overwhelmingly positive,single only,11995,738,1706.5,12354.0,
+331,257850,1,Hyper Light Drifter,2016-03-31,21000.0,6,6,Action,0,23,Pixel Graphics,6,0,1,very positive,very positive,single and multi,14195,944,33.5,4929.0,49.8
+332,866800,1,The Walking Dead: The Final Season,2018-08-14,20500.0,6,3,Adventure,0,48,Story Rich,9,0,0,very positive,very positive,single only,13094,760,61.6,4101.0,84.0
+333,368340,1,CrossCode,2018-09-21,,4,4,Action,0,86,Action RPG,5,0,1,very positive,very positive,single only,11730,708,213.4,3368.0,67.2
+334,609320,1,FAR: Lone Sails,2018-05-18,15500.0,4,5,Action,0,14,Atmospheric,14,0,1,overwhelmingly positive,very positive,single only,10516,640,24.6,898.0,88.4
+335,894020,1,Death's Door,2021-07-20,22000.0,4,1,Action,0,24,Action,10,0,1,very positive,very positive,single only,10426,645,235.2,3740.0,46.6
+336,895870,1,Project Wingman,2020-12-02,26000.0,6,6,Action,0,40,Flight,8,0,1,very positive,very positive,single only,10352,623,209.2,2089.0,70.0
+337,528230,1,SYNTHETIK: Legion Rising,2018-03-16,20500.0,6,6,Action,0,27,Roguelite,12,0,1,very positive,very positive,single and multi,10158,584,213.8,3407.0,44.9
+338,228200,1,Company of Heroes,2006-09-11,21000.0,1,1,Action,0,0,Strategy,11,0,0,overwhelmingly positive,very positive,single only,11833,713,1359.7,5845.0,
+339,1012880,1,60 Seconds! Reatomized,2019-07-26,10500.0,6,6,Adventure,0,60,Strategy,12,0,0,very positive,very positive,single only,7623,490,160.6,873.0,85.8
+340,343780,1,Cat Goes Fishing,2015-01-20,7500.0,6,6,Casual,0,53,Fishing,1,0,0,overwhelmingly positive,very positive,single only,6631,405,96.0,630.0,96.8
+341,351920,1,Crazy Machines 3,2016-10-19,10500.0,6,2,Simulation,0,41,Simulation,11,0,0,very positive,very positive,single only,8182,445,20.9,1101.0,81.0
+342,470310,1,TROUBLESHOOTER: Abandoned Children,2020-04-23,26000.0,4,4,Casual,0,217,Turn-Based,4,0,1,very positive,very positive,single only,6197,337,215.8,993.0,81.6
+343,217200,1,Worms Armageddon,1999-05-31,16000.0,1,1,Strategy,0,0,Strategy,9,0,0,very positive,very positive,single only,7399,447,168.8,826.0,
+344,285310,1,RollerCoaster Tycoon®: Deluxe,1999-03-31,6500.0,4,4,Simulation,0,0,Simulation,5,0,0,very positive,very positive,single only,5676,338,221.8,1223.0,
+345,960690,1,One Step From Eden,2020-03-26,20500.0,6,2,Action,0,35,Action Roguelike,13,0,1,very positive,very positive,single and multi,5821,373,85.3,2360.0,39.0
+346,1674170,1,Sprocket,2021-08-27,20500.0,6,6,Action,1,0,Early Access,1,0,0,very positive,very positive,single only,4932,323,178.4,1936.0,
+347,1295510,1,DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition,2020-12-05,49800.0,1,1,Adventure,0,57,JRPG,9,0,0,overwhelmingly positive,very positive,single only,5360,309,751.0,4752.0,92.5
+348,32510,1,LEGO® Star Wars™ III - The Clone Wars™,2011-03-23,20500.0,6,6,Action,0,0,LEGO,6,0,0,very positive,very positive,single and multi,5777,340,151.0,826.0,
+349,310080,1,Hatoful Boyfriend,2014-09-05,5500.0,6,6,Casual,0,16,Visual Novel,7,0,0,very positive,very positive,single only,6373,416,6.1,404.0,32.5
+350,453090,1,Parkitect,2018-11-30,31000.0,5,5,Casual,0,34,Management,11,0,1,very positive,very positive,single and multi,5562,312,206.2,1393.0,69.6
+351,2620,1,Call of Duty®,2003-10-29,32000.0,2,4,Action,0,0,FPS,2,0,0,very positive,very positive,single only,3833,216,50.2,197.0,
+352,1173770,1,FINAL FANTASY,2021-07-29,14900.0,1,1,RPG,0,24,JRPG,12,0,0,overwhelmingly positive,very positive,single only,3716,231,115.1,3064.0,82.3
+353,477740,1,Zero Escape: The Nonary Games,2017-03-25,31000.0,2,2,Adventure,0,38,Visual Novel,2,0,0,very positive,very positive,single only,3611,204,156.1,945.0,52.3
+354,692890,1,Roboquest,2020-08-21,20500.0,6,6,Action,1,0,Early Access,1,0,1,very positive,very positive,single and multi,3580,211,185.9,605.0,
+355,466300,1,Planescape: Torment: Enhanced Edition,2017-04-11,21000.0,2,2,Adventure,0,50,RPG,6,0,1,very positive,very positive,single only,3140,170,60.6,929.0,53.8
+356,222440,1,THE KING OF FIGHTERS 2002 UNLIMITED MATCH,2015-02-27,16000.0,2,2,Action,0,12,Fighting,3,0,0,very positive,very positive,single and multi,3131,171,102.3,589.0,28.6
+357,525510,1,"Guns, Gore and Cannoli 2",2018-03-02,13500.0,4,4,Action,0,20,Action,13,0,0,very positive,very positive,single and multi,2921,176,55.5,560.0,81.9
+358,375820,1,Human Resource Machine,2015-10-16,15500.0,3,3,Casual,0,16,Programming,19,0,1,very positive,very positive,single only,3397,222,37.8,758.0,89.4
+359,846470,1,Moss,2018-02-27,31000.0,6,6,Action,0,38,Adventure,9,0,1,very positive,very positive,single only,2500,133,6.5,280.0,85.8
+360,939600,1,LOVE³ -Love Cube-,2019-07-26,10500.0,6,6,Casual,0,26,Sexual Content,4,0,1,very positive,very positive,single only,2192,121,15.8,377.0,98.2
+361,801630,1,UNDER NIGHT IN-BIRTH Exe:Late[cl-r],2018-08-21,41000.0,6,2,Action,0,44,2D Fighter,5,0,1,very positive,very positive,single only,2810,179,67.0,959.0,77.5
+362,1265820,1,Fights in Tight Spaces,2021-12-03,26000.0,6,5,Action,1,40,Strategy,7,0,1,very positive,very positive,single only,1838,119,86.4,1449.0,62.1
+363,588690,1,"Peace, Death!",2017-03-24,5500.0,4,4,Casual,0,126,Indie,10,0,1,very positive,very positive,single only,1794,105,4.4,170.0,80.6
+364,758990,1,Ancient Warfare 3,2017-12-22,10500.0,6,6,Action,0,33,Action,1,0,0,very positive,very positive,single only,1702,105,70.5,174.0,83.8
+365,1385380,1,Across the Obelisk,2021-04-08,21000.0,6,6,Adventure,1,107,Early Access,1,0,0,overwhelmingly positive,very positive,single and multi,1834,115,402.2,1086.0,85.0
+366,1078350,1,Ambrosia,2021-01-30,15500.0,1,1,Indie,0,0,Sexual Content,3,0,0,very positive,very positive,single only,1385,80,72.6,873.0,
+367,1210030,1,노베나 디아볼로스,2020-04-27,19500.0,6,6,Adventure,0,70,Simulation,1,0,1,very positive,very positive,single only,1282,80,13.4,528.0,96.4
+368,1621310,1,Atelier Sophie 2: The Alchemist of the Mysterious Dream,2022-02-25,69800.0,1,1,RPG,0,48,RPG,5,0,1,very positive,very positive,single only,1275,69,173.1,3604.0,93.8
+369,1173790,1,FINAL FANTASY III,2021-07-29,21900.0,1,1,RPG,0,31,RPG,12,0,0,very positive,very positive,single only,1191,67,71.8,1770.0,88.9
+370,1296840,1,The Spike,2020-06-05,5500.0,6,4,Action,0,21,Sports,5,0,1,very positive,very positive,single and multi,1002,57,80.3,236.0,91.9
+371,885000,1,Synth Riders,2018-07-12,26000.0,5,5,Action,0,8,VR,7,0,1,very positive,very positive,single only,1066,79,18.2,129.0,1.4
+372,383270,1,Hue,2016-08-31,16000.0,6,2,Adventure,0,13,Indie,5,0,1,very positive,very positive,single only,1674,105,3.9,46.0,91.5
+373,301320,1,NoLimits 2 Roller Coaster Simulation,2014-08-22,41000.0,6,6,Indie,0,0,Simulation,1,0,1,very positive,very positive,single only,952,52,78.0,563.0,
+374,1046820,1,I'm on Observation Duty,2018-12-14,2200.0,4,4,Indie,0,8,Indie,5,0,0,very positive,very positive,single only,878,53,26.2,149.0,25.8
+375,729000,1,Wytchwood,2021-12-10,20500.0,5,4,Adventure,0,14,Story Rich,7,0,1,very positive,very positive,single only,1010,53,31.9,337.0,80.9
+376,1328350,1,Turbo Overkill,2022-04-22,20500.0,6,4,Action,1,0,Action,1,0,0,very positive,very positive,single only,816,46,21.5,307.0,
+377,1364100,1,Lacuna – A Sci-Fi Noir Adventure,2021-05-20,16500.0,5,3,Adventure,0,25,Interactive Fiction,7,0,1,very positive,very positive,single only,1077,65,8.2,211.0,30.3
+378,1257410,1,Cat in the Box,2020-05-01,7500.0,5,5,Adventure,0,8,RPGMaker,6,0,1,very positive,very positive,single only,823,43,3.2,41.0,77.6
+379,397430,1,Zoombinis,2015-10-29,10500.0,6,6,Adventure,0,0,Casual,2,0,0,,very positive,single only,826,61,21.0,188.0,
+380,1802720,1,Sixtar Gate: STARTRAIL,2021-11-06,24900.0,6,5,Action,1,59,Action,3,0,1,very positive,very positive,single and multi,668,39,11.8,122.0,98.4
+381,1354910,1,Tiny Lands,2021-01-22,7500.0,6,6,Casual,0,13,Casual,13,0,0,very positive,very positive,single only,595,36,7.8,123.0,93.3
+382,1437820,1,Heroes of the Three Kingdoms,2020-11-13,1100.0,6,6,Action,0,0,Strategy,1,0,0,,very positive,single only,872,68,83.3,1557.0,
+383,1286280,1,Pronty,2021-11-19,18500.0,5,5,Action,0,44,Metroidvania,8,0,1,very positive,very positive,single only,465,21,7.3,114.0,82.0
+384,618950,1,Agatha Knife,2017-04-28,13000.0,5,5,Adventure,0,30,Indie,7,0,1,very positive,very positive,single only,370,21,2.6,19.0,79.2
+385,1357870,1,Metel - Horror Escape,2020-09-01,2200.0,6,6,Action,1,0,Indie,2,0,0,very positive,very positive,single only,285,17,14.8,48.0,
+386,1424710,1,Geneforge 1 - Mutagen,2021-02-24,20500.0,2,2,Adventure,0,30,CRPG,1,0,1,,very positive,single only,281,13,8.3,380.0,74.1
+387,1893620,1,Circadian Dice,2022-07-11,6500.0,6,6,Strategy,0,0,Roguelike Deckbuilder,1,0,0,,very positive,single only,192,9,224.6,359.0,
+388,551620,1,Approaching Infinity,2020-08-05,13500.0,5,5,Adventure,1,70,Early Access,1,0,1,,very positive,single only,166,13,5.6,39.0,44.0
+389,1476350,1,Brain Meltdown - Into Despair,2020-12-02,4400.0,6,6,Action,1,0,Indie,3,0,0,,very positive,single only,180,13,0.7,21.0,
+390,1337530,1,Maskmaker,2021-04-20,20500.0,5,4,Adventure,0,11,VR,3,0,0,,very positive,single only,163,10,,,85.3
+391,898890,1,Endling - Extinction is Forever,2022-07-19,0.0,6,4,Adventure,0,28,Adventure,27,0,1,,very positive,single only,164,8,54.6,80.0,95.2
+392,1890520,1,Tide Up,2022-03-11,8500.0,5,5,Adventure,0,20,RPGMaker,4,0,1,,very positive,single only,119,11,,,96.8
+393,1990260,1,Phantom Tentacle,2022-07-15,2200.0,4,4,Adventure,1,14,Early Access,28,0,1,,very positive,single only,93,7,4.4,14.0,96.3
+394,1986230,1,What if your girl was a frog?,2022-06-04,1100.0,4,4,Casual,0,12,Sexual Content,14,0,1,very positive,very positive,single only,90,5,1.2,7.0,93.0
+395,1931240,1,MOTHERGUNSHIP: FORGE,2022-06-17,20500.0,5,5,Action,0,20,Action,6,0,0,very positive,very positive,single and multi,70,4,5.7,20.0,92.5
+396,1923670,1,Venture Towns,2022-05-23,12000.0,2,2,Casual,0,6,Simulation,10,0,0,,very positive,single only,70,4,12.6,82.0,81.9
+397,1279380,1,STRIKERS 1945 II,2020-05-29,10500.0,4,4,Action,0,31,Action,4,0,0,,very positive,single and multi,62,3,,,81.5
+398,1785000,1,Mokoko X,2022-04-07,10500.0,5,5,Action,0,73,Anime,12,0,1,,very positive,single only,81,5,,,91.4
+399,440,1,Team Fortress 2,2007-10-10,0.0,1,1,Action,0,520,Free to Play,26,0,1,very positive,very positive,,823489,56682,115359.1,150037.0,53.5
+400,374320,1,DARK SOULS™ III,2016-04-12,49800.0,1,1,Action,0,43,Souls-like,12,0,1,very positive,very positive,single only,310320,21099,2924.6,129831.0,93.4
+401,49520,1,Borderlands 2,2012-09-20,21000.0,6,1,Action,0,75,Loot,8,0,1,very positive,overwhelmingly positive,single only,247807,16591,3483.8,123596.0,91.3
+402,322170,1,Geometry Dash,2014-12-23,4400.0,6,6,Action,0,120,Difficult,1,0,0,very positive,very positive,single only,182543,12372,7532.3,15038.0,86.7
+403,648800,1,Raft,2022-06-21,21000.0,6,6,Adventure,1,104,Survival,12,0,0,very positive,very positive,single and multi,182707,13303,42033.6,100474.0,93.0
+404,255710,1,Cities: Skylines,2015-03-11,32000.0,1,1,Simulation,0,116,City Builder,9,0,1,very positive,very positive,single only,187075,13176,15926.0,57421.0,76.4
+405,211820,1,Starbound,2016-07-23,16000.0,1,1,Action,0,51,Open World Survival Craft,1,0,1,very positive,very positive,single and multi,145897,11330,2024.5,88355.0,80.2
+406,391220,1,Rise of the Tomb Raider™,2016-02-10,29500.0,1,1,Action,0,143,Adventure,14,0,1,very positive,very positive,single only,105891,6868,851.9,44501.0,90.1
+407,674940,1,Stick Fight: The Game,2017-09-28,5500.0,2,2,Action,0,28,Multiplayer,1,0,1,very positive,very positive,,91544,6127,918.4,5033.0,78.5
+408,387990,1,Scrap Mechanic,2016-01-20,21000.0,6,6,Action,0,0,Building,11,0,0,very positive,very positive,single and multi,82951,6429,2276.8,46366.0,
+409,774171,1,Muse Dash,2019-06-20,3200.0,6,6,Action,0,0,Music,5,0,1,overwhelmingly positive,overwhelmingly positive,single only,66278,4417,,,
+410,219990,1,Grim Dawn,2016-02-26,26000.0,3,3,Action,0,185,Action RPG,13,0,1,very positive,very positive,single and multi,71793,4993,4672.1,61093.0,64.0
+411,613100,1,House Flipper,2018-05-17,26000.0,6,2,Indie,0,73,Simulation,22,0,1,overwhelmingly positive,very positive,single only,58861,4152,4126.1,12990.0,94.6
+412,1158310,1,Crusader Kings III,2020-09-02,52000.0,2,1,RPG,0,97,Strategy,7,0,1,very positive,very positive,single only,71549,5376,13788.8,98474.0,33.2
+413,516750,1,My Summer Car,2016-10-24,15500.0,3,3,Indie,0,76,Automobile Sim,2,0,0,very positive,very positive,single only,40718,2706,706.8,5509.0,78.0
+414,977950,1,A Dance of Fire and Ice,2019-01-25,6500.0,5,5,Indie,0,44,Rhythm,14,0,1,very positive,very positive,single only,39902,2662,1790.1,9247.0,80.7
+415,752590,1,A Plague Tale: Innocence,2019-05-15,39800.0,6,2,Action,0,35,Story Rich,14,1,1,very positive,very positive,single only,41519,2756,470.3,4030.0,83.6
+416,274170,1,Hotline Miami 2: Wrong Number,2015-03-11,16000.0,1,1,Action,0,29,Great Soundtrack,7,0,1,overwhelmingly positive,very positive,single only,40873,2841,351.6,18882.0,87.8
+417,286160,1,Tabletop Simulator,2015-06-06,21000.0,6,6,Casual,0,27,Tabletop,1,0,1,very positive,overwhelmingly positive,single and multi,50519,3496,4786.9,36793.0,79.8
+418,1147560,1,Skul: The Hero Slayer,2021-01-21,20500.0,2,2,Action,1,60,Indie,11,0,1,very positive,very positive,single only,32488,2338,1572.3,18876.0,88.1
+419,200710,1,Torchlight II,2012-09-21,16000.0,2,2,Action,0,119,RPG,7,0,0,very positive,very positive,single only,38104,2799,329.8,54010.0,82.9
+420,1282730,1,Loop Hero,2021-03-05,18000.0,6,1,Indie,0,50,Tactical,13,0,1,very positive,very positive,single only,26959,1817,769.5,51078.0,97.8
+421,326460,1,ShellShock Live,2020-05-23,7500.0,6,6,Action,0,58,Tanks,11,0,0,very positive,very positive,single and multi,28169,1974,591.3,7346.0,78.1
+422,50300,1,Spec Ops: The Line,2012-06-29,32000.0,6,1,Action,0,50,Story Rich,6,0,0,very positive,very positive,single only,44909,3373,87.6,13940.0,82.1
+423,384190,1,ABZU,2016-08-02,21000.0,6,2,Action,0,12,Relaxing,8,0,0,very positive,very positive,single only,20843,1589,17.6,1311.0,60.9
+424,208580,1,STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™,2005-02-08,10500.0,2,2,RPG,0,57,RPG,5,0,0,very positive,very positive,single only,18710,1330,683.8,6544.0,66.9
+425,673950,1,Farm Together,2018-10-12,20500.0,4,4,Casual,0,56,Agriculture,25,0,1,very positive,very positive,single and multi,16572,1030,2105.9,6843.0,91.6
+426,332800,1,Five Nights at Freddy's 2,2014-11-11,8500.0,6,6,Indie,0,0,Horror,1,0,0,very positive,very positive,single only,14403,988,23.4,1686.0,
+427,1703340,1,The Stanley Parable: Ultra Deluxe,2022-04-28,26000.0,3,3,Adventure,0,11,Multiple Endings,6,0,1,very positive,very positive,single only,13339,907,360.4,6477.0,94.9
+428,418530,1,Spelunky 2,2020-09-29,20500.0,4,4,Action,0,32,Platformer,12,0,1,very positive,very positive,single and multi,13924,1010,468.9,6937.0,79.2
+429,1256670,1,Library Of Ruina,2021-08-11,31000.0,2,2,Indie,1,76,Strategy,4,0,1,overwhelmingly positive,very positive,single only,13325,1002,1350.4,7211.0,82.7
+430,365450,1,Hacknet,2015-08-13,10500.0,5,2,Indie,0,11,Hacking,9,0,1,overwhelmingly positive,very positive,single only,19855,1371,422.8,127640.0,30.9
+431,246900,1,Viscera Cleanup Detail,2015-10-24,14000.0,5,5,Indie,0,85,Simulation,1,0,1,very positive,very positive,single and multi,15076,1105,376.9,1477.0,50.4
+432,1210320,1,Potion Craft: Alchemist Simulator,2021-09-22,15500.0,6,2,Indie,1,0,Early Access,14,0,0,very positive,very positive,single only,11619,823,353.2,7010.0,
+433,1206560,1,WorldBox - God Simulator,2021-12-03,20500.0,6,6,Indie,1,53,Early Access,27,0,0,very positive,very positive,single only,11397,737,1633.4,5139.0,43.6
+434,65800,1,Dungeon Defenders,2011-10-19,15500.0,6,6,Action,0,118,Multiplayer,5,0,1,very positive,very positive,single and multi,14503,1105,232.1,12467.0,53.6
+435,1966900,1,20 Minutes Till Dawn,2022-06-08,3300.0,6,6,Action,1,26,Early Access,13,0,0,very positive,very positive,single only,9206,684,2889.7,12680.0,68.1
+436,743450,1,Monster Prom,2018-04-27,,3,4,Indie,0,52,Dating Sim,3,0,1,very positive,very positive,single only,10272,717,149.7,1510.0,79.5
+437,388090,1,Five Nights at Freddy's 4,2015-07-24,8500.0,6,6,Action,0,0,Horror,1,0,0,very positive,very positive,single only,9527,744,14.7,1637.0,
+438,834530,1,Yakuza Kiwami,2019-02-20,22800.0,1,1,Action,0,55,Action,2,0,0,very positive,very positive,single only,12377,877,471.7,3406.0,87.2
+439,224760,1,FEZ,2013-05-02,10500.0,6,6,Indie,0,12,Platformer,9,0,1,very positive,very positive,single only,12490,1018,23.4,2526.0,81.2
+440,1016920,1,Unrailed!,2020-09-24,19500.0,5,2,Action,1,48,Open World Survival Craft,15,0,1,very positive,very positive,single and multi,12511,901,309.0,9651.0,45.6
+441,398710,1,Timberman,2015-09-19,1100.0,6,5,Action,0,20,Casual,1,0,0,very positive,very positive,single only,10133,670,14.5,4236.0,75.9
+442,1227890,1,Summer Memories,2020-06-15,20500.0,1,1,Adventure,0,0,Sexual Content,3,0,1,very positive,very positive,single only,7902,583,261.2,4903.0,
