@@ -10,7 +10,7 @@ import pandas as pd
 # steam web api doc : https://steamapi.xpaw.me/#IStoreService/GetAppList
 
 # 게임 아이디 csv 불러오기
-games = pd.read_csv("../UROP-game-prediction/prepare data/data/games_02.csv")
+games = pd.read_csv("../UROP-game-prediction/prepare data/data/topSellerGames.csv")
 games["review"] = None
 revw = ""
 
@@ -61,6 +61,11 @@ for i in range(0, total_num_game):  # 게임 아이디 수만큼 반복
     except NoSuchElementException:
         pass
 
+    try:
+        driver.find_element(By.CSS_SELECTOR, "#age_gate_btn_continue").click()
+    except NoSuchElementException:
+        pass
+
     # 한국어 리뷰 수집
     # 리스트 revw
     st = "div:nth-child(2) > div.apphub_CardContentMain > div.apphub_UserReviewCardContent > div.apphub_CardTextContent"
@@ -83,6 +88,6 @@ for i in range(0, total_num_game):  # 게임 아이디 수만큼 반복
     
     print()  # 그냥 줄내림
 
-    games.to_csv("../UROP-game-prediction/prepare data/data/gameWReview_02.csv")
+    games.to_csv("../UROP-game-prediction/prepare data/data/topSellGameWReview.csv")
     print("progress saved\n")
 # end of for
